@@ -30,9 +30,9 @@ uitspraak van 11 januari 2007 van de enkelvoudige kamer op grond van artikel 8:7
 
 inzake het geding tussen
 
-[eiser],
+[eiser] ,
 
-wonende te [woonplaats],
+wonende te [woonplaats] ,
 
 eiser,
 
@@ -56,9 +56,9 @@ De zaak is behandeld ter zitting van de rechtbank, gehouden op 7 december 2006. 
 
 Motivering
 
-Eiser is eigenaar van een op een perceel aan de Skiepereed te [woonplaats eiser] gelegen veestalling.
+Eiser is eigenaar van een op een perceel aan [adres 1] gelegen veestalling.
 
-Bij besluit van 28 juli 2005 heeft verweerder aan de gemeente Dongeradeel vrijstelling verleend voor het bouwrijp maken van de herstructureringslocatie en het uitbreidingsgebied van het dorp [woonplaats eiser]. Het gaat om locaties aan De Skeperij en De Koarte Bun, gesitueerd ten noordoosten van eisers perceel.
+Bij besluit van 28 juli 2005 heeft verweerder aan de gemeente Dongeradeel vrijstelling verleend voor het bouwrijp maken van de herstructureringslocatie en het uitbreidingsgebied van het dorp [woonplaats] . Het gaat om locaties aan [adres 2] en [adres 3] , gesitueerd ten noordoosten van eisers perceel.
 
 Bij besluit van 30 november 2005 heeft verweerder eisers bezwaar tegen deze vrijstelling niet-ontvankelijk verklaard, onder de overweging dat eiser niet als belanghebbende kan worden aangemerkt.
 
@@ -66,7 +66,7 @@ Bij uitspraak van 28 februari 2006 heeft de voorzieningenrechter van de rechtban
 
 Bij uitspraak van 4 mei 2006 heeft de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State (AbRS) bij wijze van voorlopige voorziening bepaald dat verweerder geen nieuwe beslissing op het bezwaar hoeft te nemen voordat de Afdeling op het hoger beroep heeft beslist. De voorzieningenrechter heeft ten aanzien van de ontvankelijkheid van eiser als zijn voorlopig oordeel uitgesproken dat het op voorhand niet aannemelijk wordt geacht dat eisers belang rechtstreeks is betrokken bij het vrijstellingsbesluit van 28 juli 2005.
 
-Bij besluit van 10 mei 2006 heeft verweerder een aan het besluit van 28 juli 2005 gelijkluidend vrijstellingsbesluit genomen. Eisers bezwaar hiertegen heeft verweerder bij het bestreden besluit niet-ontvankelijk verklaard. Verweerder stelt zich op het standpunt dat eiser niet als belanghebbende kan worden aangemerkt, omdat de geplande woningbouw op beide locaties geen enkele invloed heeft op de toegestane activiteiten op eisers perceel aan de Skieperreed.
+Bij besluit van 10 mei 2006 heeft verweerder een aan het besluit van 28 juli 2005 gelijkluidend vrijstellingsbesluit genomen. Eisers bezwaar hiertegen heeft verweerder bij het bestreden besluit niet-ontvankelijk verklaard. Verweerder stelt zich op het standpunt dat eiser niet als belanghebbende kan worden aangemerkt, omdat de geplande woningbouw op beide locaties geen enkele invloed heeft op de toegestane activiteiten op eisers perceel aan de [adres 1] .
 
 Eiser stelt zich op het standpunt dat verweerders handelwijze zich niet verdraagt met de Awb.
 
