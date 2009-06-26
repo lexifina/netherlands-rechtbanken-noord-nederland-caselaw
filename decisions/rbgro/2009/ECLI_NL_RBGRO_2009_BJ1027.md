@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-WOB. Verzoek opnebaarmaking strafdossier ten onrechte niet gehonoreerd. Verweerder heeft ten onrechte de aanvraag beoordeeld als een herhaalde aanvraag in de zin van artikel 4:6 Awb. Naar het oordeel van de rechtbank betreft het hier een ander verzoek dan het eerdere verzoek.
+WOB. Verzoek openbaarmaking strafdossier ten onrechte niet gehonoreerd. Verweerder heeft ten onrechte de aanvraag beoordeeld als een herhaalde aanvraag in de zin van artikel 4:6 Awb. Naar het oordeel van de rechtbank betreft het hier een ander verzoek dan het eerdere verzoek.
 
 ## Uitspraak
 
