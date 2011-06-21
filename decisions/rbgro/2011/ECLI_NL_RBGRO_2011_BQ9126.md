@@ -48,7 +48,7 @@ niet in rechte verschenen.
 
 PROCESVERLOOP
 
-De vrouw heeft op 18 maart 2011 een verzoekschrift ingediend ertoe strekkende, dat bij beschikking gegrond wordt verklaard haar ontkenning van het vaderschap van de man van het op 22 november 2010 in de gemeente Groningen geboren minderjarige kind A., kosten rechtens.
+De vrouw heeft op 18 maart 2011 een verzoekschrift ingediend ertoe strekkende, dat bij beschikking gegrond wordt verklaard haar ontkenning van het vaderschap van de man van het op [geboortedatum 2] 2010 in de gemeente Groningen geboren minderjarige kind A., kosten rechtens.
 
 Bij beschikking van deze rechtbank d.d. 5 april 2011 is mr. M.M. Rietveldt, advocaat te Hoogezand, tot bijzondere curator over de minderjarige benoemd.
 
@@ -68,9 +68,9 @@ vaststaande feiten
 
 Partijen zijn met elkaar gehuwd geweest.
 
-Uit hun huwelijk is op 31 december 1998 in de gemeente Utrecht het thans nog minderjarige kind B. geboren.
+Uit hun huwelijk is op [geboortedatum 1] 1998 in de gemeente Utrecht het thans nog minderjarige kind B. geboren.
 
-Op 22 november 2010 is de vrouw in de gemeente Groningen bevallen van het thans nog minderjarige kind A..
+Op [geboortedatum 2] 2010 is de vrouw in de gemeente Groningen bevallen van het thans nog minderjarige kind A..
 
 Bij beschikking van deze rechtbank d.d. 22 maart 2011 is tussen partijen de echtscheiding uitgesproken. Tevens is bepaald dat A. en B. hoofdverblijf bij de vrouw zullen hebben.
 
