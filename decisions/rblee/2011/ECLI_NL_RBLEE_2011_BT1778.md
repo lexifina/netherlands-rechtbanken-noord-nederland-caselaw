@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLEE:2011:BT1778"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2312", "V-N 2011/53.2.4", "FutD 2011-2282", "NTFR 2011/2426 met annotatie van mr. M.E. Kastelein, mr. F. van Horzen, mr. P.J. te Boekhorst"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2312", "V-N 2011/53.2.4", "FutD 2011-2282", "Viditax (FutD) 2011091902"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2013:BZ5773, Bekrachtiging/bevestiging"]]
 ---
 
