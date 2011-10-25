@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLEE:2011:BU2509"
-published_in: ["Rechtspraak.nl", "RAR 2012/23", "JAR 2011/304 met annotatie van mr. J.P.H. Zwemmer", "AR-Updates.nl 2011-0887"]
+published_in: ["Rechtspraak.nl", "RAR 2012/23", "JAR 2011/304 met annotatie van mr. J.P.H. Zwemmer", "AR-Updates.nl 2011-0887", "VAAN-AR-Updates.nl 2011-0887"]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-162.md", "netherlands/national/acts/bw-boek-7/art-611.md"]
 ---
 
