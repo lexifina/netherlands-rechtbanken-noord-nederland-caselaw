@@ -17,8 +17,6 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-022c.md", "net
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie:
-
 Verdachte is vrijgesproken van het medeplegen van poging tot doodslag en poging tot het toebrengen van zwaar lichamelijk letsel. Op basis van de in het dossier bewijsmiddelen heeft de rechtbank niet de overtuiging bekomen dat verdachte en/of zijn medepleger aangever tegen het hoofd heeft geschopt. Het subsidiair ten laste gelegde medeplegen van mishandeling wordt wel bewezen verklaard, nu de man heeft bekend aangever te hebben geslagen en hij de hulp heeft ingeroepen van zijn mededader, die aangever heeft geschopt. Aan de man wordt een werkstraf van 120 uren opgelegd. Tevens moet de man een schadevergoeding aan het slachtoffer betalen.
 
 ## Uitspraak
