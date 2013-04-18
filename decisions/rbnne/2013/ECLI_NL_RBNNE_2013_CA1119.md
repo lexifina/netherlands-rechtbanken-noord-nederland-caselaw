@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2013:CA1119"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1228", "Belastingadvies 2013/13.7", "V-N 2013/34.2.2", "FutD 2013-1383", "NTFR 2013/1342 met annotatie van mr. N. ten Broek"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1228", "Belastingadvies 2013/13.7", "V-N 2013/34.2.2", "NTFR 2013/1342 met annotatie van mr. N. ten Broek", "FutD 2013-1383", "Viditax (FutD) 2013052702"]
 ---
 
 # ECLI:NL:RBNNE:2013:CA1119 Rechtbank Noord-Nederland , 18-04-2013 / AWB LEE 12/767
