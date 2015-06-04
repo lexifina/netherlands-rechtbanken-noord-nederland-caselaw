@@ -9,14 +9,12 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2015:2668"
-published_in: ["Rechtspraak.nl", "FutD 2015-1483"]
+published_in: ["Rechtspraak.nl", "FutD 2015-1483", "Viditax (FutD) 2015060910"]
 ---
 
 # ECLI:NL:RBNNE:2015:2668 Rechtbank Noord-Nederland , 04-06-2015 / 19.996534-99
 
 ## Inhoudsindicatie
-
-Inhoudsindicatie:verdachte (Perenbloesem)
 
 De Noordelijke Fraudekamer heeft bij vonnis van heden de voormalig directeur van een gastouderbureau veroordeeld voor valsheid in geschrift en oplichting van de Belastingdienst en een groot aantal aangesloten ouders. Door het gastouderbureau werden aanvragen om kinderopvangtoeslag met terugwerkende kracht ingediend bij de Belastingdienst. Daarbij werd gebruik gemaakt van geantedateerde overeenkomsten met de vraag- en oppasouders, waardoor de suggestie werd gewekt dat er al op de beoogde ingangsdatum van de toeslag sprake was van een overeenkomst met een gastouderbureau, hetgeen voorwaarde is om een vergoeding voor de kosten van kinderopvang te kunnen krijgen. Doorgaans was overigens helemaal geen sprake van bekostigde kinderopvang in de periode waarover de toeslag werd aangevraagd, maar werden de kinderen gratis of voor een symbolisch bedrag opgevangen door familieleden of kennissen. Door ouders in strijd met de waarheid voor te houden dat zij toch een toeslag over deze periode konden krijgen, werden zij verleid om een overeenkomst met het gastouderbureau af te sluiten. Een deel van de door de Belastingdienst uitbetaalde geld kwam vervolgens ten goede aan het gastouderbureau en op die manier ook aan verdachte.
 
