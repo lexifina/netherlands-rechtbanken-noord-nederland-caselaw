@@ -16,8 +16,6 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie
-
 De Noordelijke Fraudekamer heeft bij vonnis van heden de verdachte in deze zaak vrijgesproken van (gewoonte)witwassen, nu uit het dossier onvoldoende blijkt dat hij wist of redelijkerwijs had moeten vermoeden dat het op zijn bankrekening geboekte geld van misdrijf afkomstig was.
 
 ## Uitspraak
