@@ -1,0 +1,292 @@
+---
+ecli: "ECLI:NL:RBNNE:2015:5497"
+court: "Rechtbank Noord-Nederland"
+court_code: "RBNNE"
+docket: "18.730199-15"
+decided: "2015-10-01"
+published: "2015-11-27"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2015:5497"
+published_in: ["Rechtspraak.nl"]
+cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-287.md"]
+---
+
+# ECLI:NL:RBNNE:2015:5497 Rechtbank Noord-Nederland , 01-10-2015 / 18.730199-15
+
+## Inhoudsindicatie
+
+De rechtbank veroordeelt verdachte voor het medeplegen van doodslag. Samen met de medeverdachte heeft hij meermalen ingeschopt op een persoon die op de grond lag. Daarbij heeft verdachte ook het hoofd geraakt. Verdachte wordt tot een gevangenisstraf van acht maanden veroordeeld, waarvan vier maanden voorwaardelijk. Tijdens de proeftijd van twee jaren mag verdachte geen alcohol gebruiken en moet hij zich onder behandeling laten stellen. Verder moet verdachte zich laten opnemen in een instelling voor begeleid wonen.
+
+Van een eerder voorwaardelijk opgelegde gevangenisstraf gelast de rechtbank de tenuitvoerlegging.
+
+## Uitspraak
+
+RECHTBANK NOORD-NEDERLAND
+
+Afdeling strafrecht
+
+Locatie Leeuwarden
+
+parketnummer 18/730199-15
+
+vordering na voorwaardelijke veroordeling parketnummer 18/187067-14
+
+vonnis van de meervoudige kamer voor de behandeling van strafzaken d.d. 1 oktober 2015 in de zaak van het openbaar ministerie tegen de verdachte
+
+[verdachte] ,
+
+geboren op [geboortedatum] te [geboorteplaats] ,
+
+thans gedetineerd in [verblijfplaats] .
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzitting van
+
+17 september 2015.
+
+De verdachte is verschenen, bijgestaan door mr. R.W. de Casseres, advocaat te Leeuwarden.
+
+Het openbaar ministerie werd ter terechtzitting vertegenwoordigd door mr. S.E. Eijzenga.
+
+Tenlastelegging
+
+Aan verdachte is ten laste gelegd dat:
+
+hij op of omstreeks 22 juni 2015 te [pleegplaats] , in elk geval in de gemeente Leeuwarden, ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk [slachtoffer] van het leven te beroven, met dat opzet, tezamen en in vereniging met een ander, althans alleen, meermalen, althans eenmaal, die [slachtoffer] , terwijl die [slachtoffer] op de grond lag, (met kracht) tegen en/of op het hoofd en/of een of meerdere ander(e) de(e)l(en) van het lichaam heeft getrapt en/of geschopt, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+althans, indien ter zake van het vorenstaande geen veroordeling mocht volgen, dat
+
+hij op of omstreeks 22 juni 2015 te [pleegplaats] , in elk geval in de gemeente Leeuwarden, tezamen en in vereniging met anderen of een ander, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om aan een persoon genaamd [slachtoffer] , opzettelijk zwaar lichamelijk letsel toe te brengen, met dat opzet, tezamen en in vereniging met een ander, althans alleen, meermalen, althans eenmaal,
+
+- die [slachtoffer] tegen het hoofd en/of een of meerdere ander(e) de(e)l(en) van het lichaam heeft gestompt en/of geslagen en/of
+
+- die [slachtoffer] , terwijl die [slachtoffer] op de grond lag, (met kracht) tegen en/of op het hoofd en/of een of meerdere ander(e) de(e)l(en) van het lichaam heeft getrapt en/of geschopt, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+althans, indien ter zake van het vorenstaande geen veroordeling mocht volgen, dat
+
+hij op of omstreeks 22 juni 2015 te [pleegplaats] , in elk geval in de gemeente Leeuwarden, tezamen en in vereniging met een ander, althans alleen, [slachtoffer] heeft mishandeld, immers heeft verdachte tezamen en in vereniging met een ander, althans alleen,
+
+- die [slachtoffer] tegen het hoofd en/of een of meerdere ander(e) de(e)l(en) van het lichaam gestompt en/of geslagen en/of
+
+- die [slachtoffer] , terwijl die [slachtoffer] op de grond lag, (met kracht) tegen en/of op het hoofd en/of een of meerdere ander(e) de(e)l(en) van het lichaam getrapt en/of geschopt.
+
+In de tenlastelegging voorkomende schrijffouten of kennelijke misslagen worden verbeterd gelezen. De verdachte is hierdoor niet in zijn belangen geschaad.
+
+Vordering officier van justitie
+
+De officier van justitie heeft ter terechtzitting gevorderd:
+
+- vrijspraak van het primair ten laste gelegde;
+
+- veroordeling voor het subsidiair ten laste gelegde;
+
+- oplegging van een gevangenisstraf voor de duur van vijf maanden, waarvan twee maanden voorwaardelijk met een proeftijd van twee jaren, met aftrek van het voorarrest;
+
+- oplegging van de bijzondere voorwaarden van een meldplicht bij de reclassering, ambulante behandeling, een alcoholverbod en opname in een begeleide c.q. beschermde woonvorm;
+
+- tenuitvoerlegging van de op 19 maart 2015 voorwaardelijk opgelegde gevangenisstraf van twee maanden;
+
+- hoofdelijke toewijzing van de vordering van de benadeelde partij [slachtoffer] tot een bedrag van € 1.028,-, waarvan € 1.000,- aan immateriële schadevergoeding;
+
+- oplegging van de schadevergoedingsmaatregel voor dat bedrag;
+
+- afwijzing van de vordering voor het overige.
+
+Beoordeling van het bewijs
+
+De officier van justitie heeft zich op het standpunt gesteld dat voor het primair ten laste gelegde feit geen wettig en overtuigend bewijs aanwezig is. Het slachtoffer is weliswaar tegen het hoofd geschopt, maar verdachten hebben niet het opzet gehad op diens dood.
+
+Door de raadsman is betoogd dat het primair noch het subsidiair ten laste gelegde feit kan worden bewezen, nu slechts vastgesteld kan worden dat tegen niet-kwetsbare delen van het lichaam is geschopt. Hij heeft zich op het standpunt gesteld dat het door verdachte toegepaste geweld dient te worden gekwalificeerd als een eenvoudige mishandeling.
+
+De rechtbank overweegt het volgende.
+
+[getuige 1] heeft verklaard dat het slachtoffer beurtelings door twee mannen in het gezicht werd getrapt, terwijl hij op de grond lag. Zij zag dat de twee mannen heel hard trapten. Hierop bloedde het slachtoffer uit zijn mond. De rechtbank hecht sterk aan deze verklaring, mede nu de getuige goed zicht heeft gehad op het gebeurde. Zij bevond zich naar eigen zeggen op ongeveer vijf meter afstand van de verdachten en het slachtoffer. De verklaring van [getuige 1] vindt steun in de verklaringen van de [getuige 2] en [getuige 3] . Zij verklaren beiden dat het slachtoffer, terwijl hij op de grond lag, meermalen werd geschopt door twee personen. Een verbalisant die het slachtoffer ter plaatse aantrof, constateerde dat deze bloedde aan zijn hoofd en dat zijn oogkassen waren opgezwollen. Verder blijkt uit de in het proces-verbaal opgenomen foto's dat het slachtoffer meerdere letsels aan zijn gezicht heeft.
+
+Verdachte heeft ter terechtzitting erkend het slachtoffer te hebben geschopt. Hij zou het slachtoffer daarbij echter niet tegen het hoofd hebben geraakt. De rechtbank acht dit laatste, gelet op de hiervoor besproken verklaringen en de geconstateerde letsels, ongeloofwaardig. De omstandigheid dat [getuige 2] en [getuige 3] hebben verklaard dat het slachtoffer tegen zijn lichaam werd geschopt, sluit naar het oordeel van de rechtbank geenszins uit dat het slachtoffer tegen zijn hoofd is geschopt. De rechtbank is op grond van de hierna opgenomen bewijsmiddelen tot de overtuiging gekomen dat verdachte het slachtoffer meermalen heeft geschopt, waarbij hij het slachtoffer onder meer tegen het hoofd heeft geraakt.
+
+Aan verdachte is primair poging tot doodslag ten laste gelegd. Voor een bewezenverklaring van dit feit is vereist dat verdachtes opzet gericht was op de dood van het slachtoffer. De ondergrens van opzet is opzet in voorwaardelijke zin. Van voorwaardelijk opzet op de dood van een persoon is sprake wanneer door het handelen van de verdachte een aanmerkelijke kans op de dood van het slachtoffer is ontstaan, alsmede dat deze kans bewust door de verdachte is aanvaard. Of een gedraging de aanmerkelijke kans op de dood doet ontstaan, is afhankelijk van de omstandigheden van het geval. Daarbij komt betekenis toe aan de aard van de gedraging en de omstandigheden waaronder deze is verricht. Het zal moeten gaan om een kans die naar algemene ervaringsregels aanmerkelijk is te achten.
+
+De rechtbank stelt vast dat verdachte meermalen hard heeft ingetrapt op het slachtoffer dat op dat moment weerloos op de grond lag. Hij heeft daarbij onder meer het meest kwetsbare deel van diens lichaam, namelijk het hoofd, geraakt. Naar algemene ervaringsregels ontstaat door dergelijk geweld, uitgeoefend op een kwetsbaar en vitaal onderdeel van het lichaam, een aanmerkelijke kans op het overlijden van het slachtoffer. Verdachte kon en moet zich dit hebben gerealiseerd. Door desondanks te handelen zoals hij heeft gehandeld, kan het niet anders dan dat verdachte de aanmerkelijke kans op het overlijden van het slachtoffer bewust heeft aanvaard. De rechtbank acht verdachte dan ook schuldig aan poging tot doodslag.
+
+Uit de bewijsmiddelen blijkt dat [medeverdachte] het slachtoffer eveneens - in  hetzelfde tijdsbestek - hard heeft geschopt, onder meer tegen diens hoofd. Hieruit maakt de rechtbank op dat verdachte in nauwe en bewuste samenwerking met de medeverdachte heeft gehandeld. De rechtbank zal daarom bewezen verklaren dat verdachte het feit in vereniging met de medeverdachte heeft gepleegd.
+
+De rechtbank past bij de beoordeling van het primair ten laste gelegde de volgende bewijsmiddelen toe.
+
+1. De door verdachte op de terechtzitting van 17 september 2015 afgelegde verklaring, voor zover inhoudende, zakelijk weergegeven:
+
+Ik heb [slachtoffer] op 22 juni 2015 te [pleegplaats] meerdere keren tegen het lichaam geschopt. [slachtoffer] lag op dat moment op de grond.
+
+2. De inhoud van een zaaksdossier, OPS-dossiernummer PL0100-2015178461, gesloten op 19 juli 2015, bestaande uit diverse processen-verbaal waaronder:
+
+2.1.
+
+een ambtsedig proces-verbaal, nummer PL0100-2015178461-1, d.d. 23 juni 2015 opgemaakt in wettelijke vorm door daartoe bevoegde opsporingsambtenaren, voor zover inhoudende, zakelijk weergegeven, als verklaring van [slachtoffer] :
+
+Op 22 juni 2015 trof ik [medeverdachte] en [verdachte] te [pleegplaats] . [medeverdachte] gaf mij een duw. Ik zag [verdachte] op mij afkomen. Ik kreeg een schop of klap in mijn gezicht. Na deze schop of klap werd het mij zwart voor de ogen. Ik heb meerdere trappen en klappen op mijn lichaam gekregen. Ik ben naar het ziekenhuis gebracht. Ik heb nog pijn over mijn gehele lichaam.
+
+2.2.
+
+een ambtsedig proces-verbaal, nummer PL0100-2015178461-27, d.d. 24 juni 2015 opgemaakt in wettelijke vorm door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende, zakelijk weergegeven, als verklaring van [getuige 1] :
+
+Op 22 juni 2015 zag ik te [pleegplaats] een jongen liggen. Ik zag dat er nog twee manspersonen stonden. Ik zag dat de twee mannen om beurten trapten tegen het gezicht van de jongen die op de grond lag. Ik denk dat ze beiden wel drie keer op het gezicht van die jongen getrapt hadden. Ze trapten echt op het hoofd van die jongen die op de grond lag. Ik zag dat ze heel hard trapten. Ik zag allemaal bloed uit de mond van die jongen komen.
+
+2.3.
+
+een ambtsedig proces-verbaal, nummer PL0100-2015178461-25, d.d. 24 juni 2015 opgemaakt in wettelijke vorm door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende, zakelijk weergegeven, als verklaring van [getuige 2] :
+
+Ik zag op 22 juni 2015 te [pleegplaats] dat twee personen op iemand aan het intrappen waren die op de grond lag. Er werd meerdere malen op de persoon geschopt. Ik kan u vertellen dat dit hard ging en dat ze de persoon die op de grond lag, raakten.
+
+2.4.
+
+een ambtsedig proces-verbaal, nummer PL0100-2015178461-26, d.d. 24 juni 2015 opgemaakt in wettelijke vorm door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende, zakelijk weergegeven, als verklaring van [getuige 3] :
+
+Op 22 juni 2015 omstreeks 18.00 uur zag ik te [pleegplaats] dat twee personen iemand die op de grond lag meerdere malen schopten en dat zij de persoon ook daadwerkelijk overal raakten.
+
+2.5.
+
+een ambtsedig proces-verbaal, nummer PL0100-2015178461-7, d.d. 22 juni 2015 opgemaakt in wettelijke vorm door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende, zakelijk weergegeven, als verklaring van verbalisant:
+
+Op 22 juni 2015 zag ik te [pleegplaats] een man zitten. Ik zag dat deze bloed aan zijn hoofd had en opgezwollen oogkassen had.
+
+2.6.
+
+een ambtsedig proces-verbaal met fotobijlage, nummer PL0100-2015178461-18,
+
+d.d. 29 juni 2015 opgemaakt in wettelijke vorm door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende, zakelijk weergegeven, als verklaring van verbalisant:
+
+Op 22 juni 2015 heb ik de verwondingen van het slachtoffer fotografisch vastgelegd. Het betreft verwondingen rondom de mond, de rechterzijde van het gezicht, het rechteroor, de linkerzijde van het gezicht en het linkeroor.
+
+Redengeving bewezenverklaring
+
+De rechtbank acht de in de bewijsmiddelen genoemde feiten en omstandigheden redengevend voor hetgeen hierna bewezen wordt verklaard. Op grond daarvan heeft de rechtbank de overtuiging bekomen dat verdachte het bewezen verklaarde heeft begaan.
+
+Bewezenverklaring
+
+De rechtbank acht het primair ten laste gelegde bewezen, met dien verstande dat:
+
+hij op 22 juni 2015 te [pleegplaats] , ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met een ander opzettelijk [slachtoffer] van het leven te beroven, met dat opzet, tezamen en in vereniging met een ander, meermalen die [slachtoffer] , terwijl die [slachtoffer] op de grond lag, met kracht tegen het hoofd en andere delen van het lichaam heeft getrapt, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid.
+
+De verdachte zal van het meer of anders ten laste gelegde worden vrijgesproken, aangezien de rechtbank dat niet bewezen acht.
+
+Strafbaarheid van het bewezen verklaarde
+
+Het bewezen verklaarde levert op:
+
+Primair: medeplegen van poging tot doodslag.
+
+Dit feit is strafbaar nu geen omstandigheden aannemelijk zijn geworden die de strafbaarheid uitsluiten.
+
+Strafbaarheid van verdachte
+
+De rechtbank acht verdachte strafbaar nu niet van enige strafuitsluitingsgrond is gebleken.
+
+Strafmotivering
+
+Bij de bepaling van de straf heeft de rechtbank rekening gehouden met de aard en de ernst van het bewezen en strafbaar verklaarde, de omstandigheden waaronder dit is begaan, de persoon van verdachte zoals deze naar voren is gekomen uit het onderzoek op de terechtzitting en de over hem door Verslavingszorg Noord Nederland d.d. 14 september 2015 opgemaakte rapportage, het verdachte betreffende uittreksel uit de justitiële documentatie, alsmede de vordering van de officier van justitie en het pleidooi van de raadsman.
+
+De rechtbank heeft in het bijzonder het volgende in aanmerking genomen. Verdachte heeft samen met een ander het weerloos op de grond liggende slachtoffer meermalen geschopt, onder meer tegen diens hoofd. Daarbij is aan het slachtoffer pijn en letsel toegebracht. Het feit heeft in de openbare ruimte plaatsgevonden, waardoor bij omstanders gevoelens van onveiligheid en afschuw zijn ontstaan. De rechtbank rekent verdachte dit alles aan.
+
+Uit het strafblad van verdachte blijkt dat hij zich eerder aan strafbare feiten heeft schuldig gemaakt, maar dat geen sprake is van eerdere geweldsdelicten. De reclassering contstateert dat sprake is van problemen op velerlei leefgebieden, waardoor de kans op recidive hoog/gemiddeld wordt ingeschat. Het alcoholgebruik van verdachte is, in combinatie met de aanwezigheid van PDD-NOS en PTSS, een risicofactor. De reclassering adviseert daarom de oplegging van een aantal bijzondere voorwaarden, waaronder ambulante behandeling voor voornoemde stoornissen. Verder acht de reclassering opname van verdachte in een instelling voor beschermd c.q. begeleid wonen en een alcoholverbod aangewezen. Verdachte heeft ter terechtzitting aangegeven gemotiveerd te zijn voor behandeling en opname in een instelling voor begeleid wonen.
+
+Nu de rechtbank het primaire feit bewezen heeft geacht, zal zij een zwaardere straf opleggen dan door de officier van justitie is gevorderd. Een gevangenisstraf van acht maanden, waarvan vier maanden voorwaardelijk met een proeftijd van twee jaar, acht de rechtbank, alles afwegend, passend en geboden. De rechtbank kan zich vinden in het door de reclassering voorgestelde begeleidings- en behandeltraject. Aan het voorwaardelijk strafdeel zal de rechtbank dan ook de geadviseerde bijzondere voorwaarden verbinden.
+
+Benadeelde partij
+
+[slachtoffer] heeft zich voor de aanvang van de terechtzitting als benadeelde partij in het strafproces gevoegd door middel van indiening van het voorgeschreven formulier bevattende de opgave van een vordering tot vergoeding van door hem geleden schade ten gevolge van het aan verdachte primair ten laste gelegde en bewezen verklaarde feit alsmede de gronden waarop deze berust.
+
+De rechtbank is van oordeel dat het materiële deel van de gestelde schade voldoende aannemelijk is geworden en in zodanig verband staat met het door verdachte gepleegde strafbare feit, dat deze aan hem als een gevolg van zijn handelen kan worden toegerekend. De rechtbank acht de vordering, die niet dan wel onvoldoende door verdachte en diens raadsman is weersproken, in zoverre derhalve gegrond en voor hoofdelijke toewijzing vatbaar.
+
+Naar het oordeel van de rechtbank is daarnaast komen vast te staan dat aan de benadeelde partij door het bewezen verklaarde rechtstreeks immateriële schade is toegebracht, die de rechtbank in redelijkheid en billijkheid vaststelt op € 500,00. De rechtbank zal het immateriële deel van de vordering dan ook hoofdelijk toewijzen tot dat bedrag.
+
+De rechtbank acht daarnaast oplegging van de schadevergoedingsmaatregel aangewezen nu verdachte jegens de benadeelde partij naar burgerlijk recht aansprakelijk is voor de schade.
+
+Het overige gedeelte van de vordering van de benadeelde partij zal de rechtbank afwijzen.
+
+Vordering na voorwaardelijke veroordeling
+
+Bij onherroepelijk geworden vonnis van 19 maart 2015, gewezen door de meervoudige kamer in deze rechtbank, is de verdachte veroordeeld tot - voor zover hier van belang - een gevangenisstraf voor de duur van 2 maanden voorwaardelijk met een proeftijd van 2 jaren. De proeftijd is ingegaan op 3 april 2015.
+
+De officier van justitie heeft bij vordering d.d. 18 augustus 2015 de tenuitvoerlegging gevorderd van deze straf.
+
+Het hiervoor bewezen verklaarde feit is door verdachte begaan voor het einde van de voornoemde proeftijd. Nu de veroordeelde de in het vonnis gestelde algemene voorwaarde niet heeft nageleefd, zal de rechtbank de tenuitvoerlegging gelasten van de hem bij dat vonnis voorwaardelijk opgelegde gevangenisstraf.
+
+Toepassing van wetsartikelen
+
+De rechtbank heeft gelet op de artikelen 14a, 14b, 14c, 14d, 14g, 36f, 45, 47 en 287 van het Wetboek van Strafrecht, zoals deze artikelen golden ten tijde van het bewezen verklaarde.
+
+DE UITSPRAAK VAN DE RECHTBANK LUIDT:
+
+Verklaart het primair ten laste gelegde bewezen, te kwalificeren en strafbaar zoals voormeld en verdachte daarvoor strafbaar.
+
+Veroordeelt verdachte tot:
+
+Een gevangenisstraf voor de duur van acht maanden.
+
+Bepaalt dat van deze gevangenisstraf een gedeelte, groot vier maanden, niet zal worden ten uitvoer gelegd, tenzij de rechter later anders mocht gelasten op grond dat de veroordeelde voor het einde van of gedurende de proeftijd, welke hierbij wordt vastgesteld op twee jaren, een hierna te noemen algemene of bijzondere voorwaarde niet heeft nageleefd.
+
+Beveelt dat de tijd door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf geheel in mindering zal worden gebracht.
+
+Stelt als algemene voorwaarden:
+
+1. dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit;
+
+2. dat de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt;
+
+3. dat de veroordeelde medewerking verleent aan het reclasseringstoezicht als bedoeld in artikel 14d, tweede lid, van het Wetboek van Strafrecht, de medewerking aan huisbezoeken daaronder begrepen.
+
+Stelt als bijzondere voorwaarden:
+
+1. dat de veroordeelde zich binnen zeven dagen na afloop van zijn detentie meldt bij Verslavingszorg Noord Nederland, Oostergoweg 6, 8932 PG Leeuwarden en zich daar blijft melden zo lang en zo frequent als de reclassering dit noodzakelijk acht;
+
+2. dat de veroordeelde zich gedurende de proeftijd, of zoveel korter als de reclassering dit wenselijk acht, zal onthouden van het gebruik van alcohol en zich verplicht ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;
+
+3. dat de veroordeelde zich gedurende de proeftijd, of zoveel korter als de reclassering dat in overleg met zijn behandelaars wenselijk acht, onder behandeling zal stellen van de (forensische) verslavingszorg of soortgelijke ambulante forensische zorg, op de tijden en plaatsen als door of namens die instelling aan te geven, teneinde zich te laten behandelen voor PDD-NOS, PTSS en alcoholverslaving;
+
+4. dat de veroordeelde gedurende de proeftijd, of zoveel korter als de reclassering dat geraden acht, zal verblijven in een begeleide dan wel beschermde woonvorm van Verslavingszorg Noord Nederland of een soortgelijke instelling, en zich zal houden aan het (dag-)programma dat deze instelling in overleg met de reclassering heeft opgesteld.
+
+Draagt de reclassering op toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.
+
+Verklaart niet bewezen hetgeen aan verdachte meer of anders is ten laste gelegd dan het bewezen verklaarde en spreekt verdachte daarvan vrij.
+
+Heft op het bevel tot voorlopige hechtenis met ingang van het tijdstip waarop de duur van deze hechtenis gelijk wordt aan de duur van de aan verdachte onvoorwaardelijk opgelegde gevangenisstraf.
+
+Wijst de vordering van de benadeelde partij, [slachtoffer] toe tot het hierna te noemen bedrag en veroordeelt verdachte mitsdien tot betaling aan deze benadeelde partij van een bedrag van € 528,00 (zegge: vijhonderdachtentwintig euro), te vermeerderen met de wettelijke rente vanaf 22 juni 2015 en in dier voege, dat indien dit bedrag door de mededader(s) van verdachte geheel of gedeeltelijk is of wordt betaald, verdachte in zoverre is of zal zijn bevrijd.
+
+Wijst de vordering van de benadeelde partij voor het overige af.
+
+Veroordeelt verdachte in de kosten van het geding door de benadeelde partij gemaakt en ten behoeve van de tenuitvoerlegging van deze uitspraak alsnog te maken, tot heden begroot op nihil.
+
+Legt aan verdachte de verplichting op aan de staat, ten behoeve van het slachtoffer [slachtoffer] , te betalen een bedrag van € 528,00 (zegge: vijhonderdachtentwintig euro), bij gebreke van betaling en verhaal te vervangen door hechtenis voor de duur van tien dagen, met dien verstande dat de toepassing van de vervangende hechtenis de hiervoor opgelegde verplichting niet opheft en in dier voege, dat indien dit bedrag door de mededader(s) van verdachte geheel of gedeeltelijk is of wordt betaald, verdachte in zoverre is of zal zijn bevrijd. Dit bedrag bestaat uit € 28,00 aan materiële schade en € 500,00 aan immateriële schade.
+
+Bepaalt daarbij dat, indien verdachte heeft voldaan aan de verplichting tot betaling aan de staat ten behoeve van het slachtoffer [slachtoffer] , daarmee de verplichting van verdachte om aan de benadeelde partij dit bedrag te betalen komt te vervallen en omgekeerd, dat, indien verdachte aan de benadeelde partij het opgelegde bedrag heeft betaald, daarmee de verplichting tot betaling aan de staat van dit bedrag komt te vervallen.
+
+Bepaalt dat het te betalen bedrag wordt vermeerderd met de wettelijke rente vanaf
+
+22 juni 2015.
+
+Beslissing op de vordering na voorwaardelijke veroordeling onder parketnummer
+
+18/187067-14:
+
+Gelast de tenuitvoerlegging van de gevangenisstraf, voor zover voorwaardelijk opgelegd bij vonnis van de meervoudige strafkamer te Leeuwarden d.d. 19 maart 2015, te weten: een gevangenisstraf voor de duur van twee maanden.
+
+Dit vonnis is gewezen door mr. A.H.M. Dölle, voorzitter, mr. J.Y.B. Jansen en
+
+mr. N.A. Vlietstra, rechters, bijgestaan door mr. J.C. Huizenga, griffier, en uitgesproken ter openbare terechtzitting van deze rechtbank op 1 oktober 2015.
+
+w.g.
+
+Dölle
+
+VOOR EENSLUIDEND AFSCHRIFT
+
+Jansen
+
+de griffier van de rechtbank Noord-Nederland,
+
+Vlietstra
+
+locatie Leeuwarden,
+
+Huizenga
