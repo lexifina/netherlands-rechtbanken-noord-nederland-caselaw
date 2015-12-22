@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2015:5807"
-published_in: ["Rechtspraak.nl", "AR 2015/2709", "PJ 2016/36", "AR-Updates.nl 2015-1335", "PR-Updates.nl AR-2015-1335"]
+published_in: ["Rechtspraak.nl", "AR 2015/2709", "PJ 2016/36", "AR-Updates.nl 2015-1335", "PR-Updates.nl AR-2015-1335", "PR-Updates.nl 2015-1335"]
 ---
 
 # ECLI:NL:RBNNE:2015:5807 Rechtbank Noord-Nederland , 22-12-2015 / KL-3151795 CV EXPL 14-6724 E
