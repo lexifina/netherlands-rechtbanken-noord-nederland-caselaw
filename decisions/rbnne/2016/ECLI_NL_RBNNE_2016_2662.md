@@ -1,0 +1,330 @@
+---
+ecli: "ECLI:NL:RBNNE:2016:2662"
+court: "Rechtbank Noord-Nederland"
+court_code: "RBNNE"
+docket: "18.830126-15"
+decided: "2016-03-07"
+published: "2016-06-06"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2016:2662"
+published_in: ["Rechtspraak.nl"]
+cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "netherlands/national/acts/wetboek-van-strafrecht/art-139f.md", "netherlands/national/acts/wetboek-van-strafrecht/art-243.md", "netherlands/national/acts/wetboek-van-strafrecht/art-248.md"]
+---
+
+# ECLI:NL:RBNNE:2016:2662 Rechtbank Noord-Nederland , 07-03-2016 / 18.830126-15
+
+## Inhoudsindicatie
+
+De rechtbank legt aan verdachte een onvoorwaardelijke gevangenisstraf op voor de duur van 15 maanden, voor de volgende feiten:
+
+1. Medeplegen van met iemand van wie de dader weet dat zij in staat van verminderd bewustzijn en in staat van lichamelijke onmacht verkeert handelingen plegen die mede bestaan uit het seksueel binnendringen van het lichaam. (artikelen 243 en 248 Sr)
+
+2. Medeplegen van gebruik makende van een technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, opzettelijk en wederrechtelijk van een persoon, aanwezig in een woning, een afbeelding vervaardigen. (artikel 139f Sr)
+
+Verdachte en zijn twee mededaders hebben een vrouw die in staat van verminderd bewustzijn en lichamelijke onmacht verkeerde vaginaal met een bierflesje gepenetreerd en met een plantenstengel over haar vagina gewreven. Tevens hebben zij deze handelingen met een mobiele telefoon gefilmd.
+
+## Uitspraak
+
+RECHTBANK NOORD-NEDERLAND
+
+Afdeling strafrecht
+
+Locatie Groningen
+
+parketnummer 18/830126-15
+
+vonnis van de meervoudige kamer voor de behandeling van strafzaken d.d. 7 maart 2016 in de zaak van het openbaar ministerie tegen de verdachte
+
+[verdachte] ,
+
+geboren op [geboortedatum] te [geboorteplaats] ,
+
+niet als ingezetene ingeschreven in de basisadministratie persoonsgegeven en
+
+zonder bekende feitelijke woon- of verblijfplaats in Nederland.
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzitting van
+
+22 februari 2016.
+
+De verdachte is niet verschenen. Het openbaar ministerie werd ter terechtzitting vertegenwoordigd door mr. P.F. Hoekstra.
+
+Tenlastelegging
+
+Aan verdachte is ten laste gelegd dat:
+
+1.
+
+hij in of omstreeks de periode van 4 oktober 2014 tot en met 5 oktober 2014, althans in de maand oktober 2014, tezamen en in vereniging met een of meer ander(en) althans alleen, te [pleegplaats] , gemeente Pekela, met [slachtoffer] , van wie hij, verdachte, wist dat deze in staat van bewusteloosheid, verminderd bewustzijn of lichamelijke onmacht verkeerde,
+
+een of meer handelingen heeft gepleegd, die bestonden uit of mede bestonden uit het seksueel binnendringen van het lichaam van [slachtoffer] , te weten
+
+-het uittrekken van de broek en/of onderbroek van [slachtoffer] en/of
+
+-het uit elkaar duwen van de benen van [slachtoffer] en/of
+
+-het duwen van een bierfles in de vagina van [slachtoffer] en/of
+
+-het wrijven met een stengel en/of bloem van een plant over de vagina van [slachtoffer] ;
+
+2.
+
+hij in of omstreeks de periode van 4 oktober 2014 tot en met 5 oktober 2014 te [pleegplaats] , gemeente Pekela, tezamen en in vereniging met (een) ander(en), althans alleen, gebruik makende van een technisch hulpmiddel, te weten een mobiele telefoon, waarvan de aanwezigheid niet op duidelijke wijze kenbaar was gemaakt, opzettelijk en wederrechtelijk van een persoon, te weten [slachtoffer] , aanwezig in een woning te weten het [adres] te [pleegplaats] , een afbeelding (een film) heeft vervaardigd.
+
+Beoordeling van het bewijs
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft geconcludeerd dat het onder 1 en 2 ten laste gelegde kan worden bewezen.
+
+Het oordeel van de rechtbank
+
+De rechtbank past ten aanzien van het onder 1 en 2 ten laste gelegde de volgende bewijsmiddelen toe die de voor de bewezenverklaring redengevende feiten en omstandigheden bevatten zoals hieronder zakelijk weergegeven. Ieder bewijsmiddel is  - ook in onderdelen - slechts gebruikt voor het feit waarop het blijkens zijn inhoud betrekking heeft.
+
+1. Een naar wettelijk voorschrift opgemaakt proces-verbaal van bevindingen van Politie Noord-Nederland d.d. 26 maart 2015, opgenomen op pagina 7 e.v. van het dossier met nummer 2014154429 d.d. 26 maart 2015, inhoudende de relatering van verbalisanten:
+
+(p. 11) Omschrijving van de film, in beeld en geluid, die in de nacht van 4 op 5 oktober 2014 in de woning van verdachte aan [adres] te [pleegplaats] met de mobiele telefoon van verdachte is opgenomen.
+
+Opmerkingen ten aanzien van beeld en geluid:
+
+Het filmpje duurt 1 minuut en 50 seconden. Je ziet een vrouw op de rug liggen. Zij heeft een shirt aan. Het onder lichaam is ontbloot. Ze heeft haar broek halverwege haar benen. Zowel links als rechts van haar bevindt zich een andere vrouw. Aan de stem te horen staat links voor haar een man die het geheel filmt. De tussen beide vrouwen liggende vrouw ligt bewegingsloos. Ze reageert niet. Zij wordt gedurende de hele film met de bierfles gepenetreerd. Opvallend is dat ze haar linkerhand op de binnenkant van het linker bovenbeen heeft liggen.  Gedurende de hele film verroert zij die hand niet. Op het filmpje wordt voornamelijk in een Gronings dialect gesproken. Je hoort in ieder geval één man spreken. Mede gelet op de tekst die te horen is lijkt het erop dat hij de regie heeft.
+
+In het filmpje zie je op verschillende momenten een vrouw. In totaal (naast de vrouw die op rug ligt; toevoeging van de rechtbank) twee vrouwen zijn te zien. Je ziet een vrouw met blond lang haar. Ze heeft het haar in een staart vast achter op het hoofd. Zij is de vrouw die gedurende de hele film met een bierfles de vagina penetreert. Zij zit aan de rechterzijde van de liggende vrouw. Op een gegeven moment zie je dat aan de linkerkant van de liggende vrouw een andere vrouw zit. Zij heeft kort donker haar. Op een gegeven moment heeft de vrouw met het donkere haar een stengel van een bloeiende plant in
+
+de hand. Zij beweegt die stengel naar de vagina van de liggende vrouw. De blonde vrouw neemt de stengel over. Zij gaat met de stengel (wortels) naar de vagina. De plant beroert de vagina. Op een gegeven moment in de film zie je dat de vrouw met het donkere haar een flinke duw tegen de achterzijde van de bierfles geeft. Op een gegeven moment wordt er gesproken over een "stront vlekke". Je ziet kort daarop dat de vrouw met het donkere haar de broek van de in het midden liggende vrouw nog een stuk naar beneden doet.
+
+Weergave van beluisterde gesprekken ("Vr" staat voor een van de twee vrouwen en "M" staat voor de man):
+
+Vr: "most mie der nait opzetnn".
+
+M: "Nee, nee, nee — O shit. Klein stukje moeilijk komt nee. Oooh lekker ... Yes Yes....kijk es kijk es.
+
+M: "Most hem daiper, most hem daiper in hebnn, daiper"
+
+Vr: "iiieeel stront vlekke"
+
+M: "iiieeel das toch niet normaal"
+
+Vr: "kan ook bie mie lignn."
+
+Vr: "gatverdamme dat is vies"
+
+Vr: "dai broek"
+
+M: "Beste proeme"
+
+M: "Kiek es"
+
+Vr: lacht
+
+M: "Ze wordt wel nat of nait"
+
+Vr: lachen
+
+M: "Nee, nee, nee"
+
+Vr: "hest gain dildo hier?"
+
+M: "nee, anders had ik hem zelf in doan"
+
+Vr: "hest dikke gooi hem der dan in"
+
+M: "Nee jong"
+
+Vr: "zit der duun in?"
+
+M: "Alle der bie in  Stop de O nee shit sorry."
+
+Vr: "heb je fruitmanden den
+
+M: "straks hebben we troep"
+
+Vr: "wat wil je. wat mot ik doun?"
+
+M: "laten we gewoon hier liggen. Alleen omhoog."
+
+Vr: "ja"
+
+M: "Eerst even klaarkomen."
+
+Vr: kreunt
+
+M: "Ja"
+
+Vr: "Lampie op zetnn."
+
+Vr: kreunt harder dan net. "ja"
+
+M: "Ooh die fles is zo aan"
+
+Vr: "Ooh wat fijn"
+
+M: "Ooh lekker.
+
+Vr: "Vind dit heel vies hoor."
+
+M: "Ja ziet er goed uit 	 "
+
+Vr: "maar nait nat he"
+
+Vr: "Nee"
+
+M: "Ik heb nog nooit Vind wel goed zo. Heb genoeg gezien."
+
+2. Waarneming van de rechtbank ter terechtzitting:
+
+De rechtbank stelt vast dat de beelden en het geluid zoals hiervoor door verbalisanten zijn omschreven overeenkomen met de inhoud van de zich in het dossier bevindende DVD-rom, met dien verstande dat waar de verbalisanten t.a.v. de weergave van de beluisterde gesprekken opmerken dat “Vr” staat voor “een van de twee vrouwen”, de rechtbank voor “Vr” telkens leest ”een van de vrouwen” omdat de rechtbank op grond van de eigen waarneming niet met zekerheid kan zeggen dat van twee dan wel van meer dan twee vrouwenstemmen sprake is.
+
+3. Een naar wettelijk voorschrift opgemaakt proces-verbaal van verhoor van Politie Noord-Nederland d.d. 9 december 2014, opgenomen op pagina 25 e.v. van voornoemd dossier, inhoudende de verklaring van [slachtoffer] (in vraag- en antwoordstijl):
+
+(p. 27) Ik kreeg een black-out en de volgende morgen dacht ik, wat doe ik hier nog.
+
+(p. 28) Die zaterdag 4 oktober is het gebeurd. Ik had een raar gevoel toen ik daar weg kwam. Voordat ik bij [voornaam] (de rechtbank begrijpt: verdachte) thuiskwam, had ik 4 biertjes gedronken. Bij [verdachte] thuis dronk ik nog een biertje. Na het bier kreeg ik een sterk drankje. Ik wilde dat eigenlijk niet hebben. [voornaam 2] (de rechtbank begrijpt: [medeverdachte 1] )  zei tegen mij, dat ik het maar op moest drinken. Ik nam een slokje en toen ging bij mij het lampje uit.
+
+(p. 29) Dat is echt het laatste wat ik weet.
+
+(p. 30) Mijn vagina was branderig. Ik heb drie dagen een branderig gevoel gehad.
+
+(p. 32) Opmerking: Er wordt een laptop geregeld om de beelden te kunnen bekijken.
+
+A: Ik herken gelijk de stem van [verdachte] , [voornaam 3] (de rechtbank begrijpt: [medeverdachte 2] ) en [medeverdachte 1] . [medeverdachte 2] stond rechts op de film en [medeverdachte 1] stond links op de film.
+
+4. Een naar wettelijk voorschrift opgemaakt proces-verbaal van bevindingen van Politie Noord-Nederland d.d. 11 december 2014, opgenomen op pagina 39 (met bijlage op pagina 40 e.v.) van voornoemd dossier, inhoudende de relatering van verbalisant:
+
+[slachtoffer] had mij verteld dat ze via een chat op Facebook van [getuige] had gehoord dat er een filmpje van haar rond ging. Ik heb vervolgens het relevante chatgesprek tussen [alias slachtoffer] (lees: [slachtoffer] ) en [getuige] uitgeprint. Ze vertelde dat ze zich zelf, om veiligheidsredenen door een huiselijk geweld situatie, op Facebook [alias slachtoffer] noemt.
+
+een deel van het chatgesprek:
+
+27-10-2014 1:18 [getuige] 	heb je die filmpje wel gezien die [medeverdachte 1] van je
+
+heeft b gemaakt
+
+27-10-2014 1:20 [alias slachtoffer]		ik had vermoeden die nacht dat er iets door mijn drinken was gegooid
+
+27-10-2014 1:21 [alias slachtoffer] 		ik mis een deel van die nacht namelijk
+
+27-10-2014 23:33 [getuige] 	die [medeverdachte 1] heeft je verkracht met een bierfies hebben ze filmpjes van gemaakt dat ze een bierfles in je kut stopt
+
+27-10-2014 23:55 [alias slachtoffer]  	godverdomme daar had ik wat bloeding dus van de volgende morgen
+
+5. Een naar wettelijk voorschrift opgemaakt proces-verbaal van verhoor van Politie Noord-Nederland d.d. 25 maart 2015, opgenomen op pagina 115 e.v. van voornoemd dossier, inhoudende als verklaring van verdachte (in vraag- en antwoordstijl):
+
+(p. 118) Toen ik de woonkamer binnen liep waren zij al bezig.
+
+V: Wat zie je dan?
+
+A: [slachtoffer] lag op de bank toen ik de woonkamer binnen kwam. Ze waren iets in de vagina aan het drukken. Een fles.
+
+V: Wie deed dat?
+
+A: [medeverdachte 1] .
+
+(p. 119) V: Waar film jij dat mee?
+
+A: Met mijn telefoon.
+
+(p. 117) [medeverdachte 1] is een pittige tante. Ze zei: " [verdachte] neem even een filmpje”.
+
+(p. 118) V: Op het filmpje is te zien dat [slachtoffer] haar onderkleding uit heeft. Wie heeft de kleding uitgedaan?
+
+A: Ik denk [medeverdachte 1] . Omdat zij sterker is dan [medeverdachte 2] . Of misschien allebei, dat weet ik niet.
+
+6. Een naar wettelijk voorschrift opgemaakt proces-verbaal van verhoor van Politie Noord-Nederland d.d. 25 maart 2015, opgenomen op pagina  234 e.v. van voornoemd dossier, inhoudende als verklaring van [medeverdachte 1] (in vraag- en antwoordstijl):
+
+(p. 243) O: De laptop wordt aangezet en de film ook om 14.36 uur.
+
+(p. 244) V. Wie hoorde jij praten of geluid maken?
+
+A. Alle drie, [medeverdachte 2] , [verdachte] en ik.
+
+(p. 245) V: Wat doen jullie, hoe heet dat?
+
+A: Ongewenste seks met haar terwijl ze niet bij is, dat was ze niet, ze was er niet bij.
+
+7. Een naar wettelijk voorschrift opgemaakt proces-verbaal van verhoor van Politie Noord-Nederland d.d. 24 maart 2015, opgenomen op pagina 160 e.v. van voornoemd dossier, inhoudende als verklaring van [medeverdachte 2] (in vraag- en antwoordstijl):
+
+(p. 162) V: Toen jij in de woning kwam, wie waren er toen?
+
+A: Er was een nicht van [medeverdachte 1] , ze noemen haar [afkorting voornaam] (de rechtbank begrijpt [slachtoffer] ). En [verdachte] was er. Dat waren de drie die daar waren.
+
+De rechtbank overweegt ten aanzien van het onder 1 en 2 ten laste gelegde als volgt.
+
+Verdachte heeft bij de politie verklaard dat hij van de handelingen niet veel heeft meegekregen en dat hij zich er verder niet mee heeft bemoeid (p. 119).
+
+De rechtbank leidt evenwel uit de gebezigde bewijsmiddelen af dat de met het slachtoffer verrichte handelingen feitelijk niet door verdachte zijn uitgevoerd, maar dat hij bij de uitoefening ervan door zijn medeverdachten wel een actieve rol heeft gespeeld. Uit de in de zittingzaal getoonde beelden van de genoemde DVD-rom is immers gebleken dat verdachte, de medeverdachten aanspoort de bierfles dieper in de vagina van het slachtoffer te brengen en dat hij daarbij zegt "Oooh lekker ... Yes Yes....kijk es kijk es", één en ander terwijl hij de handelingen die door zijn medeverdachten feitelijk worden uitgevoerd met zijn mobiele telefoon vastlegt. Naar het oordeel van de rechtbank kan gelet hierop worden bewezen dat verdachte en de medeverdachten bewust en nauw hebben samengewerkt bij het plegen van beide ten laste gelegde feiten.
+
+Bewezenverklaring
+
+De rechtbank acht het onder 1 en 2 ten laste gelegde bewezen, met dien verstande dat:
+
+1.
+
+hij in de periode van 4 oktober 2014 tot en met 5 oktober 2014, tezamen en in vereniging met anderen, te [pleegplaats] , gemeente Pekela, met [slachtoffer] , van wie hij, verdachte, wist dat deze in staat van verminderd bewustzijn en lichamelijke onmacht verkeerde, handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van [slachtoffer] , te weten
+
+-het uittrekken van de broek en/of onderbroek van [slachtoffer] en/of
+
+-het uit elkaar duwen van de benen van [slachtoffer] en/of
+
+-het duwen van een bierfles in de vagina van [slachtoffer] en/of
+
+-het wrijven met een stengel en/of bloem van een plant over de vagina van [slachtoffer] ;
+
+2.
+
+hij in de periode van 4 oktober 2014 tot en met 5 oktober 2014 te [pleegplaats] , gemeente Pekela, tezamen en in vereniging met anderen, gebruik makende van een technisch hulpmiddel, te weten een mobiele telefoon, waarvan de aanwezigheid niet op duidelijke wijze kenbaar was gemaakt, opzettelijk en wederrechtelijk van een persoon, te weten [slachtoffer] , aanwezig in een woning te weten het [adres] te [pleegplaats] , een afbeelding (een film) heeft vervaardigd.
+
+De verdachte zal van het meer of anders ten laste gelegde worden vrijgesproken, aangezien de rechtbank dat niet bewezen acht.
+
+Strafbaarheid van het bewezen verklaarde
+
+Het bewezen verklaarde levert op:
+
+1. Medeplegen van met iemand van wie de dader weet dat zij in staat van verminderd bewustzijn en in staat van lichamelijke onmacht verkeert handelingen plegen die mede bestaan uit het seksueel binnendringen van het lichaam.
+
+2. Medeplegen van gebruik makende van een technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, opzettelijk en wederrechtelijk van een persoon, aanwezig in een woning, een afbeelding vervaardigen.
+
+Deze feiten zijn strafbaar nu geen omstandigheden aannemelijk zijn geworden die de strafbaarheid uitsluiten.
+
+Strafbaarheid van verdachte
+
+De rechtbank acht verdachte strafbaar nu niet van enige strafuitsluitingsgrond is gebleken.
+
+Strafmotivering
+
+Vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd dat verdachte ter zake van het onder 1 en 2 ten laste gelegde wordt veroordeeld tot een gevangenisstraf voor de duur van 24 maanden, met aftrek van voorarrest, waarvan 8 maanden voorwaardelijk met een proeftijd van 2 jaren.
+
+Oordeel van de rechtbank
+
+Bij de bepaling van de straf heeft de rechtbank rekening gehouden met de aard en de ernst van het bewezen en strafbaar verklaarde, de omstandigheden waaronder dit is begaan, de persoon van verdachte zoals deze naar voren is gekomen uit het over hem opgemaakte reclasseringsrapport, het hem betreffende uittreksel uit de justitiële documentatie, alsmede de vordering van de officier van justitie.
+
+De rechtbank heeft in het bijzonder het volgende in aanmerking genomen.
+
+Verdachte heeft met zijn mobiele telefoon filmopnames gemaakt van een vrouw, van wie hij wist dat ze in staat van verminderd bewustzijn en lichamelijke onmacht verkeerde, terwijl zij door zijn twee mededaders, mede op zijn instructies, vaginaal met een bierflesje werd gepenetreerd en waarbij er met een plantenstengel over haar vagina werd gewreven. Verdachte heeft met zijn mededaders aldus schaamteloos misbruik gemaakt van de omstandigheid dat het slachtoffer niet bij machte was om zich te verweren of te protesteren. De wetsbepaling die verdachte heeft overtreden door het onder 1 ten laste gelegde feit te begaan,  beoogt onmachtigen te beschermen tegen het ondergaan van seksuele handelingen. Door zijn handelwijze heeft verdachte, samen met de mededaders, de lichamelijke en seksuele integriteit van het slachtoffer op grove wijze geschonden, hetgeen in het algemeen door slachtoffers als zeer ingrijpend wordt ervaren en voor hen nadelige psychische gevolgen van lange duur met zich kan brengen. Dit geldt in dit geval temeer, nu de zeer vernederende seksuele handelingen bij het slachtoffer in vereniging zijn gepleegd en op film zijn vastgelegd en de beelden nadien aan derden (waaronder bekenden van het slachtoffer) zijn getoond. Met het filmen van het slachtoffer - onder deze omstandigheden - heeft verdachte met haar mededaders een zeer vergaande inbreuk gemaakt op het recht op privacy van het slachtoffer.
+
+De rechtbank acht als reactie hierop slechts een onvoorwaardelijke gevangenisstraf van aanzienlijke duur passend en geboden. De rechtbank ziet geen reden om een deel van de straf voorwaardelijk op te leggen, nu van enig recidivegevaar niet is gebleken.
+
+De rechtbank heeft daarbij ook rekening gehouden met de omstandigheid dat verdachte blijkens het hem betreffende uittreksel uit het justitiële documentatieregister d.d. 22 januari 2016 niet eerder voor het plegen van soortgelijke feiten is veroordeeld.
+
+Toepassing van wetsartikelen
+
+De rechtbank heeft gelet op de artikelen 47, 57, 139f, 243 en 248 van het Wetboek van Strafrecht, zoals deze artikelen golden ten tijde van het bewezen verklaarde.
+
+DE UITSPRAAK VAN DE RECHTBANK LUIDT:
+
+Verklaart het onder 1 en 2 ten laste gelegde bewezen, te kwalificeren en strafbaar zoals voormeld en verdachte daarvoor strafbaar.
+
+Verklaart niet bewezen hetgeen aan verdachte meer of anders is ten laste gelegd dan het bewezen verklaarde en spreekt verdachte daarvan vrij.
+
+Veroordeelt verdachte tot:
+
+Een gevangenisstraf voor de duur van 15 maanden.
+
+Beveelt, dat de tijd door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf, geheel in mindering zal worden gebracht.
+
+Dit vonnis is gewezen door mr. L.H.A.M. Voncken, voorzitter, mr. F.J. Agema en
+
+mr. L.W. Janssen, rechters, bijgestaan door W. Brandsma, griffier, en uitgesproken ter openbare terechtzitting van deze rechtbank op 7 maart 2016.
