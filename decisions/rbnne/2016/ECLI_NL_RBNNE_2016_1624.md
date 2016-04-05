@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2016:1624"
-published_in: ["Rechtspraak.nl", "NLF 2016/0389 met annotatie van Almer de Beer", "V-N Vandaag 2016/2152", "V-N 2016/59.2.3", "FutD 2016-2422 met annotatie van Fiscaal up to Date", "NTFR 2016/2610 met annotatie van R.S. Bekker"]
+published_in: ["Rechtspraak.nl", "NLF 2016/0389 met annotatie van Almer de Beer", "V-N Vandaag 2016/2152", "V-N 2016/59.2.3", "NTFR 2016/2610 met annotatie van R.S. Bekker", "FutD 2016-2422", "Viditax (FutD) 2016100709"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2017:1072, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
