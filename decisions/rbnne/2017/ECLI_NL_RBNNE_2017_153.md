@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2017:153"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/153", "V-N 2017/17.2.2", "FutD 2017-0177 met annotatie van Fiscaal up to Date", "NTFR 2017/472 met annotatie van mr. J. Nieuwenhuizen", "NLF 2017/0180 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/153", "V-N 2017/17.2.2", "NLF 2017/0180", "NTFR 2017/472 met annotatie van mr. J. Nieuwenhuizen", "FutD 2017-0177", "Viditax (FutD) 2017011901"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2017:8966, Bekrachtiging/bevestiging"]]
 ---
 
