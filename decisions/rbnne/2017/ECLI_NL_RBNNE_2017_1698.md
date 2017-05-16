@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2017:1698"
-published_in: ["Rechtspraak.nl", "PJ 2017/94", "AR 2017/2593", "AR-Updates.nl 2017-0623", "PR-Updates.nl AR-2017-0623"]
+published_in: ["Rechtspraak.nl", "PJ 2017/94", "AR 2017/2593", "AR-Updates.nl 2017-0623", "PR-Updates.nl AR-2017-0623", "PR-Updates.nl 2017-0623"]
 ---
 
 # ECLI:NL:RBNNE:2017:1698 Rechtbank Noord-Nederland , 16-05-2017 / 4634839 CV EXPL 15-12881
