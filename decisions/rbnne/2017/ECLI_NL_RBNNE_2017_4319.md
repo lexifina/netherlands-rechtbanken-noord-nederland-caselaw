@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2017:4319"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2797", "Viditax (FutD), 22-11-2017", "FutD 2017-2980", "NTFR 2017/2959", "NLF 2017/2820 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2797", "NLF 2017/2820", "FutD 2017-2980", "Viditax (FutD) 2017112209"]
 ---
 
 # ECLI:NL:RBNNE:2017:4319 Rechtbank Noord-Nederland , 14-11-2017 / AWB - 15 _ 4507
@@ -306,11 +306,11 @@ Op de van de Bijzondere belastinginspectie te België ontvangen fotokopie van ee
 
 en
 
-"53- [rekeningnummer] -61-0000 00 0040 TER LDO [A] [X] OU MME [C] [Y]	266.714,47"
+"53- [rekeningnummer] -61-0000 00 0040 TER LDO [A] [X] OU [C] [Y]	266.714,47"
 
 en
 
-"52- [rekeningnummer] -34-0000 00 0040 VUE [A] [X] OU MME [C] [Y]	59.030,07".
+"52- [rekeningnummer] -34-0000 00 0040 VUE [A] [X] OU [C] [Y]	59.030,07".
 
 1.6
 
@@ -322,7 +322,7 @@ In een ambtsedig proces-verbaal van ambtshandeling van [ambtenaar] , ambtenaar v
 
 "Betreft: Onderzoek naar de identiteit van de rekeninghouder van de rekening bij de Kredietbank Luxembourg t.n.v.
 
-[A] [X] ou Mme [C] [Y]
+[A] [X] ou [C] [Y]
 
 Ik,
 
@@ -384,7 +384,7 @@ Op basis van het voorgaande verklaar ik, verbalisant, het volgende:
 
 1.	Op de afdruk van de microfiche van de KB Lux komt onder meer voor de naam:
 
-[A] [X] ou Mme [C] [Y] .
+[A] [X] ou [C] [Y] .
 
 2.	Uit de match van het cliëntenbestand KB Lux met het BVR-bestand komt één hit voor,
 
