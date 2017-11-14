@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2017:4328"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2771", "V-N 2018/10.2.2", "Viditax (FutD), 21-11-2017", "FutD 2017-2979", "NTFR 2017/2958", "NLF 2017/2892 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2771", "V-N 2018/10.2.2", "NLF 2017/2892", "FutD 2017-2979", "Viditax (FutD) 2017112109"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2018:9454, Bekrachtiging/bevestiging"]]
 ---
 
