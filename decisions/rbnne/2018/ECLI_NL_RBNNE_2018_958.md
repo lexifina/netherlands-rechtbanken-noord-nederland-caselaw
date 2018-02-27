@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:958"
-published_in: ["Rechtspraak.nl", "PJ 2018/66", "JONDR 2018/351", "PR-Updates.nl PR-2018-0041"]
+published_in: ["Rechtspraak.nl", "PJ 2018/66", "JONDR 2018/351", "PR-Updates.nl PR-2018-0041", "PR-Updates.nl 2018-0041"]
 ---
 
 # ECLI:NL:RBNNE:2018:958 Rechtbank Noord-Nederland , 27-02-2018 / 6585272
