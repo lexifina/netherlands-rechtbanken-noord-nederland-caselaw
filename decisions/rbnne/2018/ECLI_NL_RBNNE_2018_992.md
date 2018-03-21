@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:992"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/661", "V-N 2018/34.25.1", "Viditax (FutD), 23-03-2018", "FutD 2018-0844", "NTFR 2018/1038 met annotatie van Mr. E.I. Brouwer", "NLF 2018/0707 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/661", "V-N 2018/34.25.1", "NLF 2018/0707", "NTFR 2018/1038 met annotatie van Mr. E.I. Brouwer", "FutD 2018-0844", "Viditax (FutD) 2018032324"]
 ---
 
 # ECLI:NL:RBNNE:2018:992 Rechtbank Noord-Nederland , 21-03-2018 / LEE 16/ 4645
