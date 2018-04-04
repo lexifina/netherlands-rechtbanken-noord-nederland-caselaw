@@ -25,8 +25,6 @@ Bij besluit van 7 april 2016 (primair besluit 2) heeft verweerder aan eiser meer
 
 Strijd met ne bis in idem. Gedeeltelijke vernietiging van de bestreden besluiten, gelet op hetgeen is aangevoerd in beroep. De rechtbank voorziet zelf.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
