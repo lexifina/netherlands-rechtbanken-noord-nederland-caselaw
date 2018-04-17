@@ -30,8 +30,6 @@ Tussen partijen is niet in geschil dat de PAL- en Pw-getallen niet uiterlijk op 
 
 Overschrijding redelijke termijn. Volstaan wordt met het oordeel dat de geconstateerde verdragsschending voldoende is gecompenseerd met de enkele vaststelling dat inbreuk is gemaakt op artikel 6, eerste lid, van het EVRM.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
