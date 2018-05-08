@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:1868"
-published_in: ["Rechtspraak.nl", "PJ 2018/105", "AR-Updates.nl 2018-0573", "PR-Updates.nl PR-2018-0065"]
+published_in: ["Rechtspraak.nl", "PJ 2018/105", "AR-Updates.nl 2018-0573", "PR-Updates.nl PR-2018-0065", "VAAN-AR-Updates.nl 2018-0573", "PR-Updates.nl 2018-0065"]
 ---
 
 # ECLI:NL:RBNNE:2018:1868 Rechtbank Noord-Nederland , 08-05-2018 / 6140508 / 622896
