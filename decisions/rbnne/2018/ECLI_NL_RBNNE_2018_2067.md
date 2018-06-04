@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:2067"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1353", "Viditax (FutD), 26-06-2018", "FutD 2018-1741 met annotatie van Fiscaal up to Date", "V-N 2018/42.25.3", "NTFR 2018/1802 met annotatie van mr. N. ten Broek", "NLF 2018/1446 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1353", "V-N 2018/42.25.3", "NLF 2018/1446", "NTFR 2018/1802 met annotatie van mr. N. ten Broek", "FutD 2018-1741", "Viditax (FutD) 2018062601"]
 ---
 
 # ECLI:NL:RBNNE:2018:2067 Rechtbank Noord-Nederland , 04-06-2018 / AWB - 17 _ 4232
