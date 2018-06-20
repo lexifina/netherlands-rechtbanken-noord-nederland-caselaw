@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:2215"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0720", "PR-Updates.nl PR-2018-0078"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0720", "PR-Updates.nl PR-2018-0078", "VAAN-AR-Updates.nl 2018-0720", "PR-Updates.nl 2018-0078"]
 ---
 
 # ECLI:NL:RBNNE:2018:2215 Rechtbank Noord-Nederland , 20-06-2018 / 6781933 / AR VERZ 18-35
