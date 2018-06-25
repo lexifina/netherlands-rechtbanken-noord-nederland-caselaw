@@ -20,8 +20,6 @@ Planschade. Het bestreden besluit bevat geen deugdelijke motivering van de keuze
 
 De rechtbank ziet aanleiding om zelf in de zaak te voorzien. Zij zal het primaire besluit herroepen. Voorts zal de rechtbank bepalen dat de aanvraag van eisers om tegemoetkoming in geleden planschade, ingediend op 2 mei 2016, wordt toegewezen conform het advies van Thorbecke.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
