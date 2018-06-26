@@ -20,8 +20,6 @@ Uitgangspunt is dat een bestuursorgaan in het algemeen bevoegd is om een herhaal
 
 Verweerder kan daarom artikel 4:6 toepassen op de besluiten die zijn benoemd in rechtsoverweging 3.3.1. De rechtbank is van oordeel dat verweerder de aanvraag van 7 juni 2017 had moeten begrijpen als een verzoek om terug te komen van voornoemde besluiten, gelet op de inhoud daarvan.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
