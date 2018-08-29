@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:3434"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 27-09-2018", "V-N Vandaag 2018/2025", "FutD 2018-2562", "NTFR 2018/2594 met annotatie van Mr. E.I. Brouwer", "V-N 2018/59.2.3", "NLF 2018/2081 met annotatie van", "NLF 2018/2081 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2025", "V-N 2018/59.2.3", "NLF 2018/2081", "NLF 2018/2081", "NTFR 2018/2594 met annotatie van Mr. E.I. Brouwer", "FutD 2018-2562", "Viditax (FutD) 2018092703"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2019:7583, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
