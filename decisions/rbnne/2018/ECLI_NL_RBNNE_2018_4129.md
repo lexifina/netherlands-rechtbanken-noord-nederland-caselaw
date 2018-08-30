@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Veroordeling wegens en woninginbraak en drie winkeldiefstallen, waarvan één tezamen en in vereniging met een ander.
+Veroordeling wegens en woninginbraak en drie winkeldiefstallen, waarvan één tezamen en in vereniging met een ander.
 
 ## Uitspraak
 
