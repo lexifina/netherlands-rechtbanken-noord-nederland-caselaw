@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:4354"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1222", "PJ 2019/9", "PR-Updates.nl PR-2018-0133"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1222", "PJ 2019/9", "PR-Updates.nl PR-2018-0133", "VAAN-AR-Updates.nl 2018-1222", "PR-Updates.nl 2018-0133"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBNNE:2016:5887"]]
 ---
 
