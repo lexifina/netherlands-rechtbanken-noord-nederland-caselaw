@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:5658"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0119", "AR-Updates.nl 2020-0122"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0119", "AR-Updates.nl 2020-0122", "VAAN-AR-Updates.nl 2020-0119"]
 ---
 
 # ECLI:NL:RBNNE:2018:5658 Rechtbank Noord-Nederland , 11-09-2018 / 5090851 \ CV EXPL  16-4439
