@@ -23,8 +23,6 @@ Werkzaamheden op een dak op een hoogte van 7,5 meter. Valgevaar. Verweerder heef
 
 De rechtbank is van oordeel dat dit uitgangspunt in dit concrete geval onredelijk is. Zij acht in dit geval een boete van € 600,– passend en geboden, gelet op de omstandigheden waaronder de overtreding is begaan.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
