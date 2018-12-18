@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2018:5671"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0040"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0040", "PR-Updates.nl 2021-0040"]
 ---
 
 # ECLI:NL:RBNNE:2018:5671 Rechtbank Noord-Nederland , 18-12-2018 / C/18/134300 / FA RK 12-1210
