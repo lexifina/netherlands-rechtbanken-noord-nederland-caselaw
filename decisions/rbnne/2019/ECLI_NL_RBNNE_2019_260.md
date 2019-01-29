@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:260"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0126", "PJ 2019/29", "PR-Updates.nl PR-2019-0013"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0126", "PJ 2019/29", "PR-Updates.nl PR-2019-0013", "VAAN-AR-Updates.nl 2019-0126", "PR-Updates.nl 2019-0013"]
 ---
 
 # ECLI:NL:RBNNE:2019:260 Rechtbank Noord-Nederland , 29-01-2019 / 6911235 \ CV EXPL  18-2757
