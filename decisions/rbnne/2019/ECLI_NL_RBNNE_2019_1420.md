@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:1420"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1172", "JAAN 2019/94 met annotatie van Hart, G. 't"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1172", "JAAN 2019/94 met annotatie van mr. G. 't Hart"]
 ---
 
 # ECLI:NL:RBNNE:2019:1420 Rechtbank Noord-Nederland , 29-03-2019 / C/18/190367 / KG ZA 19-41
