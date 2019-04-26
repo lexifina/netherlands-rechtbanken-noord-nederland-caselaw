@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-077c.md", "net
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie. Veroordeling voor zware mishandeling bestaande uit kaakbreuken en tandletsel, gepaard gaand met een langdurig en pijnlijk tandheelkundig traject. Overwegingen over opzet en zwaar lichamelijk letsel. Toepassen van minderjarigenstrafrecht ten aanzien van 20-jarige verdachte. Oplegging van een onvoorwaardelijke jeugddetentie van 6 maanden.
+Veroordeling voor zware mishandeling bestaande uit kaakbreuken en tandletsel, gepaard gaand met een langdurig en pijnlijk tandheelkundig traject. Overwegingen over opzet en zwaar lichamelijk letsel. Toepassen van minderjarigenstrafrecht ten aanzien van 20-jarige verdachte. Oplegging van een onvoorwaardelijke jeugddetentie van 6 maanden.
 
 ## Uitspraak
 
