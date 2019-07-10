@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:3165"
-published_in: ["Rechtspraak.nl", "PJ 2019/113", "PR-Updates.nl PR-2019-0106", "FJR 2020/32.55"]
+published_in: ["Rechtspraak.nl", "PJ 2019/113", "PR-Updates.nl PR-2019-0106", "FJR 2020/32.55", "PR-Updates.nl 2019-0106"]
 ---
 
 # ECLI:NL:RBNNE:2019:3165 Rechtbank Noord-Nederland , 10-07-2019 / 164817
