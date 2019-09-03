@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verzet"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:4109"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0139", "PJ 2020/135 met annotatie van B. Degelink"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0139", "PJ 2020/135 met annotatie van B. Degelink", "PR-Updates.nl 2020-0139"]
 ---
 
 # ECLI:NL:RBNNE:2019:4109 Rechtbank Noord-Nederland , 03-09-2019 / 7355457 CV EXPL 18-11160
