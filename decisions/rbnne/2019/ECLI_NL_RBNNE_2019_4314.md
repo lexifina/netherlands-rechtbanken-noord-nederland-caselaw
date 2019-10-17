@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Verzoek tot tussentijdse beoordeling van de noodzaak van de voortzetting van de tenuitvoerlegging van de maatregel tot plaatsing in een inrichting voor stelselmatige daders (ISD-maatregel). De rechtbank bepaalt dat voortzetting van de ISD-maatregel is vereist. De rechtbank wijst het verzoek tot beëindiging van de ISD-maatregel af. De rechtbank wijst het verzoek tot aanhouding af.
+Verzoek tot tussentijdse beoordeling van de noodzaak van de voortzetting van de tenuitvoerlegging van de maatregel tot plaatsing in een inrichting voor stelselmatige daders (ISD-maatregel). De rechtbank bepaalt dat voortzetting van de ISD-maatregel is vereist. De rechtbank wijst het verzoek tot beëindiging van de ISD-maatregel af. De rechtbank wijst het verzoek tot aanhouding af.
 
 ## Uitspraak
 
