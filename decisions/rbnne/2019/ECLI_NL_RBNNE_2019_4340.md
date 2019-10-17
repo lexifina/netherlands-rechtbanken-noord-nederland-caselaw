@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Veroordeling voor woninginbraak, diefstal auto en schuldheling. De rechtbank schuift de verklaringen van verdachte met betrekking tot de inbraak en de diefstal als volstrekt onaannemelijk terzijde. Verdachte heeft ten aanzien van de schuldheling niet voldaan aan de onderzoeksplicht. Oplegging ISD-maatregel met aftrek van voorarrest. Herroeping VI.
+Veroordeling voor woninginbraak, diefstal auto en schuldheling. De rechtbank schuift de verklaringen van verdachte met betrekking tot de inbraak en de diefstal als volstrekt onaannemelijk terzijde. Verdachte heeft ten aanzien van de schuldheling niet voldaan aan de onderzoeksplicht. Oplegging ISD-maatregel met aftrek van voorarrest. Herroeping VI.
 
 ## Uitspraak
 
