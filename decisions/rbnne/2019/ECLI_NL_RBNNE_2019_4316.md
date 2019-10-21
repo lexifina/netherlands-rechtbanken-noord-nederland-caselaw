@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "NJFS 2020/33"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Artikel 15c derde lid Wetboek van Strafrecht in strijd met artikel 7 EVRM.
+Artikel 15c derde lid Wetboek van Strafrecht in strijd met artikel 7 EVRM.
 
 ## Uitspraak
 
