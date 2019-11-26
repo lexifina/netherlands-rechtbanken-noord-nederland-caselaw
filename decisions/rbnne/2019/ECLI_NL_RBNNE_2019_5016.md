@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:5016"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:7106"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "netherlands/national/acts/wetboek-van-strafrecht/art-157.md", "netherlands/national/acts/wetboek-van-strafrecht/art-311.md"]
 ---
 
