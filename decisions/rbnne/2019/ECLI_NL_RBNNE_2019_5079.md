@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2019:5079"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0006", "JONDR 2020/50", "PJ 2020/44"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2021:6375, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0006", "JONDR 2020/50", "PJ 2020/44", "PR-Updates.nl 2020-0006"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2021:6375, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2021:8167, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBNNE:2019:5079 Rechtbank Noord-Nederland , 10-12-2019 / 7199800 CV EXPL 18-7153
