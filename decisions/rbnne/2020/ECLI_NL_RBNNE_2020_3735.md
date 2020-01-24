@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie niet beschikbaar.
+Diefstal en verduistering auto's. Recidive. Oplegging maatregel plaatsing in een inrichting voor stelselmatige daders (ISD) voor de duur van twee jaren.
 
 ## Uitspraak
 
