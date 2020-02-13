@@ -17,7 +17,9 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie niet beschikbaar.
+Opzetheling, opzettelijk handelen in strijd met artikel 2, onder c Opiumwet, verduistering, diefstal m.b.v. valse sleutels, meermalen gepleegd en het opgeven van een valse naam en geboortedatum.
+
+Gevangenisstraf voor de duur van 280 dagen waarvan 120 dagen voorwaardelijk en een proeftijd van drie jaren. Bijzondere voorwaarden.
 
 ## Uitspraak
 
