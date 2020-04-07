@@ -1,0 +1,117 @@
+---
+ecli: "ECLI:NL:RBNNE:2020:1574"
+court: "Rechtbank Noord-Nederland"
+court_code: "RBNNE"
+docket: "8216828"
+decided: "2020-04-07"
+published: "2020-04-06"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:1574"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNNE:2020:1574 Rechtbank Noord-Nederland , 07-04-2020 / 8216828
+
+## Inhoudsindicatie
+
+Eindvonnis na ambtshalve toetsing. Voldoende informatie verschaft. Incassokosten afgewezen want verzonden naar ander adres dan in dagvaarding is opgenomen.
+
+## Uitspraak
+
+RECHTBANK NOORD-NEDERLAND
+Afdeling Privaatrecht
+
+Locatie Assen
+
+zaak-/rolnummer: 8216828 \ CV EXPL  19-7986
+
+Verstekvonnis van de kantonrechter van 7 april 2020
+
+in de zaak van
+
+de naamloze vennootschap Achmea Schadeverzekeringen N.V.,
+
+handelend onder de naam Interpolis,
+
+gevestigd te Apeldoorn,
+
+eisende partij,
+
+gemachtigde: Syncasso Gerechtsdeurwaarders B.V.,
+
+tegen
+
+[gedaagde]
+
+wonende te [adres]
+
+gedaagde partij,
+
+tegen wie verstek is verleend.
+
+1
+Procesverloop
+
+1.1.
+
+De eisende partij heeft bij dagvaarding, op de daarin geformuleerde gronden, gevorderd om de gedaagde partij te veroordelen tot betaling van € 96,60, te vermeerderen met rente, incasso- en proceskosten.
+
+1.2.
+
+Op 11 februari 2020 heeft de kantonrechter tussenvonnis gewezen. Dit tussenvonnis dient als ingelast en herhaald te worden beschouwd.
+
+1.3.
+
+Ter zitting van 10 maart 2020 heeft de eisende partij een akte houdende specificatie van de vordering overgelegd.
+
+2
+Motivering
+
+2.1.
+
+De kantonrechter heeft in haar tussenvonnis overwogen dat de door de eisende partij uitgebrachte dagvaarding onvoldoende informatie verschaft en daarmee niet voldoet aan de eisen van artikel 21 Rv. De kantonrechter heeft de eisende partij bevolen de vordering nader te onderbouwen, al dan niet gebruikmakend van het landelijke informatieformulier. Daarbij heeft de kantonrechter bepaald dat de eisende partij in ieder geval stukken diende te overleggen waaruit blijkt dat en op welke manier een overeenkomst met gedaagde partij tot stand is gekomen. Indien sprake is van een overeenkomst op afstand diende eisende partij stukken te overleggen waaruit blijkt dat zij aan haar informatieverplichtingen van artikel 6:230m BW heeft voldaan. Daarnaast diende eisende partij de facturen te overleggen. Indien eisende partij een beroep doet op een algemene voorwaarde, diende eisende partij de algemene voorwaarden te overleggen en toe te lichten waarom het beding waarop een beroep wordt gedaan niet oneerlijk is in de zin van Richtlijn 93/13 oneerlijke bedingen.
+
+2.2.
+
+De eisende partij heeft het landelijke informatieformulier ingevuld, producties overgelegd en haar vordering bij akte nader toegelicht. Eisende partij heeft de verzekeringspolis overgelegd en toegelicht dat er een overeenkomst van schadeverzekering tot stand is gekomen, bestaande uit een inboedelverzekering en een aansprakelijkheidsverzekering. Artikel 6:230m BW is niet van toepassing op een financieel product zoals een schadeverzekering. Eisende partij doet geen beroep op een bepaling in de algemene voorwaarden. Daarnaast heeft zij toegelicht dat er geen rentes of boetes zijn opgenomen in de gevorderde hoofdsom.
+
+2.3.
+
+De eisende partij heeft gezien het voorgaande naar het oordeel van de kantonrechter thans voldoende informatie verschaft. De gevorderde hoofdsom van € 96,60 en de gevorderde wettelijke rente van € 1,29 zullen daarom worden toegewezen.
+
+2.4.
+
+Ten aanzien van de gevorderde buitengerechtelijke incassokosten overweegt de kantonrechter als volgt. De veertiendagenbrief is verzonden naar een ander adres dan het adres van gedaagde dat in de dagvaarding is opgenomen. De kantonrechter kan - zonder dat voor die afwijking een toelichting is gegeven - er niet van uitgaan dat de betreffende brief de gedaagde partij heeft bereikt en dat er adequate incassomaatregelen hebben plaatsgevonden. De vordering tot vergoeding van de buitengerechtelijke incassokosten zal dan ook worden afgewezen.
+
+2.5.
+
+Het gevorderde komt de kantonrechter voor het overige niet onrechtmatig of ongegrond voor zodat dit kan worden toegewezen als na te melden.
+
+3
+Beslissing
+
+De kantonrechter:
+
+3.1.
+
+veroordeelt gedaagde partij om aan eisende partij te betalen € 97,89 te vermeerderen met de wettelijke rente over € 96,60 vanaf 2 december 2019 tot aan de dag van volledige betaling;
+
+3.2.
+
+veroordeelt gedaagde partij tot betaling van de proceskosten, tot deze uitspraak aan de zijde van eisende partij begroot op € 105,08 aan dagvaardingskosten, € 124,00 aan vast recht en € 36,00 aan salaris gemachtigde;
+
+3.3.
+
+verklaart dit vonnis uitvoerbaar bij voorraad;
+
+3.4.
+
+wijst het meer of anders gevorderde af.
+
+Dit vonnis is gewezen door de kantonrechter mr. M.E. van Rossum en in het openbaar uitgesproken op 7 april 2020.
+
+typ/conc: 36330/TG
+
+coll:
