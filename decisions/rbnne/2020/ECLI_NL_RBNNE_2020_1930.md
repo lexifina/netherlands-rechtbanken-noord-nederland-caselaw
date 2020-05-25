@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:1930"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 02-06-2020", "V-N Vandaag 2020/1456", "FutD 2020-1722", "NTFR 2020/1941 met annotatie van R.S. Bekker", "V-N 2020/38.7 met annotatie van Redactie", "NLF 2020/1348 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1456", "V-N 2020/38.7 met annotatie van Redactie", "NLF 2020/1348", "NTFR 2020/1941 met annotatie van R.S. Bekker", "FutD 2020-1722", "Viditax (FutD) 2020060202"]
 ---
 
 # ECLI:NL:RBNNE:2020:1930 Rechtbank Noord-Nederland , 25-05-2020 / AWB LEE - 19 _ 1909
