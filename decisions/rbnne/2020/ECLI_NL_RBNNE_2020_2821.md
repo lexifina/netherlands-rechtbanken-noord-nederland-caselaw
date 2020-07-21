@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:2821"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 27-08-2020", "V-N Vandaag 2020/2026", "FutD 2020-2416 met annotatie van Fiscaal up to Date", "V-N 2020/45.8 met annotatie van Redactie", "NTFR 2020/2832 met annotatie van MR. E. ALINK", "Belastingadvies 2020/23.5", "NLF 2020/1909 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2026", "V-N 2020/45.8 met annotatie van Redactie", "Belastingadvies 2020/23.5", "NLF 2020/1909", "NTFR 2020/2832 met annotatie van MR. E. ALINK", "FutD 2020-2416", "Viditax (FutD) 2020082701"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2021:9557, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2020:2821 Rechtbank Noord-Nederland , 21-07-2020 / AWB - 19 _ 3871
