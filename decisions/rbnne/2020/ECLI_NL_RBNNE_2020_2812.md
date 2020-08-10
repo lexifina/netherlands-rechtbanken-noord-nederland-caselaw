@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:2812"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 25-08-2020", "FutD 2020-2454", "NLF 2020/1940 met annotatie van Rogier Froentjes", "NTFR 2020/2818"]
+published_in: ["Rechtspraak.nl", "NLF 2020/1940 met annotatie van Rogier Froentjes", "FutD 2020-2454", "Viditax (FutD) 2020082505"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2022:3651, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2020:2812 Rechtbank Noord-Nederland , 10-08-2020 / 17/3928
