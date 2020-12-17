@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2020:5094"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0301", "PR-Updates.nl PR-2021-0068"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0301", "PR-Updates.nl PR-2021-0068", "VAAN-AR-Updates.nl 2021-0301", "PR-Updates.nl 2021-0068"]
 ---
 
 # ECLI:NL:RBNNE:2020:5094 Rechtbank Noord-Nederland , 17-12-2020 / 8796663 AR VERZ 20-95
