@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:806"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0352", "PJ 2021/47 met annotatie van B. Degelink", "PR-Updates.nl PR-2021-0054", "VAAN-AR-Updates.nl 2021-0352"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0352", "PJ 2021/47 met annotatie van B. Degelink", "PR-Updates.nl PR-2021-0054", "VAAN-AR-Updates.nl 2021-0352", "PR-Updates.nl 2021-0054"]
 ---
 
 # ECLI:NL:RBNNE:2021:806 Rechtbank Noord-Nederland , 16-03-2021 / 8393341 CV EXPL 20-1665
