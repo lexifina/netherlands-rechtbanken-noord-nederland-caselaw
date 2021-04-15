@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: eenvoudige witwassen, handelen in verdovende middelen, lezing van verdachte niet geloofwaardig
+Eenvoudig witwassen, handelen in verdovende middelen, lezing van verdachte niet geloofwaardig
 
 ## Uitspraak
 
