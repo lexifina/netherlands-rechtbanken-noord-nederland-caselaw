@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:3057"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0933", "PR-Updates.nl PR-2021-0142", "VAAN-AR-Updates.nl 2021-0933"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0933", "PR-Updates.nl PR-2021-0142", "VAAN-AR-Updates.nl 2021-0933", "PR-Updates.nl 2021-0142"]
 ---
 
 # ECLI:NL:RBNNE:2021:3057 Rechtbank Noord-Nederland , 26-04-2021 / 8888054 \ AR VERZ  20-109
