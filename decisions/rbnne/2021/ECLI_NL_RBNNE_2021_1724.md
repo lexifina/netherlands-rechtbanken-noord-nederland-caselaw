@@ -16,8 +16,6 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Als samenvatting bij de uitspraak kan de volgende tekst worden gebruikt:
-
 Nadere vaststelling huurprijs bedrijfsruimte (restaurant in onderhuur). Beoordeling bezwaren met betrekking tot vergelijkingspanden; toepassing wegingsfactoren; verbeteringen door huurder niet relevant; bezwaar correctie in verband met onderhoudsverdeling; ingangsdatum nieuwe huurprijs; wettelijke rente niet met terugwerkende kracht maar pas verschuldigd bij verzuim betaling nader vaststelede huurprijs.
 
 ## Uitspraak
