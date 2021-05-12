@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:2482"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1504", "NLF 2021/1344", "V-N 2021/31.21 met annotatie van Redactie", "Belastingblad 2021/307 met annotatie van R.A. Eskes", "NTFR 2021/2423 met annotatie van mr. drs. C.M. Dijkstra", "Viditax (FutD) 2021062202", "FutD 2021-2034"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1504", "NLF 2021/1344", "V-N 2021/31.21", "Belastingblad 2021/307 met annotatie van R.A. Eskes", "NTFR 2021/2423 met annotatie van mr. drs. C.M. Dijkstra", "Viditax (FutD) 2021062202", "FutD 2021-2034"]
 ---
 
 # ECLI:NL:RBNNE:2021:2482 Rechtbank Noord-Nederland , 12-05-2021 / LEE 19/3238
