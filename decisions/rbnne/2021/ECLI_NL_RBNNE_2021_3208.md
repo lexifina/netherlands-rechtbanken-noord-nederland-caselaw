@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:3208"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1951", "NLF 2021/1644 met annotatie van Theo Hoogwout", "V-N 2021/37.3 met annotatie van Redactie", "Vp-bulletin 2021/52 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "NTFR 2021/3183 met annotatie van MR. E. ALINK", "Viditax (FutD) 2021081003", "FutD 2021-2545"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1951", "NLF 2021/1644 met annotatie van Theo Hoogwout", "V-N 2021/37.3 met annotatie van Redactie", "Vp-bulletin 2021/52 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "NTFR 2021/3183 met annotatie van MR. E. ALINK", "Viditax (FutD) 2021081003", "FutD 2021-2545"]
 ---
 
 # ECLI:NL:RBNNE:2021:3208 Rechtbank Noord-Nederland , 02-08-2021 / AWB LEE - 20 _ 1710 t/m 1711
