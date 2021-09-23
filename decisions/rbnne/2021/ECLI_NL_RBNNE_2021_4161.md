@@ -18,7 +18,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Dansschoolhouder veroordeeld tot onder meer een gevangenisstraf van 7 jaren, een beroepsverbod en een contactverbod voor het plegen van meerdere zedenmisdrijven, waaronder verkrachting, poging tot verkrachting en aanranding van zowel minder- als meerderjarige vrouwelijke dansers. Deze feiten werden veelal tijdens of na individuele trainingen gepleegd. Overwegingen over betrouwbaarheid van het bewijs, het bewijsminimum en dwang door feitelijkheden. Zie ECLI:NL:RBNNE:2021:4177 van de bewijsmiddelen.
+Dansschoolhouder veroordeeld tot onder meer een gevangenisstraf van 7 jaren, een beroepsverbod en een contactverbod voor het plegen van meerdere zedenmisdrijven, waaronder verkrachting, poging tot verkrachting en aanranding van zowel minder- als meerderjarige vrouwelijke dansers. Deze feiten werden veelal tijdens of na individuele trainingen gepleegd. Overwegingen over betrouwbaarheid van het bewijs, het bewijsminimum en dwang door feitelijkheden. Zie ECLI:NL:RBNNE:2021:4177 van de bewijsmiddelen.
 
 ## Uitspraak
 
