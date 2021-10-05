@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Veroordeling tot een gevangenisstraf wegens een tweetal bedreigingen en belaging. De rechtbank komt tot oplegging van de maatregel terbeschikkingstelling met bevel tot verpleging van overheidswege.
+Veroordeling tot een gevangenisstraf wegens een tweetal bedreigingen en belaging. De rechtbank komt tot oplegging van de maatregel terbeschikkingstelling met bevel tot verpleging van overheidswege.
 
 ## Uitspraak
 
