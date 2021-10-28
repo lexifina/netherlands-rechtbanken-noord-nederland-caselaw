@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2021:4635"
 published_in: ["Rechtspraak.nl", "JV 2021/238"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:139, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2021:4635 Rechtbank Noord-Nederland , 28-10-2021 / AWB 21/1661
