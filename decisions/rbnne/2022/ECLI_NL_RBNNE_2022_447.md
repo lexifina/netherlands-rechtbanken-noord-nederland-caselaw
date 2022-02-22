@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2022:447"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1530, Overig"]]
 ---
 
 # ECLI:NL:RBNNE:2022:447 Rechtbank Noord-Nederland , 22-02-2022 / 18/123150-21
