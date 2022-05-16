@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2022:1523"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2022/8673"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5331, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2022:1523 Rechtbank Noord-Nederland , 16-05-2022 / LEE 21/2722
