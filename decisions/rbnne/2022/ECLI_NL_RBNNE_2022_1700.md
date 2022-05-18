@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2022:1700"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0113", "PJ 2022/81"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0113", "PJ 2022/81", "PR-Updates.nl 2022-0113"]
 ---
 
 # ECLI:NL:RBNNE:2022:1700 Rechtbank Noord-Nederland , 18-05-2022 / C/17/178704 / HA ZA 21-121
