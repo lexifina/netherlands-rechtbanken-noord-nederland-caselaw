@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2022:4472"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3686, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBNNE:2022:4472 Rechtbank Noord-Nederland , 29-11-2022 / LEE 22/1751
