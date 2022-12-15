@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: De rechtbank veroordeelt verdachte voor het tezamen en in vereniging op gewelddadige wijze overvallen van een woning in de voor de nachtrust bestemde uren, het plegen van een diefstal in vereniging door middel van een valse sleutel en diefstal, tot een gevangenisstraf voor de duur van 4 jaren, waarvan 1 jaar voorwaardelijk.
+De rechtbank veroordeelt verdachte voor het tezamen en in vereniging op gewelddadige wijze overvallen van een woning in de voor de nachtrust bestemde uren, het plegen van een diefstal in vereniging door middel van een valse sleutel en diefstal, tot een gevangenisstraf voor de duur van 4 jaren, waarvan 1 jaar voorwaardelijk.
 
 ## Uitspraak
 
