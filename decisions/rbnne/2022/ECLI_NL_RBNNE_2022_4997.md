@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: verzoekschrift ex artikel 530 en 533 van het Wetboek van Strafvordering. De zaak is geëindigd zonder oplegging van straf of maatregel omdat naar het oordeel van de rechtbank niet tegelijkertijd met de einduitspraak een straf of maatregel opgelegd. Gelet op - onder andere - het onderzoek naar de persoon van verzoeker en het mogelijke traject van een zorgmachtiging zijn er geen gronden van billijkheid voor het toekennen van schadevergoeding. Ondanks het afwijzen van het verzoek kent de rechtbank de kosten toe voor het indienen en de mondelinge behandeling van het verzoekschrift.
+Verzoekschrift ex artikel 530 en 533 van het Wetboek van Strafvordering. De zaak is geëindigd zonder oplegging van straf of maatregel omdat naar het oordeel van de rechtbank niet tegelijkertijd met de einduitspraak een straf of maatregel opgelegd. Gelet op - onder andere - het onderzoek naar de persoon van verzoeker en het mogelijke traject van een zorgmachtiging zijn er geen gronden van billijkheid voor het toekennen van schadevergoeding. Ondanks het afwijzen van het verzoek kent de rechtbank de kosten toe voor het indienen en de mondelinge behandeling van het verzoekschrift.
 
 ## Uitspraak
 
