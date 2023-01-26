@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:531"
 published_in: ["Rechtspraak.nl", "JM 2023/151 met annotatie van L. Boerema"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1555"]]
 ---
 
 # ECLI:NL:RBNNE:2023:531 Rechtbank Noord-Nederland , 26-01-2023 / 21-1364
