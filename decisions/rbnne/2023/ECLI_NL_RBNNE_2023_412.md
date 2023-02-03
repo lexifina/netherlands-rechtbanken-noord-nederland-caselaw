@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:412"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2023/8817"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6131, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:412 Rechtbank Noord-Nederland , 03-02-2023 / 22/1762
