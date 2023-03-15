@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:1083"
 published_in: ["Rechtspraak.nl", "RVR 2023/56"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2024:404"]]
 ---
 
 # ECLI:NL:RBNNE:2023:1083 Rechtbank Noord-Nederland , 15-03-2023 / C/19/135960 / HA ZA 21-92
