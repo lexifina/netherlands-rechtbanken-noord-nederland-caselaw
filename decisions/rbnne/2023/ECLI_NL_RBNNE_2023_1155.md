@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:1155"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0410", "Sdu Nieuws Arbeidsrecht 2023/144", "PR-Updates.nl PR-2023-0048", "VAAN-AR-Updates.nl 2023-0410"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0410", "Sdu Nieuws Arbeidsrecht 2023/144", "PR-Updates.nl PR-2023-0048", "VAAN-AR-Updates.nl 2023-0410", "PR-Updates.nl 2023-0048"]
 ---
 
 # ECLI:NL:RBNNE:2023:1155 Rechtbank Noord-Nederland , 22-03-2023 / 10252079 AR VERZ 22-69
