@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:1432"
 published_in: ["Rechtspraak.nl", "JBP 2023/91"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6387, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2023:1432 Rechtbank Noord-Nederland , 03-04-2023 / LEE 22/874
