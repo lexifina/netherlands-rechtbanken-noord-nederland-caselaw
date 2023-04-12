@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:1544"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:599, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:1544 Rechtbank Noord-Nederland , 12-04-2023 / Lee 23/1054 en 23/1055
