@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:2814"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5334, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:2814 Rechtbank Noord-Nederland , 13-07-2023 / LEE 22/817
