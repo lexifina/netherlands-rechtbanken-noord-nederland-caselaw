@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:3835"
 published_in: ["Rechtspraak.nl", "NLF 2023/2214", "V-N 2023/48.2.1", "Viditax (FutD) 2023092102", "FutD 2023-2504"]
+relations: [["Formele relatie", "Sprongcassatie: ECLI:NL:HR:2026:1066"]]
 ---
 
 # ECLI:NL:RBNNE:2023:3835 Rechtbank Noord-Nederland , 27-07-2023 / AWB - 21 _ 2902
