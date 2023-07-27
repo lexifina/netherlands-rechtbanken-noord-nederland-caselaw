@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:3836"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2207", "NDFR Nieuws 2023/1357", "NTFR 2023/1790 met annotatie van mr. V. Sathananthan", "V-N 2023/48.2.5", "Viditax (FutD) 2023092104", "FutD 2023-2518"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:6990, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2023:3836 Rechtbank Noord-Nederland , 27-07-2023 / AWB - 21 _ 4048
