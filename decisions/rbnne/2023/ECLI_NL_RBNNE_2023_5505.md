@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:5505"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0248", "PR-Updates.nl PR-2024-0064", "VAAN-AR-Updates.nl 2024-0248"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0248", "PR-Updates.nl PR-2024-0064", "VAAN-AR-Updates.nl 2024-0248", "PR-Updates.nl 2024-0064"]
 ---
 
 # ECLI:NL:RBNNE:2023:5505 Rechtbank Noord-Nederland , 28-07-2023 / C/17/188958 / HA RK 23-18
