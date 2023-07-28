@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-312.md"]
 
 ## Inhoudsindicatie
 
-inhoudsindicatie : secretaris met vakantie, volgt nog
+Volgt
 
 ## Uitspraak
 
