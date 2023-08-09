@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:3553"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2023/319", "JAR 2023/225", "AR-Updates.nl 2023-1039", "PR-Updates.nl PR-2023-0168", "Prg. 2023/292", "RAR 2023/151", "VAAN-AR-Updates.nl 2023-1039", "Brightmine 2023-20009466"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2023/319", "JAR 2023/225", "AR-Updates.nl 2023-1039", "PR-Updates.nl PR-2023-0168", "Prg. 2023/292", "RAR 2023/151", "VAAN-AR-Updates.nl 2023-1039", "Brightmine 2023-20009466", "PR-Updates.nl 2023-0168"]
 ---
 
 # ECLI:NL:RBNNE:2023:3553 Rechtbank Noord-Nederland , 09-08-2023 / 10577282 CV EXPL 23-3412
