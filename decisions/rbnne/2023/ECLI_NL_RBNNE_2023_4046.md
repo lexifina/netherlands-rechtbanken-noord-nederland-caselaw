@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Wrakingsverzoek kennelijk ongegrond. Het wrakingsverzoek richt zich op de procesbeslissing van de behandeld rechter om de procedure niet aan te houden of te schorsen. De wrakingskamer komt geen oordeel toe over de juistheid van een procesbeslissing (ECLI:NL:HR:2018:1413).
+Wrakingsverzoek kennelijk ongegrond. Het wrakingsverzoek richt zich op de procesbeslissing van de behandeld rechter om de procedure niet aan te houden of te schorsen. De wrakingskamer komt geen oordeel toe over de juistheid van een procesbeslissing (ECLI:NL:HR:2018:1413).
 
 ## Uitspraak
 
