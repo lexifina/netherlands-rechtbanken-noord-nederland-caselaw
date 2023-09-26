@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4052"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2399", "NLF 2023/2404", "Sdu Nieuws Belastingzaken 2023/991", "V-N 2023/56.2.1", "Viditax (FutD) 2023100902", "FutD 2023-2660"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:7785, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2023:4052 Rechtbank Noord-Nederland , 26-09-2023 / AWB - 22 _ 4133
