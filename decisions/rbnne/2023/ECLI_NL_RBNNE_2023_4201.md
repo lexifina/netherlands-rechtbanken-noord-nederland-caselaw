@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4201"
 published_in: ["Rechtspraak.nl", "JOM 2023/447"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5206, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBNNE:2023:4201 Rechtbank Noord-Nederland , 13-10-2023 / LEE 21/2317, 22/3665 en 22/3861
