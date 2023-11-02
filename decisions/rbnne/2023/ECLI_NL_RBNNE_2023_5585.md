@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:5585"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1536", "NDFR Nieuws 2024/1266", "V-N 2024/36.2.4", "NTFR 2024/1406 met annotatie van mr. V. Sathananthan", "Viditax (FutD) 2024071508", "FutD 2024-1618"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:7775, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:5585 Rechtbank Noord-Nederland , 02-11-2023 / LEE 22/4184 en 22/4185
