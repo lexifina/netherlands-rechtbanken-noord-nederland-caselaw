@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4616"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2754", "NLF 2023/2706", "V-N 2024/3.2.1", "Viditax (FutD) 2023111715", "FutD 2023-2961"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:1206, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:4616 Rechtbank Noord-Nederland , 14-11-2023 / 23/643, 23/644 en 23/2132
