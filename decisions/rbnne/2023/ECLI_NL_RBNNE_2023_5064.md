@@ -22,8 +22,6 @@ Over het besluit op bezwaar genomen door het college heeft de rechtbank geoordee
 
 De rechtbank zal het college opdragen om een nieuw besluit te nemen op het bezwaar, met inachtneming van deze uitspraak, waaronder de aanwijzingen opgenomen in rechtsoverwegingen 10.1. en 10.2. (artikel 8:72, vierde lid, van de Awb).
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
