@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4840"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:3844, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:4840 Rechtbank Noord-Nederland , 22-11-2023 / LEE 22/115 en LEE 22/938
@@ -21,8 +22,6 @@ Eiseres heeft een verzoek op grond van artikel 12 en 15 eerste lid van de Algeme
 Over het besluit op bezwaar genomen door het college heeft de rechtbank geoordeeld dat het beroep gegrond is. Dit besluit op bezwaar is vernietigd wegens strijd met artikel 15 van de AVG, gelezen in samenhang met artikel 7:11, eerste lid, van de Awb. Het college hoeft geen nieuw besluit op het bezwaar tegen het primaire besluit van 16 juli 2021 meer te nemen, omdat het bevoegde bestuursorgaan, de commissie, daartoe bij uitsluiting van het college bevoegd was. Daartoe is overwogen dat de rechtbank de commissie als een adviescommissie zoals bedoeld in artikel 7:13 van de Awb kwalificeert. Gelet op de zelfstandige positie van de commissie bij de verwerking van persoonsgegevens is de rechtbank van oordeel dat de commissie zelf het orgaan is dat het doel en de middelen van die verwerkingen vaststelt, als bedoeld in de AVG. Het college had daarom geen besluit op het bezwaar behoren te nemen.
 
 Over het besluit op bezwaar genomen door de commissie heeft de rechtbank geoordeeld dat het beroep ongegrond is. Overwogen is dat de rechtbank niet is gebleken van verwerkingen ten behoeve van geautomatiseerde besluitvorming en profilering. Daarom hoefde de commissie niet te communiceren over dat onderwerp. De commissie heeft op pagina 2 en pagina 3 van het bestreden besluit informatie verschaft in beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm.  Die informatie is in duidelijke en eenvoudige taal opgesteld. De rechtbank vindt hiervoor steun in richtsnoer 01/2022 van de European Data Protection Board (EDPB).  Weliswaar heeft de commissie in het bestreden besluit geen informatie verstrekt over de twee onderwerpen, maar aannemelijk is dat eiseres daardoor niet is benadeeld. Uit de dossierstukken en het verhandelde ter zitting is gebleken dat bij eiseres genoegzaam bekend is dat zij recht heeft op wijziging, verwijdering, beperking of bezwaar en dat zij het recht heeft om een klacht in te dienen bij de toezichthouder, terwijl het aanwenden van die rechten niet is gebonden aan fatale termijnen. Daarom passeert de rechtbank het gebrek, bestaande uit het niet-verstrekken van informatie daarover op grond van artikel 6:22 van de Awb.
-
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
 
 ## Uitspraak
 
