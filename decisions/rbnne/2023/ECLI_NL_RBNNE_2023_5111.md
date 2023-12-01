@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:5111"
 published_in: ["Rechtspraak.nl", "OGR-Updates.nl 2023-0191", "Omgevingsvergunning in de praktijk 2024/9008"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6374, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:5111 Rechtbank Noord-Nederland , 01-12-2023 / LEE 22/4450
