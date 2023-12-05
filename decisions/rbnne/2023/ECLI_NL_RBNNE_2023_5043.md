@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:5043"
 published_in: ["Rechtspraak.nl", "JOM 2024/24", "Jurisprudentie Grondzaken 2024/59 met annotatie van mr. F.M.A. van der Loo"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2761, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2023:5043 Rechtbank Noord-Nederland , 05-12-2023 / LEE 22/3190, LEE 22/3208, LEE 22/3214 en LEE 22/3215
