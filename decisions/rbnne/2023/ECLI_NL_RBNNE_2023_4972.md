@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:4972"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/3003", "V-N 2024/9.13 met annotatie van Redactie", "Viditax (FutD) 2023121510", "FutD 2023-3187"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:8410, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2023:4972 Rechtbank Noord-Nederland , 05-12-2023 / 22/2001 t/m 22/2004, 22/2605, 22/3641 en 22/4489
