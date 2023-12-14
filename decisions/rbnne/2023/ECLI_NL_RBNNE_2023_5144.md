@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2023:5144"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/3089", "V-N 2024/7.10 met annotatie van Redactie", "NLF 2024/0317 met annotatie van Toon Vroon", "Viditax (FutD) 2023122101", "FutD 2024-0017"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/3089", "V-N 2024/7.10", "NLF 2024/0317 met annotatie van Toon Vroon", "Viditax (FutD) 2023122101", "FutD 2024-0017"]
 relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2024:863"]]
 ---
 
