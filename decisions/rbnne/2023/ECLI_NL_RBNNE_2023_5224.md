@@ -23,8 +23,6 @@ Hetgeen door [eiseres] is aangevoerd vormt geen aanleiding om artikel 3:5, eerst
 
 De na heroverweging gehandhaafde omgevingsvergunning is innerlijk tegenstrijdig waar het gaat om de formulering van het vergunningsvoorschrift. Gelet op de wettelijke taak om een voorgelegd geschil zoveel mogelijk definitief te beslechten doet de rechtbank een tussenuitspraak. De rechtbank ziet aanleiding om ambtshalve de voorlopige voorziening te treffen beschreven onder rechtsoverweging 9.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
