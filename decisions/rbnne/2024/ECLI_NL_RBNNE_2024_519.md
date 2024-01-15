@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBNNE:2024:519"
 court: "Rechtbank Noord-Nederland"
 court_code: "RBNNE"
-docket: "22/2177"
+docket: "22/2177 en 23/1516"
 decided: "2024-01-15"
 published: "2024-02-20"
 type: "uitspraak"
@@ -10,9 +10,10 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:519"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4088, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBNNE:2024:519 Rechtbank Noord-Nederland , 15-01-2024 / 22/2177
+# ECLI:NL:RBNNE:2024:519 Rechtbank Noord-Nederland , 15-01-2024 / 22/2177 en 23/1516
 
 ## Inhoudsindicatie
 
