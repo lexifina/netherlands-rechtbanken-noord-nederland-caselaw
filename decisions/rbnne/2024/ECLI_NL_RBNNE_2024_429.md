@@ -1,0 +1,1011 @@
+---
+ecli: "ECLI:NL:RBNNE:2024:429"
+court: "Rechtbank Noord-Nederland"
+court_code: "RBNNE"
+docket: "18-950038-18"
+decided: "2024-02-15"
+published: "2024-02-15"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:429"
+published_in: ["Rechtspraak.nl"]
+cites_law: ["netherlands/national/acts/wet-wapens-en-munitie/art-026.md", "netherlands/national/acts/wet-wapens-en-munitie/art-055.md", "netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "netherlands/national/acts/wetboek-van-strafrecht/art-225.md", "netherlands/national/acts/wetboek-van-strafrecht/art-420bis.md"]
+---
+
+# ECLI:NL:RBNNE:2024:429 Rechtbank Noord-Nederland , 15-02-2024 / 18-950038-18
+
+## Inhoudsindicatie
+
+Noordelijke Fraudekamer, onderzoek Engill. In een loods behorend bij een manege wordt onder de grond een contant geldbedrag van € 763.000 aangetroffen.
+
+Bij zoekingen in de woning van verdachte en zijn medeverdachten worden daarnaast nog een wapen, munitie en een vals rijbewijs aangetroffen.
+
+De rechtbank spreekt verdachte vrij van het voorhanden hebben van een wapen en een grote hoeveelheid hennep die zijn aangetroffen in een loods.
+
+Verdachte wordt veroordeeld voor het medeplegen van witwassen, het voorhanden hebben van een wapen en munitie en het meermalen plegen van valsheid in geschrift.
+
+Bewijsoverwegingen ten aanzien van de vraag of het geld van misdrijf afkomstig is en of verdachte het geldbedrag voorhanden heeft gehad en de vindplaats ervan heeft verborgen.
+
+De rechtbank veroordeelt verdachte tot een gevangenisstraf van 36 maanden. De rechtbank heeft onder andere rekening gehouden met de overschrijding van de redelijke termijn.
+
+De rechtbank verklaart het in beslag genomen geldbedrag van € 763.000 verbeurd.
+
+## Uitspraak
+
+Uitspraak
+
+RECHTBANK NOORD-NEDERLAND
+
+Afdeling strafrecht
+
+Locatie Assen
+
+parketnummer 18.950038.18
+
+Vonnis van de meervoudige kamer, Noordelijke Fraudekamer, voor de behandeling van strafzaken d.d. 15 februari 2024 in de zaak van het openbaar ministerie tegen de verdachte
+
+[verdachte] ,
+
+geboren op [geboortedatum] 1973 te [geboorteplaats] , wonende te [adres] .
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek ter terechtzitting van
+
+21 februari 2023, 23 februari 2023, 11 december 2023, 10 januari 2024 en 1 februari 2024. Verdachte is op 11 december 2023 en 10 januari 2024 niet verschenen; wel is verschenen mr. S.
+
+Schuurman, advocaat te Breukelen, die verklaard heeft uitdrukkelijk tot de verdediging te zijn gemachtigd. Het openbaar ministerie is ter terechtzitting vertegenwoordigd door mrs. S.M. von Bartheld en E. Duijts.
+
+Tenlastelegging
+Aan verdachte is ten laste gelegd dat:
+
+1.
+
+hij in of omstreeks de periode van 1 januari 2018 tot en met 19 juni 2018 te [adres] (aan de [adres] ), tezamen en in vereniging met een ander of anderen, een voorwerp, te weten een geldbedrag van ongeveer 763.000 euro voorhanden heeft gehad en/of van een voorwerp, te weten een geldbedrag van ongeveer 763.000 euro, de vindplaats heeft verborgen, terwijl hij wist dat dat geldbedrag geheel of gedeeltelijk - onmiddellijk of middellijk - afkomstig was uit enig misdrijf;
+
+2.
+
+hij op of omstreeks 19 juni 2018 te [adres] , tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk aanwezig heeft gehad (in [adres] , in een sealbag) ongeveer 880 gram hennep, in elk geval een hoeveelheid van meer dan 30 gram hennep, zijnde hennep een middel als bedoeld in de bij de Opiumwet behorende lijst II, dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+
+3.
+
+hij op of omstreeks 19 juni 2018 te [adres] , tezamen en in vereniging met een ander of anderen, althans alleen, (in [adres] ) een wapen en munitie van categorie III, te weten een semi-automatisch pistool, merk Tokarev, TT33 7,62 mm, geladen met een patroonmagazijn met 8 patronen, voorhanden heeft gehad;
+
+4.
+
+hij in of omstreeks de periode van 11 juni 2015 tot en met 19 juni 2018 te [adres] , tezamen en in vereniging met een andereen wapen van categorie III, te weten een revolver, merk Rossi 68, kaliber .38 spl 9x29,5 voorhanden heeft gehad (in een klok in de woning aan de [adres] ) en/of tezamen en in vereniging met een ander, althans alleen, munitie van categorie III, te weten vijf patronen, merk Fiocchi, kaliber 0,38 special, voorhanden heeft gehad (in een jaszak aan de [adres] );
+
+5.
+
+hij in of omstreeks de periode van 12 juni 2015 tot en met 9 juli 2015 te [adres] , tezamen en in vereniging met een ander of anderen, althans alleen,
+
+een geschrift dat bestemd was om tot bewijs van enig feit te dienen, te weten een verklaring over de inbreng van eigen middelen behorende bij offertenummer [nummer] t.n.v. [verdachte] en [medeverdachte 1] valselijk heeft opgemaakt en/of heeft vervalst, door in die verklaring op te nemen dat het bedrag aan eigen middelen is onstaan door de verkoop uit privébezit van een sportpaard voor het bedrag van 240.000 euro en dat 35.000 euro van dit bedrag gebruikt is voor de aankoop van een ander paard met het oogmerk om het als echt en onvervalst te gebruiken of door anderen te doen gebruiken, en/of
+
+opzettelijke gebruik heeft gemaakt van een vals of vervalst geschrift te weten een e-mail van [bedrijf 1] aan [bedrijf 2] d.d. 9 juli 2015, terwijl hij en zijn mededader(s) wisten of redelijkerwijs moesten vermoeden dat dit geschrift bestemd was om gebruik van te maken als ware het echt en onvervalst;
+
+6.
+
+hij in of omstreeks de periode van 6 oktober 2017 tot en met 31 oktober 2017 te [adres] en/of [adres] , tezamen en in vereniging een ander of anderen, althans alleen, meermalen, althans eenmaal,(een) fact(u)ur(en) gericht aan [bedrijf 3] - zijnde die factuur (telkens) bestemd om tot bewijs van enig feit te dienen - valselijk heeft opgemaakt en/of valselijk heeft doen opmaken en/of heeft vervalst en/of heeft doen vervalsen, zulks (telkens) met het oogmerk om die/dat geschrift(en) als echt en onvervalst te gebruiken of door een of meer anderen te doen gebruiken, door in de betreffende factu(u)r(en) gedateerd op 6 oktober 2017 op te nemen dat
+
+[bedrijf 4] 6 onderstellen tafels en wandrekken inclusief montage op locatie de [bedrijf 5] heeft geleverd aan [bedrijf 3] voor een bedrag van 5605,00 euro (blz. 3180 in zaaksdossier 5) en dat
+
+[bedrijf 4] metalen stellingen en wandrekken inclusief montage op locatie [bedrijf 6] heeft geleverd aan [bedrijf 3] voor een bedrag van 6.313,00 euro.
+
+Beoordeling van het bewijs
+
+Standpunt van de officier van justitie
+
+De officieren van justitie hebben vrijspraak gevorderd van de feiten 2 en 3 en hebben veroordeling gevorderd voor de feiten 1, 4, 5 en 6.
+
+Standpunt van de verdediging
+
+De raadsman heeft zich op het standpunt gesteld dat verdachte moet worden vrijgesproken van feit 1, 2, 3, 5 en 6.
+
+Ten aanzien van feit 1 heeft de raadsman daartoe aangevoerd dat verdachte geen wetenschap van het aangetroffen geldbedrag heeft gehad. Het geld was zeer goed verborgen en lag absoluut niet in het zicht.
+
+Er is weliswaar DNA van verdachte op de elastiekjes die om het geld zaten aangetroffen, maar er zijn geen vingerafdrukken van hem op de verdere verpakking aangetroffen.
+
+Ten aanzien van de elastiekjes geldt dat het verplaatsbare voorwerpen zijn en dat er een DNA-mengprofiel van zes personen op is aangetroffen. Tegenover de belastingdienst heeft verdachte hierover verklaard dat het goed zou kunnen dat iemand anders de elastiekjes uit zijn kantoor heeft gepakt. Ook kan niet worden gezegd dat verdachte van het geld moet hebben geweten omdat hij een vennoot van Stal [verdachte] is.
+
+Tot slot heeft de raadsman opgemerkt dat het aangetroffen geldbedrag afkomstig is uit de paardenhandel. Dit blijkt uit het conceptrapport van de belastingdienst, uit de schriftelijke verklaring van medeverdachte [medeverdachte 2] en uit de verklaringen van de getuigen die door de rechter-commissaris zijn gehoord. Ook het aanvullend financieel onderzoek dat de politie heeft verricht kan niet leiden tot de conclusie dat het aangetroffen geldbedrag niet afkomstig is uit paardenhandel.
+
+Ten aanzien van feit 5 heeft de raadsman aangevoerd dat het dossier onvoldoende aanknopingspunten biedt om tot het oordeel te komen dat er geen sprake was van privébezit van het paard [naam 1] . Juist in het geval van verdachte is het niet vreemd of ongewoon dat hij privé een paard heeft gehad, getraind en verkocht. Hij had immers een eigen stal. Daarbij komt, dat uit de in het dossier aanwezige bankgegevens volgt dat het paard [naam 1] daadwerkelijk is verkocht. Daarnaast kan ook niet worden gezegd dat het paard niet voor
+
+240.000,- is verkocht. Dat er via de bank 220.000,- is overgemaakt, sluit immers niet uit dat de verkoopprijs van het paard 240.000,- was. Tot slot blijkt uit de bankgegevens dat er wel degelijk een ander paard is gekocht voor 35.000,-. Valsheid in geschrift kan dan ook niet bewezen worden verklaard. Ook het gebruikmaken van een vervalst geschrift kan niet worden bewezen verklaard. De email van de tussenpersoon aan de hypotheekgever is geen geschrift dat verdachte heeft opgemaakt of verstuurd. Op grond van het dossier kan ook niet worden vastgesteld dat verdachte de informatie uit de e-mail heeft verstrekt aan de tussenpersoon.
+
+Ten aanzien van feit 6 heeft de raadsman aangevoerd dat niet is bewezen dat beide facturen vals zijn. Geen enkele getuige heeft verklaard dat verdachte de werkzaamheden in [adres] en [adres] nooit heeft verricht. Nergens blijkt uit dat de facturen evident vals zijn. Er zijn juist aanwijzingen dat de gefactureerde materialen daadwerkelijk zijn geleverd. De omstandigheid dat er geen inkoopfacturen voor materiaal zijn aangetroffen in de boekhouding van verdachte is niet redengevend voor het bewijs dat de facturen vals zijn. Tot slot heeft [bedrijf 3] de facturen aan het [bedrijf 4] van verdachte betaald.
+
+De raadsman heeft zich op het standpunt gesteld dat feit 4 kan worden bewezen verklaard.
+
+Oordeel van de rechtbank
+
+De rechtbank acht met de officieren van justitie en de verdediging de feiten 2 en 3 niet wettig en overtuigend bewezen, zodat verdachte hiervan zal worden vrijgesproken.
+
+De rechtbank acht feit 4 wettig en overtuigend bewezen, zoals hierna opgenomen in de bewezenverklaring. Nu verdachte dit feit duidelijk en ondubbelzinnig heeft bekend bij de politie en de raadsman van verdachte geen vrijspraak heeft bepleit, volstaat de rechtbank met een verkorte opgave van de bewijsmiddelen.
+
+Deze opgave luidt als volgt:
+
+1. een naar wettelijk voorschrift opgemaakt proces-verbaal beslag wapen en hennep
+
+d.d. 15 oktober 2018, opgenomen op pagina 1763 e.v. van het dossier van Politie Noord-Nederland onderzoek NN3R017042- ENGILL d.d. 17 december 2019, inhoudend de relatering van verbalisant.
+
+2. een naar wettelijk voorschrift opgemaakt proces-verbaal onderzoek vuurwapen/munitie d.d. 21 september 2018, opgenomen op pagina 1851 e.v. van voornoemd dossier, inhoudend de relatering van verbalisant.
+
+3. een naar wettelijk voorschrift opgemaakt proces-verbaal verhoor verdachte d.d. 19 maart 2019, opgenomen op pagina 2200 e.v. van voornoemd dossier, inhoudend de verklaring van verdachte.
+
+Ten aanzien van feit 1, 5 en 6 1
+
+Aanleiding onderzoek
+Naar aanleiding van onder meer informatie uit de (drugs)onderzoeken Hallacar en Mierleeuw en vijf processen-verbaal van het Team Criminele Inlichtingen (TCI) werd er onder de naam Engill een onderzoek gestart naar de verdachten [verdachte] en diens broer [medeverdachte 3] . Eén van de processen-verbaal van het TCI hield in dat [medeverdachte 3] een manege heeft in [adres] . Hij handelt in partijen wiet en het geld van de wiethandel zou hij verstoppen in en nabij de manege.2Om zicht te krijgen op de financiële situatie van de verdachten [verdachte] werd een bankrekeningenonderzoek gestart waarbij allereerst de legale inkomsten en uitgaven van hun beiden in beeld werden gebracht. Uit een eerste analyse van de bankrekeningen bleek onder andere dat er in de periode 2011 tot en met 2017 een groot bedrag aan contante stortingen was gedaan op de diverse rekeningen van de verdachten en/of hun partners en/of hun bedrijven. Voor deze contante geldbedragen van behoorlijke omvang kon vooralsnog geen verklaring worden gevonden, anders dan dat dit geld een illegale oorsprong had. Naar aanleiding van deze bevindingen verleende de rechter-commissaris een machtiging doorzoeking voor vijf woningen die te linken waren aan de verdachten, waaronder de stal en woningen aan de [adres] te [adres] , de woning aan het [adres] te [adres] en de woning aan de [adres] te [adres] . Daarnaast gaf de officier van justitie toestemming om zes panden te doorzoeken die ook te linken waren aan de verdachten. Op 19 juni 2018 verrichtte de politie op alle 11 de locaties tegelijkertijd doorzoekingen.
+
+Feit 1
+
+De feiten en omstandigheden
+
+Op basis van de inhoud van het dossier gaat de rechtbank uit van de volgende feiten en omstandigheden. Omwille van de leesbaarheid van dit vonnis zal de rechtbank verdachten [verdachte] en [medeverdachte
+
+3] waar dat kan bij hun voornaam noemen, respectievelijk [verdachte] en [medeverdachte 3] .
+
+Aangetroffen geldbedrag in een ton onder de grond en de aangetroffen forensische sporen
+
+Op 19 juni 2018 werden alle gebouwen op de locatie [adres] te [adres] doorzocht, waaronder de loods met stallen. Onder een werkbank in de gereedschapsruimte in een loods werd onder een losliggende plank en vervolgens onder een steen een ton ontdekt. In deze ton zat een plastic tas.3Op de plastic tas stond 95 jaar Poiesz. De plastic tassen met deze opdruk waren in januari 2018 afgegeven aan alle filialen van Poiesz en ook in januari 2018 in gebruik genomen.4Er zat een geldbedrag in de ton, bestaande uit 1525 biljetten van 500 en 5 bankbiljetten van 100. In totaal zat er 763.000 in de ton.5
+
+Uit een uittreksel van de Kamer van Koophandel blijkt dat Stal [verdachte] gevestigd is aan de [adres] in [adres] en is opgericht op 12 juni 2015. De vennoten zijn [medeverdachte 2] en [verdachte] .6
+
+[verdachte] was elke dag op de stal aanwezig en [medeverdachte 3] kwam er 1 a 2 keer in de week.7
+
+Op 19 juni 2018 heeft de recherche sporenmateriaal veiliggesteld aan de [adres] te [adres] . Het gaat om een partij elastiekjes, SIN AALN9551NL en een kleurloze verpakking, SIN AALN9552. Deze sporendragers waren allebei afkomstig uit de verborgen ton.8
+
+De kleurloze verpakking die met kleurloze tape was dichtgeplakt bevatte dactyloscopische sporen die geschikt werden bevonden voor een vervolgonderzoek. Deze sporen werden gefotografeerd onder SIN AALO0481NL en SIN AALO0482NL.9
+
+Het resultaat van het dactyloscopisch onderzoek naar het spoor AALO0482NL resulteerde in individualisatie. De persoon was geregistreerd in [adres] als [medeverdachte 3] .10
+
+Het resultaat van het dactyloscopisch onderzoek naar het spoor AALO0481NL resulteerde in een potentiële donor: [medeverdachte 2] . De bevindingen van het onderzoek naar dit spoor zijn extreem veel waarschijnlijker, wanneer het spoor afkomstig is van [medeverdachte 2] , dan wanneer het afkomstig is van een willekeurige andere persoon.11
+
+Uit de bemonstering van de elastiekjes werd een DNA-mengprofiel verkregen van minimaal zes personen. Vanuit het verkregen DNA-mengprofiel is een enkelvoudig DNA-hoofdprofiel afgeleid met een matchkans van kleiner dan één op 1 miljard. Dit afgeleide DNA-hoofdprofiel kan afkomstig zijn van [verdachte] .12
+
+Overige contante geldbedragen
+
+Naast het aangetroffen geldbedrag in de ton aan de [adres] in [adres] werd er bij de verdachten nog meer contant geld aangetroffen. Zo werd in de woning van [medeverdachte 3] aan de [adres] te [adres] een contant geldbedrag van 140.260 aangetroffen.13In de woning van [verdachte] zijn onder andere drie briefjes van 500 aangetroffen.14Bij [medeverdachte 2] werd in haar slaapkamer een contant geldbedrag van 139.960 aangetroffen.15
+
+[medeverdachte 3] heeft bij Stal [verdachte] eenmalig het salaris van een van de werknemers contant aan hem uitbetaald. Hij haalde toen een dik pak geld uit zijn broekzak en dit pak bestond uit biljetten van 200, 100 en 50.16
+
+Overige aangetroffen goederen en zaken tijdens de doorzoekingen
+
+In de loods van het perceel [adres] te [adres] werden zowel een geldtelmachine als een kluis aangetroffen. De kluis was afgesloten met een cijferslot. Er lagen diplomas en getuigschriften in van [naam 2] , de op [Datum] overleden man van [medeverdachte 2] en de vader van [verdachte] en [medeverdachte 3] . Er zat geen geld in de kluis.17
+
+In de door de politie in beslag genomen administratie van de stal heeft de belastingdienst bescheiden aangetroffen waarop allerlei berekeningen van bedragen en hoeveelheden voorkomen. De meeste bladen vermelden een weeknummer met daarbij een berekening van een totaalbedrag. De weektotalen komen vervolgens weer terug op een ander blad waar een totaaltelling wordt gemaakt van een aantal weken. De volgende totaaltellingen trof de belastingdienst aan: week 1 t/m 6 139.477, week 23 t/m 36 291.359.
+
+Soms wordt er een opmerking bijgeplaatst zoals "slechte troep".18
+
+Tot slot werd op het magazijn van een in de loods van [adres] te [adres] aangetroffen vuurwapen DNA van de in Spanje aangehouden [naam 3] aangetroffen.19Voorts werd in de loods een strijkzak met 800 gram hennep aangetroffen.
+
+Informatie uit het onderzoek Hallacar
+
+In de zomer van 2016 heeft een onderzoek plaatsgevonden onder de naam Hallacar.
+
+Vanuit Spanje werden postpakketten naar Nederland verzonden met als inhoud gedroogde
+
+henneptoppen. Uit dit onderzoek rees de verdenking dat [medeverdachte 3] en [verdachte] betrokken waren bij de import in Nederland van de henneptoppen vanuit Spanje. In Spanje zijn voor het exporteren van hennep vier verdachten aangehouden, onder wie [naam 3] , geboren op [geboortedatum] 1990 in [geboorteplaats] . Deze verdachten werden aangehouden nadat 50 kilo hennep was aangetroffen in een partij bevroren broccoli die bestemd was voor export naar Engeland. De door deze vier verdachten gepleegde werkzaamheden werden uitgevoerd in een loods in [adres] . Door een observatieteam is vastgesteld dat een Fiat Ducato voorzien van het Nederlandse kenteken [kenteken] deze loods inreed. De bijrijder van deze bus kwam kort daarna naar buiten.
+
+Van deze man werd een foto gemaakt en op de foto herkende de verbalisant de man als [medeverdachte 3] . De Fiat Ducato stond op naam van [verdachte] . Verder bleek dat [medeverdachte 3] en zijn vrouw [naam 4] voor 11 maanden een appartement hadden gehuurd in [adres] , [adres] . [naam 3] is in dit appartement aangehouden.20
+
+Informatie uit het onderzoek Mierleeuw
+
+Naar aanleiding van het aantreffen van pakketten met verdovende middelen die via koeriersdienst DPD vanuit Nederland naar Denemarken werden verstuurd, werd het onderzoek Mierleeuw gestart. Uit camerabeelden bleek dat ene [naam 5] de pakketten aanbood bij de pakketpunten van DPD. Uit tapgesprekken bleek dat [naam 5] bijna dagelijks contact had met [naam 3] , die in die tijd gedetineerd zat in Spanje. Tijdens deze gesprekken werd veelvuldig gesproken over de lange en de kale. Uit de gesprekken bleek dat [naam 5] in opdracht van de lange en de kale werkzaamheden uitvoerde en hiervoor contant werd betaald. [naam 5] bleek verder werkzaamheden te verrichten met [naam 6] . Bij de doorzoeking van het kantoor van [naam 6] lag op zijn bureau een kladbrief met adres [adres] . 3.000 per maand. Dit is het woonadres van [verdachte] . Uit de tapgesprekken bleek dat [naam 5] elke avond, na zijn opgedragen werkzaamheden, de gehuurde Mercedes Vito, met het kenteken [kenteken] en later de Renault Trafic, met het kenteken [kenteken] , terug moest brengen naar Stal [verdachte] , gevestigd aan de [adres] te [adres] . Bij aanvang van zijn werkzaamheden moest [naam 5] dit voertuig weer ophalen bij dit adres.21
+
+Met "de kale" en "de lange", worden in de telefoongesprekken tussen [naam 5] en [naam 3] respectievelijk [medeverdachte 3] en [verdachte] bedoeld.22
+
+Criminele contacten
+
+Een observatieteam heeft [medeverdachte 3] en [verdachte] gedurende een korte periode geobserveerd.
+
+Op 6 maart 2018 vond er een ontmoeting plaats tussen [medeverdachte 3] en [verdachte] met een onbekende man (hierna: NN1) in het [bedrijf 7] . [medeverdachte 3] en [verdachte] stapten uit een Mercedes-Benz met het kenteken [kenteken] . Het observatieteam stelde vast dat [verdachte] aan NN1 een enveloppe overhandigde. Tijdens een gesprek van een OT-lid met een medewerkster van het [bedrijf 7] bleek dat [verdachte] , [medeverdachte 3] en NN1 wekelijks een ontmoeting met elkaar hadden in dit hotel.23
+
+Verbalisant [verbalisant] herkent NN1 van de foto van het observatieteam. Het blijkt te gaan om [naam 7] . In 2018 en 2019 is deze verbalisant betrokken geweest bij
+
+diverse verhoren en observaties van [naam 7] .24
+
+Deze [naam 7] is op 13 maart 2018 door een onderzoeksteam van de Landelijke Eenheid aangehouden in een onderzoek ter zake witwassen.25
+
+Uit observatie is verder gebleken dat [verdachte] en [medeverdachte 3] op 8 februari 2018 binnengingen en dat [verdachte] op 26 maart 2018 binnenging in het pand aan de [adres] te Amsterdam. De auto van [verdachte] werd van een baken voorzien. Uit de bakengegevens bleek dat de auto op 20 januari 2018, 30 januari 2018, 13 februari 2018, 19 februari 2018,
+
+22 februari 2018, 12 maart 2018, 21 maart 2018, 22 maart 2018 en 18 april 2018 op de [adres] te Amsterdam stil gestaan heeft. Volgens de GBA stond er niemand ingeschreven op dit adres.26
+
+Ook dit pand heeft de politie doorzocht. Tijdens de doorzoeking zijn onder andere grote hoeveelheden contant geld, wapens en munitie, een geldtelmachine en een sealapparaat aangetroffen. Het aangetroffen geldbedrag bestond onder andere uit 50 briefjes van 500.27
+
+De politie heeft ook getuigen gehoord die bij Stal [verdachte] werkten of stage liepen. Getuige [getuige 1] werkte in december 2017 en januari 2018 bij Stal [verdachte] . Hij heeft verklaard dat er geregeld louche figuren bij Stal [verdachte] kwamen. Deze personen gingen altijd meteen naar de kantine, waar [verdachte] zat. Dit waren geen figuren die normaal gesproken op een manege zouden komen. Ze kwamen meestal één keer in de week naar de manege in snelle, dure autos.28
+
+Ook getuige [getuige 2] heeft verklaard dat zij het volk dat op Stal [verdachte] rondliep vaak een beetje louche vond.29
+
+Verder blijkt dat [verdachte] via zijn [bedrijf 4] contacten heeft met bepaalde personen die te relateren zijn aan verdovende middelen.
+
+Het bedrijf [bedrijf 8] van [naam 8] heeft 13.500 overgemaakt aan [bedrijf 4] . [naam 8] heeft antecedenten op het gebied van het bezit en het vervaardigen van softdrugs (2013). In zijn woning werd een hennepkwekerij aangetroffen. Tevens heeft hij antecedenten voor het bezit van vuurwapens (2013).
+
+Het bedrijf [bedrijf 9] heeft ook betalingen verricht aan [bedrijf 4] . Het gaat dan om een bedrag van 68.377,50.
+
+Enig aandeelhouder en bestuurder [naam 9] heeft een broer genaamd [naam 10]
+
+. Zij komen in een registratie gezamenlijk voor met [naam 11] van de bedrijven [bedrijf 10] en [bedrijf 3] , welke bedrijven ook betalingen hebben
+
+verricht aan [bedrijf 4] (respectievelijk 132.000 en 30.053).
+
+Het bedrijf [bedrijf 10] komt voor in een onderzoek waarbij het vestigingsadres van dit bedrijf, [adres] te [adres] , in verband wordt gebracht met weed.30
+
+Financieel onderzoek naar verdachten, hun partners en hun bedrijven
+
+De politie heeft uitgebreid onderzoek gedaan naar de financiële situatie van [verdachte] , [medeverdachte 3] , [medeverdachte 2] en hun partners en hun bedrijven, omdat de politie vermoedde dat het aangetroffen geld in de ton en de overige aangetroffen contante geldbedragen bij verdachten van misdrijf afkomstig waren.
+
+Uit dit onderzoek, opgenomen onder paragraaf 7.8 Inkomsten en uitgaven van het proces-verbaal onderzoek witwassen, is het volgende naar voren gekomen.31
+
+- [verdachte]
+
+Uit gegevens van de belastingdienst blijkt, dat het besteedbaar inkomen voor [verdachte] volgens privéonttrekkingen aan zijn bedrijf ( [bedrijf 4] ) bedraagt:32
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+28.588
+
+27.623
+
+61.945
+
+57.505
+
+22.950
+
+nnb
+
+nnb
+
+Er zijn verder geen loongegevens (loon, uitkering, overige inkomsten) van [verdachte] bekend bij de belastingdienst.
+
+Opvallend bij de (privé)onttrekkingen is dat de voeding van de bankrekening van het [bedrijf 4] voor het grootste deel gebeurde door bijboekingen van de bedrijven [bedrijf 8] , [bedrijf 10] , [bedrijf 9] en in 2017 door het bedrijf [bedrijf 3] . Éénmalig werd er in 2011 nog 2.500 bijgeboekt door het bedrijf [bedrijf 11] .
+
+Opvallend op de rekening van het [bedrijf 4] is verder dat er geen kosten werden gemaakt, die te relateren zijn aan een [bedrijf 4] .
+
+Uit de gegevens van de privérekening [rekeningnummer] van [verdachte] blijkt dat vanaf 2016 de contante stortingen op zijn privérekening sterk stijgen naar 54.323,81 in 2016 en
+
+40.540 in 2017. In de periode 2-3-2011 tot 20-12-2017 werd in totaal 108.144,94 contant gestort. Uit een MOT-melding van de Rabobank blijkt, dat onder andere 67 biljetten van 500 euro werden gestort.
+
+Ook zou [verdachte] in 2017 privépaarden (via zijn privébankrekening) hebben verkocht voor
+
+212.800. Volgens gegevens van de belastingdienst bezit [verdachte] echter geen privépaarden. In 2012 zou [verdachte] ook al een paard hebben verkocht voor 220.000, waarmee hij zijn woning aan de [adres] in [adres] grotendeels heeft betaald.
+
+De privébankrekening [rekeningnummer] van [verdachte] werd met name gevoed door overboekingen vanuit zijn [bedrijf 4] en door de privé-verkoop van paarden.
+
+Ten aanzien van de partner van [verdachte] , [Naam 2] [medeverdachte 1] , blijkt uit gegevens van de belastingdienst dat haar inkomen bedraagt:33
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+12.000
+
+12.000
+
+Op de (privé)bankrekening [rekeningnummer] van [medeverdachte 1] werd in de periode 6-1-2011 tot 11-6-2018 een bedrag van 163.195 contant gestort, waarvan 47.270 in 2017.
+
+Bij de doorzoeking van de woning van [verdachte] en [medeverdachte 1] werd een offerte van een hovenier aangetroffen voor een bedrag van 40.000, voor de aanleg van de tuin in 2016. Uit de fotos is de tuinaanleg gebleken. De betaling van het bedrag is niet gebleken uit de gegevens van de bankrekeningen.
+
+Verder reed [medeverdachte 1] in een Audi Q5 met een dagwaarde van 110.000. Een deel van deze auto werd contant betaald. [verdachte] reed in een Mercedes Benz 350GLE met een dagwaarde van 75.000.
+
+Het onverklaarbare vermogen van [verdachte] en [medeverdachte 1] in de onderzoeksperiode bedraagt 245.594,94.
+
+- [medeverdachte 3]
+
+Uit gegevens van de belastingdienst blijkt dat het besteedbaar inkomen voor [medeverdachte 3] volgens privé onttrekkingen aan kennelijk de [bedrijf 12] bedroeg:34
+
+Privé onttrekkingen in boekjaar [medeverdachte 3]
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+3.750
+
+Loon-uitkering- en andere inkomsten [medeverdachte 3]
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+0
+
+0
+
+Op de (privé)bankrekening [rekeningnummer] van [medeverdachte 3] werd in de periode 19-1-2011 tot 7-10-2013 in totaal 44.665 contant gestort. De contante opnames van deze rekening bedroegen slechts 1.060.
+
+[medeverdachte 3] is tevens vennoot in de [bedrijf 12] . Uit de rekeninggegevens van de [bedrijf 12] blijkt dat hier veel contante stortingen plaatsvonden in de periode van 18 november 2011 tot 21 juni 2017. Dit voor een totaalbedrag van 140.360 op twee verschillende rekeningen.
+
+Uit het verhoor van getuige [getuige 3] , werkzaam in de [bedrijf 12] , blijkt dat de [bedrijf 12] niet goed liep en dat er nooit geld was.35
+
+Uit gegevens van de belastingdienst blijkt dat het inkomen van de partner van [medeverdachte 3] , [naam 4] , bedroeg:36
+
+Loon-uitkering en andere inkomsten [naam 4]
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2.451
+
+84
+
+0
+
+0
+
+0
+
+0
+
+Uit gegevens van haar bankafschriften blijkt dat het besteedbaar inkomen voor [naam 4] volgens privé onttrekkingen aan kennelijk de [bedrijf 13] bedragen:
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+6.020
+
+-4.082
+
+18.002
+
+5.514
+
+Uit de bankafschriften van zowel [bedrijf 13] als [naam 4] blijkt verder dat er 3 keer een loonbetaling aan [naam 4] is geweest in 2015 van 3.215,08 per maand. Dit is echter niet bekend bij de belastingdienst.
+
+Op de (privé)bankrekening van [naam 4] werd in de periode van 8 juni 2012 tot 9 april 2018 een bedrag van 269.405 contant gestort. Er staat een bedrag van 36.260 aan opnames tegenover.
+
+Op basis van de bankafschriften is het onverklaarbaar vermogen van [medeverdachte 3] en [naam 4] in de onderzochte periode 421.010.
+
+Tot slot reden [medeverdachte 3] en [naam 4] in dure auto's. Een deel van de auto van [medeverdachte 3] werd contant betaald ( 40.000), maar ook een betaling aan de leasemaatschappij van de auto van [naam 4] werd contant gedaan ( 33.000). Op 19 juni 2018 reed [naam 4] in een Mercedes Benz die voor 1.850 per maand werd gehuurd van een Duits bedrijf.
+
+- Verdachte [medeverdachte 2]
+
+Uit gegevens van de belastingdienst blijkt dat het inkomen van [medeverdachte 2] in de periode van 2012 tot en met 2017 bedroeg:37
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+0
+
+0
+
+0
+
+2.280
+
+5.301
+
+8.694
+
+Het inkomen van [naam 2] (tot 11-6-2015) bedroeg:38
+
+2012
+
+2013
+
+2014
+
+2015
+
+33.180
+
+23.870
+
+- 8.342
+
+2.246
+
+Privéonttrekkingen [medeverdachte 2]
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+1.000
+
+12.000
+
+34.125
+
+Privéonttrekkingen [naam 2] (tot 11-6-2015)
+
+2012
+
+2013
+
+2014
+
+2015
+
+9.768
+
+9.638
+
+31.086
+
+245.745
+
+Het inkomen van [medeverdachte 2] bestaat voornamelijk uit haar AOW en een maandelijkse privé- onttrekking van 1.000 van de zakelijke rekening van Stal [verdachte] . Hoewel de gegevens van de belastingdienst over 2017 en 2018 nog niet bekend zijn, is uit de bankgegevens van [medeverdachte 2] niet gebleken dat haar financiële situatie wezenlijk is veranderd in 2017 en 2018.
+
+Wanneer de gezamenlijke rekeningen van [medeverdachte 2] en [naam 2] worden meegenomen dan zijn de totale contante stortingen van september 2011 tot juli 2018 18.000,02 en de opnames 50.480.
+
+Wanneer het gevonden contante bedrag van 139.960 in haar woning wordt meegenomen is er sprake van onverklaarbaar vermogen en wel van 107.580,02. De gevonden 763.000 is daarin niet meegenomen.
+
+Tot slot blijkt uit de belastinggegevens niet van (voor box 3) relevant vermogen tussen 2012 en 2016.39Evenmin blijkt van een groot vermogen uit de door [medeverdachte 2] als executeur ondertekende aangifte van erfbelasting na het overlijden van [naam 2] .40
+
+- Stal [verdachte]
+
+Uit de omzetgegevens van de belastingdienst en de betalingen voor de verkoop van paarden via de zakelijke bankrekening van Stal [verdachte] blijkt dat er in de periode 2013 - 2017 (1e kwartaal 2017) geen substantieel verschil zit tussen de opgegeven omzet aan de belastingdienst en de inkomsten via de bank.41
+
+Op de zakelijke rekening van Stal [verdachte] vonden ook contante stortingen plaats. In totaal
+
+142.042 in de periode 14-1-2011 tot 23-7-2015. Van de contante stortingen op de stalrekening werd door de Rabobank ook een MOT melding gedaan op 13 juni 2019.
+
+Uit de bankafschriften van de stalrekening blijkt dat er in de periode van 1 januari 2011 tot en met 19 juni 2018 ongeveer 100 paarden zijn verkocht die via de bank werden betaald.
+
+Bewijsoverwegingen
+
+Het beoordelingskader
+
+Voor een bewezenverklaring van het in de op art. 420bis Sr toegesneden tenlastelegging opgenomen onderdeel "afkomstig uit enig misdrijf" is, gelet op doel en strekking van deze wetsbepaling en mede in het licht van de wetsgeschiedenis, niet vereist dat uit de bewijsmiddelen moet kunnen worden afgeleid dat het desbetreffende voorwerp afkomstig is uit een nauwkeurig aangeduid misdrijf. Dit betekent dus dat uit de bewijsmiddelen niet behoeft te kunnen worden afgeleid door wie, wanneer en waar dit misdrijf concreet is begaan. Wel is voor een veroordeling ter zake van art. 420bis Sr vereist dat vaststaat dat het voorwerp afkomstig is uit enig misdrijf.
+
+Dat een voorwerp "afkomstig is uit enig misdrijf", kan, als op grond van de beschikbare bewijsmiddelen geen rechtstreeks verband valt te leggen met een bepaald misdrijf, bewezen worden geacht, als het op grond van de vastgestelde feiten en omstandigheden niet anders kan zijn dan dat het voorwerp uit enig misdrijf afkomstig is. Het is aan het openbaar ministerie bewijs aan te dragen van dergelijke feiten en omstandigheden.
+
+Als de door het openbaar ministerie aangedragen feiten en omstandigheden een vermoeden rechtvaardigen dat het niet anders kan zijn dan dat het voorwerp uit enig misdrijf afkomstig is, mag van de verdachte worden verlangd dat hij een concrete, verifieerbare en niet op voorhand hoogst onwaarschijnlijke verklaring geeft dat het voorwerp niet van misdrijf afkomstig is. De omstandigheid dat deze verklaring van de verdachte mag worden verlangd, houdt niet in dat het aan de verdachte is om aannemelijk te maken dat het voorwerp niet van misdrijf afkomstig is.
+
+Als de verdachte zo'n verklaring geeft, ligt het op de weg van het openbaar ministerie nader onderzoek te doen naar die verklaring. De rechter zal dan mede op basis van de resultaten van dat onderzoek moeten beoordelen of ondanks de verklaring van de verdachte het witwassen bewezen kan worden op de grond dat (het niet anders kan zijn dan dat) het voorwerp uit enig misdrijf afkomstig is. Bij de beoordeling van deze verklaring spelen de omstandigheden waaronder het moment en de wijze waarop deze tot stand is gekomen een rol. Zo kan het van belang zijn of de verdachte van meet af aan een tegenwicht tegen de verdenking heeft geboden of dat hij eerst in een laat stadium van het onderzoek is gaan verklaren op een wijze die aan de hiervoor genoemde vereisten voldoet.
+
+Als zo'n verklaring uitblijft, mag de rechter die omstandigheid betrekken in zijn overwegingen over het bewijs.
+
+Een vermoeden van witwassen
+
+De rechtbank stelt vast dat in deze zaak geen gronddelict kan worden vastgesteld waaruit het in de ton aangetroffen geldbedrag afkomstig zou zijn. De rechtbank moet daarom eerst vaststellen of de door het Openbaar Ministerie aangedragen feiten en omstandigheden van dien aard zijn dat zonder meer sprake is van een vermoeden van witwassen.
+
+De rechtbank stelt vast dat er een groot contant geldbedrag van 763.000 in een ton in een loods bij Stal [verdachte] is aangetroffen. Deze ton was onder een werkbank ingegraven onder de grond in een loods. Het geldbedrag bestond bijna enkel uit briefjes van 500. Tijdens de doorzoeking werd in het bedrijf ook een kluis met een cijferslot aangetroffen. In deze kluis lag geen geld. Naast het contante geldbedrag van
+
+763.000 in de ton zijn in de woning van [verdachte] , [medeverdachte 3] en [medeverdachte 2] ook (grote) geldbedragen aangetroffen, waaronder ook briefjes van 500. Daarnaast is bij Stal [verdachte] een geldtelmachine gevonden, die voor de normale economische activiteit van de stal niet noodzakelijk is.
+
+De rechtbank acht het een feit van algemene bekendheid dat het voorhanden hebben van grote contante geldbedragen door privépersonen hoogst ongebruikelijk is vanwege het risico op onder meer diefstal, waarbij het geld niet is verzekerd. Daarnaast worden coupures van
+
+500 in het normale Nederlands betalingsverkeer maar zelden gebruikt, terwijl deze wel voorkomen in het criminele milieu. Het geld werd daarnaast onder de grond en dus op een zeer ongebruikelijke plaats bewaard.
+
+Gelet op het onderzoek van de politie lag er naar het oordeel van de rechtbank dan ook zonder meer een vermoeden van witwassen.
+
+De verklaring van de verdachten
+
+[verdachte] en [medeverdachte 3] hebben geen verklaring afgelegd over de herkomst van het geld.
+
+Voorafgaand aan de geplande inhoudelijke behandeling van de zaak op 21 februari en 23 februari 2023 heeft de raadsman van [medeverdachte 2] een door haar opgestelde schriftelijke verklaring aan de rechtbank overgelegd. De rechtbank heeft deze verklaring ook in de zaken van [verdachte] en [medeverdachte 3] gevoegd. Hun raadslieden hebben ter terechtzitting verwezen naar de verklaring van [medeverdachte 2] .
+
+Deze verklaring van [medeverdachte 2] houdt in dat het aangetroffen geldbedrag in de ton van haar overleden echtgenoot [naam 2] was. Hij heeft het geld verdiend met de paardenhandel en heeft dit geld na zijn dood voor haar achtergelaten, zodat zij hiervan kon leven. Zij heeft bijna niet aan het geld gezeten, maar heeft het nog wel een keer in een nieuwe plastic tas gedaan, omdat het een beetje vochtig was geworden. Verder verklaart [medeverdachte 2] dat zij ervan op de hoogte is dat er altijd contant werd betaald in de paardenhandel. Tot slot geeft zij aan dat de getuigen [getuige 4]42, [getuige 5]43en [getuige 6]44dit kunnen bevestigen.
+
+Nadat het geld op 19 juni 2018 is aangetroffen is [medeverdachte 2] meerdere malen door de politie gehoord. Zij heeft zich tijdens die verhoren telkens beroepen op haar zwijgrecht. Nu haar verklaring pas in februari 2023 bij de rechtbank is binnengekomen, stelt de rechtbank vast dat [medeverdachte 2] pas in een zeer laat stadium van het onderzoek een verklaring heeft afgelegd. Daarnaast voldoet deze verklaring naar het oordeel van de rechtbank niet aan de vereisten die daaraan zijn gesteld. Haar verklaring is uiterst summier en nauwelijks concreet. In de verklaring staat slechts in algemene termen iets over de verdiensten uit de paardenhandel. Zo wordt bijvoorbeeld niet onderbouwd waarom er geen belastingaangifte is gedaan, waarom het geld onder de grond lag en wie het geld onder de grond heeft gestopt. Concrete transacties waaruit het geld afkomstig zou zijn worden niet genoemd. [medeverdachte 2] is vervolgens niet tijdens de inhoudelijke behandeling van de zaak ter zitting verschenen om antwoord te geven op vragen van de rechtbank naar aanleiding van haar verklaring, terwijl deze verklaring veel vragen openlaat. Gelet op deze omstandigheden is de rechtbank van oordeel dat de verklaring van [medeverdachte 2] ongeloofwaardig en niet betrouwbaar moet worden geacht.
+
+De rechtbank acht daarnaast de inhoud van de verklaringen van de drie getuigen die door de rechter- commissaris zijn gehoord niet van dien aard dat het vermoeden van witwassen ter zake van het geldbedrag in de ton is ontzenuwd. Eigenlijk bevestigen de getuigen immers slechts in het algemeen de verklaring van [medeverdachte 2] , namelijk dat paardenhandel (ook) contant plaatshad en mogelijk nog plaatsheeft.
+
+Ook het door het Openbaar Ministerie ingebrachte proces-verbaal van bevindingen jaarrekeningen, privérapporten en het paardenverloop ontzenuwt niet het vermoeden van witwassen. De winst van Stal [verdachte] in de periode 1996 tot en met 2015 is slechts 15.000. Daarnaast blijkt van diverse privé- onttrekkingen door [naam 2] en [medeverdachte 2] door de jaren heen. De noodzaak van zulke onttrekkingen kan slechts worden verklaard wanneer er op dat moment geen ander contant geld voorhanden was. De bekende voorraad aan paarden door alle jaren heen rechtvaardigt ook geen hoge winst, die geleid kan hebben tot een positief resultaat van meer dan 700.000.
+
+Verder blijkt er niet van aanwijzingen die duiden op een omvangrijke handel buiten de boeken om. 45
+
+De rechtbank is gelet op het bovenstaande van oordeel dat er geen andere conclusie mogelijk is dan dat het geldbedrag van 763.000 uit enig misdrijf afkomstig is.
+
+Voorhanden hebben van het geldbedrag en wetenschap van de criminele herkomst
+
+Voor het - als pleger - voorhanden hebben van een voorwerp in de zin van artikel 420bis lid 1 Sr is vereist dat de verdachte het voorwerp opzettelijk aanwezig heeft. Dat houdt in dat de verdachte zich bewust is van de (waarschijnlijke) aanwezigheid van het voorwerp, zonder dat die bewustheid zich hoeft uit te strekken tot de precieze eigenschappen en kenmerken van dat voorwerp (waaronder begrepen de precieze omvang van een geldbedrag) of tot de exacte locatie daarvan. Voor het bewijs van dergelijke bewustheid geldt dat daarvan ook sprake kan zijn in een geval dat het niet anders kan dan dat de verdachte zulke bewustheid heeft gehad.46
+
+Zoals hierboven vermeld zijn DNA-sporen en vingerafdrukken aangetroffen op het verpakkingsmateriaal en op de elastiekjes die werden aangetroffen bij een geldbedrag van 763.000 dat in een tas in een ton onder de grond was verstopt. Er werd vanuit het verkregen DNA-mengprofiel op de elastiekjes een enkelvoudig DNA-hoofdprofiel afgeleid met een matchkans van kleiner dan één op 1 miljard. Dit afgeleide DNA- hoofdprofiel kan afkomstig zijn van [verdachte] . Voorts werd geconcludeerd dat de aangetroffen vingerafdruksporen op de kleurloze verpakking van het geld van [medeverdachte 3] waren. Het resultaat van het dactyloscopisch onderzoek naar het spoor AALO0481NL resulteerde in een mogelijk potentiële donor:
+
+[medeverdachte 2] . [medeverdachte 2] heeft verklaard dat ze inderdaad de tas en het geld in handen heeft gehad. Derhalve heeft zij dit geld ook voorhanden gehad in de zin van artikel 420bis Sr.
+
+Het aantreffen van het DNA en het dactyloscopische spoor van [medeverdachte 3] en [verdachte] levert een sterke aanwijzing op dat zij betrokken zijn geweest bij het verpakken en het verbergen van de vindplaats van het geld en dat zij dit geld dus ook voorhanden hebben gehad. De rechtbank overweegt dat ten aanzien van het interpreteren van op verplaatsbare voorwerpen aangetroffen sporen, zoals in deze zaak de elastiekjes en de verpakking, behoedzaamheid evenwel geboden is. Naar het oordeel van de rechtbank heeft als uitgangspunt te gelden dat de bewijsbetekenis van zulke sporen mede afhangt van de aard van het voorwerp, de plaats en de omstandigheden waaronder het al dan niet in combinatie met andere voorwerpen en/of sporendragers is aangetroffen en veiliggesteld, als ook de verklaring die verdachte in het voorkomende geval voor het aantreffen van die sporen heeft kunnen of willen geven.
+
+De rechtbank stelt voorop dat [medeverdachte 3] en [verdachte] noch bij de politie, noch op de zitting, een verklaring hebben gegeven voor het DNA en de dactyloscopische sporen die zijn aangetroffen op de elastiekjes en de verpakking.
+
+Voorts overweegt de rechtbank dat uit de hiervoor vastgestelde feiten en omstandigheden blijkt dat er zeer sterke aanwijzingen zijn dat [verdachte] en [medeverdachte 3] zich bezighielden met grootschalige internationale drugshandel, dat zij verschillende criminele contacten hadden en dat beiden beschikten over een substantiële hoeveelheid onverklaarbaar vermogen.
+
+Uit observaties blijkt voorts dat [medeverdachte 3] en [verdachte] regelmatig aanwezig waren in het pand aan de [adres] in Amsterdam, een pand waar volgens de GBA niemand ingeschreven stond. In dit pand zijn grote hoeveelheden geld, wapens en een geldtelmachine aangetroffen.
+
+Niet ver van de aangetroffen ton met daarin het geldbedrag is bovendien een vuurwapen aangetroffen. Op dit vuurwapen is DNA-materiaal aangetroffen van [naam 3] , die is aangehouden in het hiervoor genoemde onderzoek Hallacar, uit welk onderzoek sterke aanwijzingen naar voren komen van betrokkenheid van [medeverdachte 3] en [verdachte] bij drugsdelicten.
+
+Uit deze feiten en omstandigheden en het uitblijven van enige verklaring van [verdachte] en [medeverdachte 3] over de aangetroffen sporen volgt naar het oordeel van de rechtbank dat het niet anders kan zijn dan dat de aangetroffen sporen afkomstig zijn van [medeverdachte 3] en [verdachte] en dat deze daarop terecht zijn gekomen toen het geld werd verpakt en toen de vindplaats van het geld werd verborgen.
+
+Daarnaast stelt de rechtbank vast dat zij ook toegang hadden tot het geld. [verdachte] was vennoot van Stal [verdachte] en kwam daar elke dag en ook [medeverdachte 3] was er elke week te vinden. Dit betekent dat alle verdachten het geld voorhanden hebben gehad.
+
+Gelet op de hiervoor in het vonnis vastgestelde feiten en omstandigheden kan het naar het oordeel van de rechtbank daarnaast niet anders zijn dan dat alle verdachten wisten dat dit geld van misdrijf afkomstig was.
+
+De rechtbank acht daarom bewezen dat zij zich schuldig hebben gemaakt aan het witwassen van een bedrag van 763.000.
+
+Medeplegen
+
+De rechtbank is van oordeel dat het niet anders kan dan dat de verdachten het geldbedrag tezamen en in vereniging voorhanden hebben gehad en de vindplaats ervan verborgen hebben. De rechtbank acht het medeplegen van witwassen dan ook bewezen.
+
+Feit 5
+
+De feiten en omstandigheden
+
+Op basis van de inhoud van het dossier gaat de rechtbank uit van de volgende feiten en omstandigheden.
+
+Verdachte en zijn partner [medeverdachte 1] hebben op 15 oktober 2015 de woning gelegen aan het [adres] in [adres] gekocht voor 385.000. Uit informatie van [bedrijf 2] bleek dat een bedrag van 217.550
+
+aan eigen geld diende te worden ingebracht.47
+
+Bij de aanvraag van de hypotheek hebben verdachte en zijn partner de volgende schriftelijke verklaring aan de bank overgelegd:
+
+Het bedrag aan eigen middelen is ontstaan doordat [verdachte] in 2012 een sportpaard verkocht heeft (welke in privébezit was) voor 240.000.
+
+Hiervan is in 2013 35.000 gebruikt voor de aankoop van een ander paard, welke tot op heden nog in het bezit is van de heer [verdachte] . In de resterende jaren is er vanuit eigen middelen gespaard tot het benodigd bedrag voor de aankoop.48
+
+Uit een omschrijving die volgt uit een analyse van de bankgegevens van verdachte blijkt dat het paard [naam 1] op 10 juli 2012 voor 220.000 zou zijn verkocht in plaats van
+
+240.000.49
+
+[bedrijf 2] heeft op 8 juli 2015 navraag gedaan naar de gestelde verkoop van het paard. Op 9 juli 2015 heeft de tussenpersoon van verdachte per e-mail een aanvullende verklaring naar [bedrijf 2] gestuurd over het sportpaard. Deze verklaring houdt in:
+
+"Naar aanleiding van het telefonisch contact met een collega van mij inzake hypotheeknummer [nummer] , kan ik u het volgende meedelen. Zoals u kunt lezen in de verklaring van de heer [verdachte] heeft hij in 2012 een sportpaard verkocht. Dit paard heeft hij als jong, onbeleerd en onervaren paard
+
+gekregen van zijn vader (de vader van de heer [verdachte] heeft een africhtings- en handelsstal). De heer [verdachte] heeft dit paard zelf beleerd en getraind tot een uitstekend sportpaard. Dit paard is dus in 2012 voor een goede prijs verkocht (voor goede sportpaarden zijn dit "normale" bedragen). Zoals aangegeven was dit paard in privébezit. De heer [verdachte] is niet bedrijfsmatig bezig met het aan- of verkopen van paarden."
+
+Vervolgens is de politie een onderzoek naar de inhoud van deze verklaringen gestart. Uit dat onderzoek bleek dat de transactie met betrekking tot het paard op het rekeningoverzicht de omschrijving [naam 1] had. Uit onderzoek op internet bleek dat dat FEI-nummer toebehoorde aan het paard [naam 12] . Uit de bankgegevens van zowel de privérekening als de zakelijke rekening van verdachte bleek van geen enkele transactie die te koppelen was aan het bezit van het paard [naam 1] of een ander paard door verdachte. Ook waren er op deze rekeningen geen kosten te zien die samenhingen met het rijden van wedstrijden met het paard in het buitenland. In het bijzonder waren er geen kosten te zien die te koppelen waren aan het transport en verblijf van het paard [naam 1] in het buitenland, terwijl bleek dat dit paard in de periode 2011 tot maart 2012 veel wedstrijden heeft gereden in het buitenland.
+
+Uit tapgesprekken met [naam 13] , de ruiter van Stal [verdachte] , bleek dat verdachte tegen haar heeft gezegd dat hij helemaal niks kan met jonge beesten. Tegen een vriendin heeft [naam 13] gezegd dat verdachte de paarden niet uit elkaar kon houden.50
+
+Uit de gegevens van de belastingdienst omtrent het verzamelinkomen van verdachte en zijn partner blijkt niet van de verkoop van een privépaard van 220.000 in 2012.51
+
+Getuigen [getuige 1]52, [getuige 7]53en [getuige 2]54verklaren dat verdachte zelden op de stal kwam, maar altijd in de kantine was. Alles wat met de paarden te maken had liet verdachte over aan [naam 13] . Verdachte had geen interesse in de paarden.
+
+Tot slot heeft verdachte zelf verklaard dat hij gestopt is met paardrijden toen hij 15 jaar was en daarna nooit meer heeft gereden.55
+
+Bewijsoverweging
+
+De rechtbank stelt vast dat uit de verklaring van verdachte over de inbreng van eigen middelen is op te maken dat het bedrag dat verdachte zelf heeft ingebracht voor de aankoop van zijn woning zou zijn ontstaan door de verkoop van een sportpaard dat in privébezit was bij verdachte.
+
+De rechtbank stelt op grond van bovenstaande bewijsmiddelen vast dat verdachte privé nooit een sportpaard in zijn bezit heeft gehad. Van het bezit van een paard blijkt niet uit de gegevens van verdachte die bekend zijn bij de belastingdienst. Daarnaast blijkt uit de bankgegevens van verdachte niet dat verdachte ooit kosten heeft gemaakt voor het bezit en/of trainen van een paard. Uit tapgesprekken met [naam 13] , de ruiter van Stal [verdachte] en uit diverse getuigenverklaringen blijkt dat verdachte niets met paarden heeft en dat hij geen paarden kan trainen. Tot slot heeft verdachte zelf verklaard dat hij na zijn 15e nooit meer paard heeft gereden.
+
+De rechtbank acht bewezen dat verdachte deze verklaring valselijk heeft opgemaakt.
+
+De rechtbank acht daarnaast bewezen dat verdachte gebruik heeft gemaakt van de valse e-mail van [bedrijf 1] van 9 juli 2015 aan [bedrijf 2] . Dat het
+
+e-mailbericht feitelijk is verstuurd door een tussenpersoon maakt niet dat niet bewezen kan worden dat verdachte gebruik heeft gemaakt van dit bericht in de zin van artikel 225 Sr. Daartoe overweegt de rechtbank dat het niet anders kan dan dat informatie uit de e-mail afkomstig is van verdachte. Het betrof immers de hypotheekaanvraag van verdachte.
+
+De rechtbank acht niet wettig en overtuigend bewezen dat verdachte het feit tezamen en in vereniging met zijn vrouw heeft gepleegd, zodat de rechtbank hem zal vrijspreken van het ten laste gelegde medeplegen.
+
+Feit 6
+
+De feiten en omstandigheden
+
+Op basis van de inhoud van het dossier gaat de rechtbank uit van de volgende feiten en omstandigheden.
+
+Uit een uittreksel van de Kamer van Koophandel blijkt dat [bedrijf 4] is opgericht op 22 juli 2010 en dat verdachte de eigenaar is van dit bedrijf.
+
+Uit een analyse van de geldstromen van het bedrijf bleek dat de bankrekening van het bedrijf met name gevoed werd door overboekingen van vier bedrijven. In de periode 2011-2015 gaat het over de betalingen van [bedrijf 10] (totaal 132.000), [bedrijf 9] (totaal 68.377,50), [bedrijf 8] (totaal 13.500,-) en [bedrijf
+
+11] (totaal 2.500).
+
+Uit de bankrekening van het [bedrijf 4] blijkt niet van kosten voor materiaal dat gelieerd kan worden aan een [bedrijf 4] .56
+
+Verder valt een aantal administratieve zaken op, zoals dubbel gebruikte debiteurnummers.
+
+Daarnaast blijkt dat de natuurlijke personen achter de bedrijven waardoor de bankrekening van het [bedrijf 4] gevoed wordt, veelal direct of indirect met verdovende middelen en/of wapens te maken hebben. Bovendien blijkt dat de personen achter de bedrijven die de grootste bedragen hebben overgemaakt (nog steeds) contacten zijn van [verdachte] en dat er kennelijk nog steeds financiële connecties zijn.57
+
+De politie heeft nader onderzoek gedaan naar de factuur van [bedrijf 4]
+
+aan [bedrijf 3] (factuurbedrag: 5.605) met als omschrijving Geleverde onderstellen tafels en wandrekken inclusief montage op locatie de [bedrijf 5]
+
+met factuurnummer 2017-005.58
+
+Getuige [getuige 8] , penningmeester en oprichter van [bedrijf 5] , heeft verklaard dat er in juni 2017 een verbouwing plaatsvond van [bedrijf 5] , uitgevoerd door [bedrijf 3] . Op de vraag hoeveel onderstellen en tafels er werden geplaatst antwoordt hij dat er één hoge tafel is geplaatst. [bedrijf 4] zegt hem niets en dat geldt ook voor de naam [verdachte] .59
+
+Getuige [naam 11] , werkzaam voor [bedrijf 3] , heeft verklaard dat hij vijf of zes dagen aan het werk is geweest tijdens de verbouwing van [bedrijf 5] . Alle onderstellen van de tafels stonden er volgens hem al, er moesten alleen nieuwe tafelbladen op. [bedrijf 4] zegt hem niets en dat geldt ook voor de naam [verdachte] . Ook slaat de getuige niet aan op een aan hem getoonde foto van [verdachte] .60
+
+Daarnaast heeft de politie nader onderzoek gedaan naar de factuur van [bedrijf 4] aan [bedrijf 3] (factuurbedrag: 6.313) met als omschrijving Geleverde metalen stellingen en wandrekken inclusief montage op locatie [bedrijf 6] met factuurnummer 2017-006.61
+
+De directeur van de [bedrijf 6] , getuige [getuige 9] , heeft verklaard dat de verbouwing van de bouwmarkt plaatsvond in 2017. De wandrekken zijn door [bedrijf 3] op maat gemaakt en werden geleverd
+
+door een vervoersbedrijf uit Nederland. De metalen stellingen en wandrekken werden gemonteerd door [Naam 1] , een forse donkere man, een zwerverstype en ene [naam 14] . [bedrijf 4] zegt hem niets en dat geldt ook voor de naam [verdachte] . Ook slaat de getuige niet aan op een aan hem getoonde foto van [verdachte] .62
+
+Getuige [getuige 10] , die werkt bij [bedrijf 14] , heeft verklaard dat zijn bedrijf in september 2017 goederen heeft afgeleverd bij [bedrijf 6] .
+
+De opdrachtgever voor dit vervoer was [bedrijf 3] . De lading is op 17 september 2017 in [adres] opgehaald en op 20 september 2017 is de lading naar [adres] vervoerd.63
+
+Volgens getuige [naam 11] , die tijdens de verbouwing van de [bedrijf 6] daar voor [bedrijf 3] aan het werk is geweest, maakte een metaalbedrijf uit [adres] het onderstel van de stalen tafels. Een houtbedrijf uit [adres] leverde de plaat die op het onderstel werd geplaatst en dit alles werd bij [bedrijf 10] gemonteerd, verpakt en getransporteerd. De wandstellingen kwamen ook van het metaalbedrijf uit [adres] en zijn gemonteerd door [naam 11] zelf en monteurs van [naam 15] .64
+
+Bewijsoverweging
+
+De rechtbank stelt vast dat uit de facturen, die specifiek worden vermeld in de tenlastelegging, is op te maken dat [bedrijf 4] werkzaamheden heeft gefactureerd die zouden zijn verricht voor [bedrijf 3] . Op grond van voorgaande bewijsmiddelen stelt de rechtbank vast dat hier in werkelijkheid geen sprake van was. De rechtbank acht daarom wettig en overtuigend bewezen dat verdachte de betreffende facturen vervalst heeft.
+
+Bewezenverklaring
+De rechtbank acht feit 1, 4, 5 en 6 wettig en overtuigend bewezen, met dien verstande dat:
+
+1.
+
+hij in de periode van 1 januari 2018 tot en met 19 juni 2018 te [adres] aan de [adres] , tezamen en in vereniging met anderen, een voorwerp, te weten een geldbedrag van 763.000 euro voorhanden heeft gehad en van een voorwerp, te weten een geldbedrag van 763.000 euro, de vindplaats heeft verborgen, terwijl hij wist dat dat geldbedrag geheel of gedeeltelijk - onmiddellijk of middellijk - afkomstig was uit enig misdrijf;
+
+4.
+
+hij in de periode van 11 juni 2015 tot en met 19 juni 2018 te [adres] , een wapen van categorie III, te weten een revolver, merk Rossi 68, kaliber .38 spl 9x29,5 voorhanden heeft gehad (in een klok in de woning aan de [adres] ) en munitie van categorie III, te weten vijf patronen,
+
+merk Fiocchi, kaliber 0,38 special, voorhanden heeft gehad (in een jaszak aan de [adres] );
+
+5.
+
+hij in de periode van 12 juni 2015 tot en met 9 juli 2015 te [adres] ,
+
+een geschrift dat bestemd was om tot bewijs van enig feit te dienen, te weten een verklaring over de inbreng van eigen middelen behorende bij offertenummer [nummer] t.n.v. [verdachte] en [medeverdachte 1] valselijk heeft opgemaakt, door in die verklaring op te nemen dat het bedrag aan eigen middelen is ontstaan door de verkoop uit privébezit van een sportpaard voor het bedrag van 240.000 euro met het oogmerk om het als echt en onvervalst te gebruiken of door anderen te doen gebruiken, en
+
+opzettelijk gebruik heeft gemaakt van een vals geschrift te weten een e-mail van [bedrijf 1] aan [bedrijf 2] d.d. 9 juli 2015, terwijl hij wist of redelijkerwijs moest vermoeden dat dit geschrift bestemd was om gebruik van te maken als ware het echt en onvervalst;
+
+6.
+
+hij in de periode van 6 oktober 2017 tot en met 31 oktober 2017 te [adres] en/of [adres] , facturen gericht aan [bedrijf 3] - zijnde die facturen telkens bestemd om tot bewijs van enig feit te dienen - valselijk heeft opgemaakt en/of valselijk heeft doen opmaken, zulks telkens met het oogmerk om die geschriften als echt en onvervalst te gebruiken of door een of meer anderen te doen gebruiken, door in de betreffende facturen gedateerd op 6 oktober 2017 op te nemen dat
+
+[bedrijf 4] 6 onderstellen, tafels en wandrekken inclusief montage op locatie de [bedrijf 5] heeft geleverd aan [bedrijf 3] voor een bedrag van 5605 euro en dat
+
+[bedrijf 4] metalen stellingen en wandrekken inclusief montage op locatie [bedrijf 6] heeft geleverd aan [bedrijf 3] voor een bedrag van 6.313 euro.
+
+Verdachte zal van het meer of anders ten laste gelegde worden vrijgesproken, aangezien de rechtbank dat niet bewezen acht.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Verdachte is daardoor niet geschaad in de verdediging.
+
+Strafbaarheid van het bewezen verklaarde
+Het bewezen verklaarde levert op:
+
+1
+medeplegen van witwassen
+
+4. handelen in strijd met artikel 26, eerste lid van de Wet wapens en munitie en het feit begaan met betrekking tot een vuurwapen van categorie III EN handelen in strijd met artikel 26, eerste lid van de Wet wapens en munitie
+
+5. valsheid in geschrift EN opzettelijk gebruik maken van een vals geschrift, als bedoeld in artikel 225, eerste lid, van het Wetboek van Strafrecht, als ware het echt en onvervalst
+
+6. valsheid in geschrift, meermalen gepleegd
+
+Deze feiten zijn strafbaar nu geen omstandigheden aannemelijk zijn geworden die de strafbaarheid uitsluiten.
+
+Strafbaarheid van verdachte
+
+De rechtbank acht verdachte strafbaar nu niet van enige strafuitsluitingsgrond is gebleken.
+
+Strafmotivering
+
+Vordering van de officier van justitie
+
+De officieren van justitie hebben gevorderd dat verdachte ter zake van het onder 1, 4, 5 en 6 ten laste gelegde wordt veroordeeld tot een onvoorwaardelijke gevangenisstraf van 42 maanden met aftrek van het voorarrest.
+
+Standpunt van de verdediging
+
+De raadsman heeft de rechtbank verzocht om bij de strafoplegging rekening te houden met een overschrijding van de redelijke termijn met ruim drie jaar. Dat er naast de ten laste gelegde feiten sprake is van zware criminaliteit volgt niet uit het dossier en kan daarom ook niet als strafverzwarend worden meegewogen.
+
+Oordeel van de rechtbank
+
+Bij de bepaling van de straf heeft de rechtbank rekening gehouden met de aard en de ernst van het bewezen en strafbaar verklaarde, de omstandigheden waaronder dit is begaan, het uittreksel uit de justitiële documentatie, alsmede de vordering van de officier van justitie en het pleidooi van de verdediging.
+
+De rechtbank heeft in het bijzonder het volgende in aanmerking genomen.
+
+Ernst van de feiten
+
+Verdachte heeft zich schuldig gemaakt aan het medeplegen van witwassen van een contant geldbedrag van 763.000. Door het witwassen van crimineel vermogen wordt de onderliggende criminaliteit gefaciliteerd. Witwassen vormt een aantasting van de legale economie en is, mede vanwege de corrumperende invloed ervan op het reguliere handelsverkeer, ook een bedreiging voor de samenleving. Verdachte heeft bij zijn handelen enkel oog gehad voor eigen gewin. Dit wordt verdachte ernstig aangerekend.
+
+Daarnaast heeft verdachte valsheid in geschrifte gepleegd door het opstellen van een valse schriftelijke verklaring en het gebruiken van een valse verklaring tijdens het proces van de verkrijging van een hypotheek om zijn woning mee te financieren.
+
+In strijd met de waarheid heeft verdachte tegenover de hypotheekgever verklaard dat hij zijn eigen inbreng van ruim 200.000,- voor het kopen van een eigen woning had verdiend met de verkoop van een door hemzelf getraind sportpaard.
+
+Daarnaast heeft verdachte valse facturen opgesteld. Op die manier factureerde verdachte bedragen voor werkzaamheden die zijn [bedrijf 4] zouden hebben uitgevoerd, terwijl dit in werkelijkheid niet zo was. De rechtbank rekent het verdachte ernstig aan dat hij een verklaring en twee facturen vals heeft opgemaakt om witgewassen geldbedragen in het legale circuit te brengen.
+
+Tot slot heeft verdachte een vuurwapen en vijf patronen voorhanden gehad. Het ongecontroleerde bezit van vuurwapens kent geen ander doel dan het toebrengen van ernstige schade aan anderen of het dreigen daarmee. Het bezit van wapens en munitie vormt een ernstige inbreuk op de rechtsorde en zorgt voor
+
+gevoelens van angst en onveiligheid in de samenleving.
+
+Documentatie en persoon van verdachte
+
+De rechtbank heeft tevens in aanmerking genomen dat verdachte eerder onherroepelijk is veroordeeld voor een strafbaar feit. Verdachte heeft over zijn persoonlijke omstandigheden niet willen verklaren en hij heeft niet gereageerd op uitnodigingen van de reclassering om mee te werken aan het opstellen van een reclasseringsrapport. Hierdoor heeft de rechtbank slechts beperkt zicht gekregen op de persoonlijke omstandigheden en kan zij hiermee dus ook geen rekening houden bij de straftoemeting.
+
+LOVS oriëntatiepunten
+
+De rechtbank heeft in de eerste plaats gekeken naar de binnen de rechtspraak ontwikkelde oriëntatiepunten van het Landelijk Overleg Vakinhoud en Strafrecht (LOVS). Voor fraude, zoals hier aan de orde, is volgens de oriëntatiepunten bij een first offender en een benadelingsbedrag tussen de 500.000en 1.000.000, een gevangenisstraf van 18 tot 24 maanden het uitgangspunt. Verschillende factoren kunnen volgens de oriëntatiepunten strafverlagend of strafverhogend werken.
+
+In strafverzwarende zin weegt de rechtbank de hoeveelheid van de feiten en de onderlinge samenhang van deze feiten mee. Ook weegt de rechtbank als strafverzwarend mee dat het bedrag dat verdachte heeft witgewassen de opbrengst is van ander strafbaar handelen. Gelet op de omvang van het aangetroffen geldbedrag kan het niet anders dan dat aan de bewezen verklaarde feiten grootschalige criminaliteit ten grondslag ligt. Uit het dossier blijkt van voldoende aanwijzingen dat verdachte zich in kringen van (internationaal) georganiseerde criminaliteit bevond en daaraan deelnam.
+
+Overschrijding redelijke termijn
+
+De rechtbank stelt voorop dat in artikel 6, lid 1, EVRM het recht van iedere verdachte is gewaarborgd om binnen een redelijke termijn te worden berecht. Die termijn vangt aan op het moment dat vanwege de Nederlandse Staat jegens verdachte een handeling is verricht waaraan deze in redelijkheid de verwachting kan ontlenen dat tegen hem ter zake van een bepaald strafbaar feit door het openbaar ministerie een strafvervolging zal worden ingesteld.
+
+Als uitgangspunt heeft in deze zaak te gelden dat de behandeling ter terechtzitting dient te zijn afgerond met een eindvonnis binnen twee jaar nadat de redelijke termijn is aangevangen.
+
+Die termijn heeft in dit geval in ieder geval een aanvang genomen vanaf de eerste inverzekeringstelling van verdachte op 19 juni 2018, en gaat een termijn van twee jaren dan ook ruimschoots te boven. Deze overschrijding zal de rechtbank in de straf verdisconteren.
+
+Straf
+
+Alles afwegende is de rechtbank van oordeel dat een gevangenisstraf van 36 maanden recht doet aan de ernst van de feiten en de persoon van verdachte.
+
+Tenuitvoerlegging van de op te leggen gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat aan verdachte voorwaardelijke invrijheidstelling wordt verleend als bedoeld
+
+in artikel 6:2:10 van het Wetboek van Strafvordering.
+
+Beslag
+
+Uit de lijst van inbeslaggenomen en niet teruggegeven voorwerpen volgt dat onder verdachte de volgende voorwerpen in beslag zijn genomen:
+
+patronen
+
+een geldbedrag van 763.000.
+
+Vordering van de officier van justitie
+
+De officieren van justitie hebben gevorderd dat het in beslag genomen geldbedrag moet worden verbeurd verklaard. De patronen moeten worden onttrokken aan het verkeer.
+
+Standpunt van de verdediging
+
+De raadsman heeft zich op het standpunt gesteld dat het beslag aan verdachte moet worden teruggegeven, met uitzondering van de patronen.
+
+Oordeel van de rechtbank
+
+Onttrekken aan het verkeer
+
+De rechtbank zal de 5 patronen onttrekken aan het verkeer, omdat het bezit daarvan in strijd is met de wet en het algemeen belang.
+
+Verbeurdverklaring
+
+Nu het geldbedrag een voorwerp is met betrekking tot welke het onder 1 bewezen verklaarde is begaan, zal de rechtbank dit voorwerp verbeurd verklaren.
+
+Toepassing van wetsartikelen
+
+De rechtbank heeft gelet op de artikelen 33, 33a, 36b, 36c, 57, 225 en 420bis van het Wetboek van Strafrecht en de artikelen 26 en 55 van de Wet wapens en munitie.
+
+Deze voorschriften zijn toegepast, zoals zij ten tijde van het bewezen verklaarde rechtens golden dan wel ten tijde van deze uitspraak gelden.
+
+Uitspraak
+
+De rechtbank
+
+Verklaart niet bewezen hetgeen verdachte onder 2 en 3 is ten laste gelegd en spreekt verdachte daarvan vrij.
+
+Verklaart het onder 1, 4, 5 en 6 ten laste gelegde bewezen, te kwalificeren en strafbaar zoals voormeld en verdachte daarvoor strafbaar.
+
+Verklaart niet bewezen hetgeen aan verdachte meer of anders is ten laste gelegd dan het bewezen verklaarde en spreekt verdachte daarvan vrij.
+
+Veroordeelt verdachte tot:
+
+een gevangenisstraf voor de duur van 36 maanden
+
+Beveelt dat de tijd die de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en/of voorlopige hechtenis heeft doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf, geheel in mindering zal worden gebracht.
+
+Verklaart verbeurd het in beslag genomen geldbedrag van 763.000.
+
+Verklaart onttrokken aan het verkeer de in beslag genomen 5 patronen.
+
+Dit vonnis is gewezen door mr. H. Brouwer, voorzitter, mr. T.M.L. Wolters en
+
+mr. W.S. Sikkema, rechters, bijgestaan door mr. K.E. van Rhijn, griffier, en uitgesproken ter openbare terechtzitting van deze rechtbank op 15 februari 2024.
+
+1. Wanneer hierna wordt verwezen naar een proces-verbaal, wordt tenzij anders vermeld bedoeld een
+
+ambtsedig proces-verbaal, opgemaakt in de wettelijke vorm door (een) daartoe bevoegde opsporingsambtena(a)r(en). Waar wordt verwezen naar dossierpaginas, betreft dit tenzij anders vermeld de paginas van het dossier van Politie Noord-Nederland (onderzoek NN3R017042- ENGILL) d.d. 17
+
+december 2019.
+
+2 TCI proces-verbaal d.d. 15 november 2017, opgenomen op pagina 305.
+
+3 Proces-verbaal van bevindingen aantreffen ton onder werkbank d.d. 19 februari 2019, opgenomen op
+
+pagina 1043 e.v.
+
+4 Proces-verbaal van bevindingen d.d. 8 november 2018, opgenomen op pagina 1148 e.v.
+
+5 Proces-verbaal van bevindingen tellen inbeslaggenomen geld d.d. 20 juni 2018, opgenomen op pagina
+
+1240 e.v.
+
+6 Een schriftelijk bescheid, te weten een uittreksel van de Kamer van Koophandel d.d. 31 januari 2018,
+
+opgenomen op pagina 1041.
+
+7 Proces-verbaal van verhoor getuige [getuige 7] d.d. 24 juni 2018, opgenomen op pagina 1383 e.v.
+
+8 Proces-verbaal forensisch onderzoek bedrijf ( [adres] ) d.d. 25 maart 2019, opgenomen op pagina 1162
+
+e.v.
+
+9 Proces-verbaal vooronderzoek lab d.d. 4 april 2019, opgenomen op pagina 1171 e.v.
+
+10 Een overig schriftelijk bescheid, te weten een document Meervoudige procedure, opgenomen op pagina
+
+1236 e.v.
+
+11 Een overig schriftelijk bescheid, te weten een rapport van het NFI d.d. 24 januari 2019 Vergelijkend
+
+dactyloscopisch onderzoek opgemaakt door [naam 16] en [naam 17] , opgenomen op pagina 1222 e.v.
+
+12 Een overig schriftelijk bescheid, te weten een rapport van het NFI d.d. 24 oktober 2018 DNA-onderzoek
+
+opgemaakt door [naam 18] , opgenomen op pagina 1197 e.v.
+
+13 Proces-verbaal onderzoek witwassen d.d. 20 november 2019, pagina 1005
+
+14 Proces-verbaal van bevindingen d.d. 24 januari 2019, opgenomen op pagina 1562 e.v.
+
+15 Proces-verbaal van bevindingen d.d. 20 juni 2018, opgenomen op pagina 1240 e.v.
+
+16 Proces-verbaal van verhoor getuige [getuige 1] d.d. 6 augustus 2018, opgenomen op pagina 1373 e.v.
+
+17 Proces-verbaal onderzoek witwassen d.d. 20 november 2019, pagina 1019 en 1021.
+
+18 Een overig schriftelijk bescheid, te weten een document Controlerapport van de belastingdienst d.d. 7
+
+augustus 2019, opgenomen op pagina 1622 e.v.
+
+19 Proces-verbaal onderzoek witwassen d.d. 20 november 2019, pagina 971.
+
+20 Proces-verbaal Hallacar d.d. 18 juni 2018, opgenomen op pagina 26 e.v.
+
+21 Proces-verbaal van bevindingen onderzoek Mierleeuw d.d. 10 april 2018, opgenomen op pagina 29 e.v.
+
+22 Proces-verbaal onderzoek witwassen d.d. 20 november 2019, pagina 969.
+
+23 Proces-verbaal van observatie dinsdag 6 maart 2018 d.d. 6 maart 2018, opgenomen op pagina 1322 e.v.
+
+24 Proces-verbaal van herkenning persoon door opsporingsambtenaar d.d. 8 november 2019, opgenomen op
+
+pagina 1361 e.v.
+
+25 Proces-verbaal van bevindingen onderzoek witwassen d.d. 20 november 2019, pagina 969.
+
+26 Proces-verbaal aanvraag doorzoeking ter inbeslagneming d.d. 8 juni 2018, pagina 1029 e.v.
+
+27 Proces-verbaal beslag [adres] Amsterdam d.d. 27 juni 2018, pagina 9054 e.v.
+
+28 Proces-verbaal van verhoor getuige [getuige 1] d.d. 6 augustus 2018, opgenomen op pagina 1373 e.v.
+
+29 Proces-verbaal van verhoor getuige [getuige 2] d.d. 21 augustus 2018, opgenomen op pagina 1393 e.v.
+
+30 Proces-verbaal van bevindingen betalingen [bedrijf 4] d.d. 13 juni 2018, opgenomen op pagina 3190 e.v.
+
+31 Proces-verbaal onderzoek witwassen d.d. 20 november 2019, pagina 976 e.v.
+
+32 Een overig schriftelijk bescheid, te weten belastinggegevens [verdachte] , opgenomen op pagina 1443
+
+e.v.
+
+33 Een overig schriftelijk bescheid, te weten belastinggegevens [medeverdachte 1] , opgenomen op pagina
+
+1447 e.v.
+
+34 Een overig schriftelijk bescheid, te weten belastinggegevens [medeverdachte 3] , opgenomen op pagina
+
+1507 e.v.
+
+35 Proces-verbaal van verhoor getuige [getuige 3] d.d. 4 maart 2019, opgenomen op pagina 1489 e.v.
+
+36 Een overig schriftelijk bescheid, te weten belastinggegevens [naam 4] , opgenomen op pagina 1512 e.v.
+
+37 Een overig schriftelijk bescheid, te weten belastinggegevens [medeverdachte 2] , opgenomen op pagina
+
+1517 e.v.
+
+38 Een overig schriftelijk bescheid, te weten belastinggegevens [naam 2] , opgenomen op pagina 1522 e.v.
+
+39 Een overig schriftelijk bescheid, te weten belastinggegevens [medeverdachte 2] , pagina 1518.
+
+40 Aanvullend proces-verbaal JM1505 d.d. 6 februari 2023.
+
+41 Een overig schriftelijk bescheid, te weten Jaaromzetgegevens Stal [verdachte] , opgenomen op pagina
+
+1526.
+
+42 Proces-verbaal van verhoor getuige [getuige 4] bij de rechter-commissaris d.d. 25 september 2023.
+
+43 Proces-verbaal van verhoor getuige [getuige 5] bij de rechter-commissaris d.d. 15 september 2023.
+
+44 Proces-verbaal van verhoor getuige [getuige 6] bij de rechter-commissaris d.d. 8 september 2023.
+
+45 Aanvullend proces-verbaal JM1511 d.d. 18 september 2023.
+
+46 HR 21 april 2020, ECLI:NL:HR:2020:570, rov. 2.4.
+
+47 Proces-verbaal van bevindingen analyse geldstromen d.d. 15 januari 2018, opgenomen op pagina 2793
+
+e.v.
+
+48 Een overig schriftelijk bescheid, te weten een verklaring behorend bij offertenummer [nummer] ,
+
+opgenomen op pagina 2836.
+
+49 Proces-verbaal van bevindingen analyse geldstromen d.d. 15 januari 2018, opgenomen op pagina 2793
+
+e.v.
+
+50 Proces-verbaal van bevindingen verdenking hypotheekfraude d.d. 10 mei 2018, opgenomen op pagina
+
+2815 e.v.
+
+51 Proces-verbaal van bevindingen analyse geldstromen d.d. 15 januari 2018, opgenomen op pagina 2793
+
+e.v.; zie de tabel op pagina 2797.
+
+52 Proces-verbaal van verhoor getuige [getuige 1] d.d. 6 augustus 2018, opgenomen op pagina 1373 e.v.
+
+53 Proces-verbaal van verhoor getuige [getuige 7] d.d. 24 juni 2018, opgenomen op pagina 1373 e.v.
+
+54 Proces-verbaal van verhoor getuige [getuige 2] d.d. 21 augustus 2018, opgenomen op pagina 1393 e.v.
+
+55 Proces-verbaal van verhoor verdachte d.d. 19 juni 2018, opgenomen op pagina 4024 e.v.
+
+56 Proces-verbaal Analyse geldstromen [bedrijf 4] d.d. 5 december 2017, opgenomen op pagina 3141 e.v.
+
+57 Proces-verbaal van bevindingen betalingen [bedrijf 4] d.d. 13 juni 2018, opgenomen op pagina 3190 e.v.
+
+58 Een overig schriftelijk bescheid, te weten een factuur d.d. 6 oktober 2017, opgenomen op pagina 3181.
+
+59 Proces-verbaal van verhoor getuige [getuige 8] d.d. 18 oktober 2018, opgenomen op pagina 3255 e.v.
+
+60 Proces-verbaal van verhoor getuige [naam 19] d.d. 21 december 2018, opgenomen op pagina 3341 e.v.
+
+61 Een overig schriftelijk bescheid, te weten een factuur d.d. 6 oktober 2017, opgenomen op pagina 3182.
+
+62 Proces-verbaal van verhoor getuige [getuige 9] d.d. 18 oktober 2018, opgenomen op pagina 3369 e.v.
+
+63 Proces-verbaal van verhoor getuige [getuige 10] d.d. 24 oktober 2018, opgenomen op pagina 3386 e.v.
+
+64 Proces-verbaal van verhoor getuige [naam 19] d.d. 17 december 2018, opgenomen op pagina 3341 e.v.
