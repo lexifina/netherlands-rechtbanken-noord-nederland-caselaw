@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:546"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/534", "Sdu Nieuws Belastingzaken 2024/261", "NLF 2024/0630", "NDFR Nieuws 2024/495", "Belastingadvies 2024/9.1", "V-N 2024/26.3 met annotatie van Redactie", "Viditax (FutD) 2024030802", "FutD 2024-0648"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/534", "Sdu Nieuws Belastingzaken 2024/261", "NLF 2024/0630", "NDFR Nieuws 2024/495", "Belastingadvies 2024/9.1", "V-N 2024/26.3", "Viditax (FutD) 2024030802", "FutD 2024-0648"]
 ---
 
 # ECLI:NL:RBNNE:2024:546 Rechtbank Noord-Nederland , 22-02-2024 / 22/2379 en 22/2380
