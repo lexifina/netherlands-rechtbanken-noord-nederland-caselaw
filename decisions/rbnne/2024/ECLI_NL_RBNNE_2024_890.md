@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:890"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/614", "NDFR Nieuws 2024/550", "NLF 2024/0747", "NTFR 2024/641 met annotatie van Mr. dr. C. Bruijsten", "V-N 2024/26.2.1", "Viditax (FutD) 2024031912", "FutD 2024-0732"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:2009, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2024:890 Rechtbank Noord-Nederland , 08-03-2024 / 22/3642
