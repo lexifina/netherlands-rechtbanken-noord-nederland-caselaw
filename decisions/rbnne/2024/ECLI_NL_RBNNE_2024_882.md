@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:882"
 published_in: ["Rechtspraak.nl", "M en R 2024/52 met annotatie van J.H.N. Ypinga"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1705, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2024:882 Rechtbank Noord-Nederland , 12-03-2024 / 21-1654
