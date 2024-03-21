@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:993"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:2627"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-077a.md", "netherlands/national/acts/wetboek-van-strafrecht/art-077g.md", "netherlands/national/acts/wetboek-van-strafrecht/art-077gg.md", "netherlands/national/acts/wetboek-van-strafrecht/art-077i.md", "netherlands/national/acts/wetboek-van-strafrecht/art-077s.md", "netherlands/national/acts/wetboek-van-strafrecht/art-282.md", "netherlands/national/acts/wetboek-van-strafrecht/art-285.md", "netherlands/national/acts/wetboek-van-strafrecht/art-288.md", "netherlands/national/acts/wetboek-van-strafrecht/art-300.md", "netherlands/national/acts/wetboek-van-strafrecht/art-312.md", "netherlands/national/acts/wetboek-van-strafrecht/art-317.md"]
 ---
 
