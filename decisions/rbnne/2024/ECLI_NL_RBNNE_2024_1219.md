@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:1219"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4435, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2024:1219 Rechtbank Noord-Nederland , 04-04-2024 / LEE 23/1908
