@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:1556"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/974", "NLF 2024/1121", "NDFR Nieuws 2024/851", "NTFR 2024/971 met annotatie van mr. V. Sathananthan", "Belastingblad 2024/216 met annotatie van J.A. MONSMA", "Viditax (FutD) 2024042907", "FutD 2024-1111"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6508, Overig"]]
 ---
 
 # ECLI:NL:RBNNE:2024:1556 Rechtbank Noord-Nederland , 18-04-2024 / LEE 23/52 tot en met 23/55
