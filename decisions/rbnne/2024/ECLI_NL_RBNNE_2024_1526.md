@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:1526"
 published_in: ["Rechtspraak.nl", "Notamail 2024/130", "V-N Vandaag 2024/1206", "Sdu Nieuws Belastingzaken 2024/643", "NDFR Nieuws 2024/1031", "NLF 2024/1379", "NTFR 2024/1188 met annotatie van drs. R. van Haperen", "V-N 2024/32.2.1", "Viditax (FutD) 2024060302", "FutD 2024-1326", "Belastingadvies 2024/23.4"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3198, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2024:1526 Rechtbank Noord-Nederland , 25-04-2024 / LEE 23/3612
