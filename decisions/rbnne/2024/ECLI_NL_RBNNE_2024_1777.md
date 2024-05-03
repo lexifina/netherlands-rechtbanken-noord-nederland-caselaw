@@ -21,8 +21,6 @@ Einduitspraak. Een toezichthouder heeft geconcludeerd dat voor het reclameframe 
 
 Ten aanzien van het herstelbesluit van 19 januari 2024 is de rechtbank van oordeel dat het beroep ongegrond is. Zij is van oordeel dat het college het gebrek heeft hersteld dat in de tussenuitspraak is geconstateerd. Ten aanzien van het ingetrokken besluit op bezwaar van 26 juli 2022 is de rechtbank van oordeel dat het beroep niet-ontvankelijk is omdat [eiseres] daar geen belang meer bij heeft.
 
-Bij verschil tussen de inhoudsindicatie en de tekst van de uitspraak, is de tekst van de uitspraak beslissend.
-
 ## Uitspraak
 
 RECHTBANK NOORD-NEDERLAND
