@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:2483"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1488", "Sdu Nieuws Belastingzaken 2024/805", "NDFR Nieuws 2024/1236", "NLF 2024/1680", "NTFR 2024/1303 met annotatie van Drs. C. Verweij", "V-N 2024/40.2.1", "Viditax (FutD) 2024070901", "FutD 2024-1567"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2025:8444, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2024:2483 Rechtbank Noord-Nederland , 02-07-2024 / 23/2011
