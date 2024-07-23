@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Huurovereenkomst tot stand gekomen. Niet rechtsgeldig opgezegd. Artikel 160 lid 1 Gemeentewet. Artikel 6:23 BW: beletten vervulling voorwaarde. Redelijkheid en billijkheid.
+Huurovereenkomst tot stand gekomen. Niet rechtsgeldig opgezegd. Artikel 160 lid 1 Gemeentewet. Artikel 6:23 BW: beletten vervulling voorwaarde. Redelijkheid en billijkheid.
 
 ## Uitspraak
 
