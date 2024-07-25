@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:2861"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/868", "NLF 2024/1782", "V-N Vandaag 2024/1652", "NDFR Nieuws 2024/1347", "V-N 2024/44.2.3", "Viditax (FutD) 2024072908", "FutD 2024-1700"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4496, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2024:2861 Rechtbank Noord-Nederland , 25-07-2024 / LEE 22/4287
