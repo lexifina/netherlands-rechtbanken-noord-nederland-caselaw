@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:3437"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1037, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2024:3437 Rechtbank Noord-Nederland , 03-09-2024 / LEE 23/2261
