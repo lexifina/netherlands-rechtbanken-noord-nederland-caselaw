@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:3522"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025022709", "FutD 2025-0460", "V-N Vandaag 2025/430", "V-N 2025/16.2.1"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6332, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNNE:2024:3522 Rechtbank Noord-Nederland , 10-09-2024 / LEE 23/5551 en 23/5553
