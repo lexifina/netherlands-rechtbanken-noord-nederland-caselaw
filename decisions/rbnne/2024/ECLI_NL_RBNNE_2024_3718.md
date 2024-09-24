@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:3718"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2076, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2024:3718 Rechtbank Noord-Nederland , 24-09-2024 / 22/3211
