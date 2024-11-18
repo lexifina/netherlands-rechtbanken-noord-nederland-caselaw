@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:4476"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "M en R 2026/44 met annotatie van A. Collignon, M.E.C. Scheurwater"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:615, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBNNE:2024:4476 Rechtbank Noord-Nederland , 18-11-2024 / 22/1345
