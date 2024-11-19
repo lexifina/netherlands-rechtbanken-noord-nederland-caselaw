@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2024:4578"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024112212", "V-N Vandaag 2024/2343", "Sdu Nieuws Belastingzaken 2024/1376", "NLF 2024/2635", "FutD 2024-2482", "NDFR Nieuws 2024/1962", "NTFR 2025/107 met annotatie van Mr. C.C. van den Berg", "V-N 2025/10.15 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024112212", "V-N Vandaag 2024/2343", "Sdu Nieuws Belastingzaken 2024/1376", "NLF 2024/2635", "FutD 2024-2482", "NDFR Nieuws 2024/1962", "NTFR 2025/107 met annotatie van Mr. C.C. van den Berg", "V-N 2025/10.15"]
 ---
 
 # ECLI:NL:RBNNE:2024:4578 Rechtbank Noord-Nederland , 19-11-2024 / LEE 21/1215
