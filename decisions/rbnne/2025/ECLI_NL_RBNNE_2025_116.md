@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:116"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4187"]]
 cites_law: ["netherlands/national/acts/wet-wapens-en-munitie/art-026.md", "netherlands/national/acts/wet-wapens-en-munitie/art-055.md", "netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "netherlands/national/acts/wetboek-van-strafrecht/art-287.md", "netherlands/national/acts/wetboek-van-strafrecht/art-302.md"]
 ---
 
