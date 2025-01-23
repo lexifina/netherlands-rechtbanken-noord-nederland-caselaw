@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Geheimhoudingsbeslissing"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:261"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012908", "V-N Vandaag 2025/167", "FutD 2025-0250", "NLF 2025/0296", "V-N 2025/7.25.26", "NDFR Nieuws 2025/213", "Belastingblad 2025/137 met annotatie van Redactie", "NTFR 2025/548 met annotatie van mr. J.W. Bosman"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012908", "V-N Vandaag 2025/167", "FutD 2025-0250", "NLF 2025/0296", "V-N 2025/7.25.26", "NDFR Nieuws 2025/213", "Belastingblad 2025/137", "NTFR 2025/548 met annotatie van mr. J.W. Bosman"]
 ---
 
 # ECLI:NL:RBNNE:2025:261 Rechtbank Noord-Nederland , 23-01-2025 / AWB - 24 _ 521
