@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:321"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/286", "NDFR Nieuws 2025/405", "NTFR 2025/499 met annotatie van mr. I. van Wijk"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/286", "NDFR Nieuws 2025/405", "NTFR 2025/499 met annotatie van mr. I. van Wijk", "V-N 2025/29.2.1"]
 ---
 
 # ECLI:NL:RBNNE:2025:321 Rechtbank Noord-Nederland , 28-01-2025 / 23/5264
