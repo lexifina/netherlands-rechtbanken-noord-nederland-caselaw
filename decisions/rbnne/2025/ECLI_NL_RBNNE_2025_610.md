@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:610"
 published_in: ["Rechtspraak.nl", "Notamail 2025/57", "JERF Actueel 2025/131", "ERF-Updates.nl 2025-0182", "VEAN-ERF-Updates.nl 2025-0182", "Sdu Nieuws Personen- en familierecht 2025/161"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4549"]]
 ---
 
 # ECLI:NL:RBNNE:2025:610 Rechtbank Noord-Nederland , 05-02-2025 / C/19/142019 / HA ZA 22-191
