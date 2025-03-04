@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:5918"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0265", "JERF Actueel 2026/125"]
 ---
 
 # ECLI:NL:RBNNE:2025:5918 Rechtbank Noord-Nederland , 04-03-2025 / 11205021 \ CV EXPL  24-3780
