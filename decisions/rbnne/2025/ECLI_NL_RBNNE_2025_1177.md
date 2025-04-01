@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:1177"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5920, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2025:1177 Rechtbank Noord-Nederland , 01-04-2025 / 24/2075
