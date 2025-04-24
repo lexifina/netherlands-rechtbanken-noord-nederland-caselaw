@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:1622"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2025/66"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5662, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2025:1622 Rechtbank Noord-Nederland , 24-04-2025 / LEE 24/261
