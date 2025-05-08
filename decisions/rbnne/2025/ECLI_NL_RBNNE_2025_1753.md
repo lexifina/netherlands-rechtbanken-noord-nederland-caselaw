@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:1753"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:6363"]]
 ---
 
 # ECLI:NL:RBNNE:2025:1753 Rechtbank Noord-Nederland , 08-05-2025 / 11629961 \ VV EXPL  25-28
