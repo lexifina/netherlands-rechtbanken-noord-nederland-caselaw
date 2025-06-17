@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verstek"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:5735"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2026/22", "ERF-Updates.nl 2026-0043", "VEAN-ERF-Updates.nl 2026-0043"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2026/22", "ERF-Updates.nl 2026-0043", "VEAN-ERF-Updates.nl 2026-0043", "JERF 2026/105 met annotatie van dr. mr. E.A.G. Schagen"]
 ---
 
 # ECLI:NL:RBNNE:2025:5735 Rechtbank Noord-Nederland , 17-06-2025 / 11664722 CV EXPL 25-2309
