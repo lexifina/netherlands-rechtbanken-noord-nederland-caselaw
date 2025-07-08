@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie: Verdachte heeft zich schuldig gemaakt aan het mishandelen van twee vrouwen door hen heimelijk te drogeren. Terwijl de slachtoffers als gevolg daarvan in verminderde toestand van bewustzijn waren, heeft verdachte met het ene slachtoffer ontucht gepleegd en het andere slachtoffer met zijn penis vaginaal gepenetreerd. Gevangenisstraf van 30 maanden waarvan 12 maanden voorwaardelijk met een proeftijd van vijf jaren en bijzondere voorwaarden, waaronder een behandelverlplichting.
+Verdachte heeft zich schuldig gemaakt aan het mishandelen van twee vrouwen door hen heimelijk te drogeren. Terwijl de slachtoffers als gevolg daarvan in verminderde toestand van bewustzijn waren, heeft verdachte met het ene slachtoffer ontucht gepleegd en het andere slachtoffer met zijn penis vaginaal gepenetreerd. Gevangenisstraf van 30 maanden waarvan 12 maanden voorwaardelijk met een proeftijd van vijf jaren en bijzondere voorwaarden, waaronder een behandelverlplichting.
 
 ## Uitspraak
 
