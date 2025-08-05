@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBNNE:2025:3198"
 court: "Rechtbank Noord-Nederland"
 court_code: "RBNNE"
 docket: "25/2573 en 25/2574"
-decided: "2025-08-06"
+decided: "2025-08-05"
 published: "2025-08-05"
 type: "uitspraak"
 procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:3198"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1526"]]
 ---
 
-# ECLI:NL:RBNNE:2025:3198 Rechtbank Noord-Nederland , 06-08-2025 / 25/2573 en 25/2574
+# ECLI:NL:RBNNE:2025:3198 Rechtbank Noord-Nederland , 05-08-2025 / 25/2573 en 25/2574
 
 ## Inhoudsindicatie
 
