@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:3601"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0179"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0179", "FJR 2026/46.60"]
 ---
 
 # ECLI:NL:RBNNE:2025:3601 Rechtbank Noord-Nederland , 15-08-2025 / C/18/245146 / FA RK 25-2157
