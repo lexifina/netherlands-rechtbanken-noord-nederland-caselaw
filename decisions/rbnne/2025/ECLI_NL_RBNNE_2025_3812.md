@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:3812"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5236"]]
 ---
 
 # ECLI:NL:RBNNE:2025:3812 Rechtbank Noord-Nederland , 12-09-2025 / 25-2592 en 25-2919
