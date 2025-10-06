@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:4074"
 published_in: ["Rechtspraak.nl", "JV 2025/268"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2356, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNNE:2025:4074 Rechtbank Noord-Nederland , 06-10-2025 / LEE 25/3040 en LEE 25/3041
