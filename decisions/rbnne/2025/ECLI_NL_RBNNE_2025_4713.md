@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:4713"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/68"]
 ---
 
 # ECLI:NL:RBNNE:2025:4713 Rechtbank Noord-Nederland , 04-11-2025 / C/18/247655 / KG ZA 25-145
