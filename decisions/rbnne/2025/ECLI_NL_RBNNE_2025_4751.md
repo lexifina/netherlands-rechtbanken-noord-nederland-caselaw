@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:4751"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021903", "V-N Vandaag 2026/325", "FutD 2026-0329", "NDFR Nieuws 2026/371", "V-N 2026/12.23 met annotatie van Redactie", "NTFR 2026/528 met annotatie van mr. J. Hollander"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021903", "V-N Vandaag 2026/325", "FutD 2026-0329", "NDFR Nieuws 2026/371", "V-N 2026/12.23 met annotatie van Redactie", "NTFR 2026/528 met annotatie van mr. J. Hollander", "Belastingblad 2026/170 met annotatie van J.G.E. Gieskes"]
 ---
 
 # ECLI:NL:RBNNE:2025:4751 Rechtbank Noord-Nederland , 18-11-2025 / LEE 24/2618
