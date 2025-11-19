@@ -1,0 +1,100 @@
+---
+ecli: "ECLI:NL:RBNNE:2025:4792"
+court: "Rechtbank Noord-Nederland"
+court_code: "RBNNE"
+docket: "25-007647"
+decided: "2025-11-19"
+published: "2025-11-24"
+type: "uitspraak"
+procedure: "Raadkamer"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:4792"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNNE:2025:4792 Rechtbank Noord-Nederland , 19-11-2025 / 25-007647
+
+## Inhoudsindicatie
+
+Beroep op artikel 39 WWETGC. Overwegingen over het procesvertegenwoordiging. De rechtbank heeft het beroep ongegrond verklaard, omdat de rechtbank -mede gelet op de onderliggende stukken- geen twijfels heeft over of het certificaat juist en volledig is ingevuld. Het opvragen van nadere informatie hieromtrent is niet nodig.
+
+## Uitspraak
+
+RECHTBANK NOORD-NEDERLAND
+Strafrecht
+
+Zittingsplaats Leeuwarden
+
+raadkamernummer : 25-007647
+
+cjib-zaaknummer : 4072542300000455
+
+beslissing van de meervoudige raadkamer van 19 november 2025 op het beroep op grond van artikel 39 van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie, ingesteld door:
+
+[veroordeelde] ,
+
+geboren op [geboortedatum] 1987 te [geboorteplaats] , thans gedetineerd in [instelling] ,
+
+hierna te noemen: veroordeelde.
+
+Procesverloop
+
+Op 24 maart 2025 heeft mr. E. van de Rakt, advocaat te Breda, namens veroordeelde beroep ingesteld tegen de op 27 februari 2025 door de officier van justitie genomen beslissing tot erkenning en tenuitvoerlegging van een op 28 november 2016 door de rechtbank van eerste aanleg Antwerpen, afdeling Turnhout, kamer TC3, te België, opgelegde beslissing tot confiscatie (bijzondere verbeurdverklaring) van een bedrag van 23.280,--.
+
+De raadsvrouw en de officier van justitie hebben schriftelijk hun standpunten uiteengezet.
+
+De mondeling behandeling heeft plaatsgevonden ter terechtzitting van 5 november 2025. Hierbij waren aanwezig de raadsvrouw en de officier van justitie, mr. S.M. von Bartheld.
+
+Motivering
+
+De rechtbank stelt op basis van de stukken het volgende vast.
+
+Het beroep is ingesteld op grond van artikel 39 van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie (hierna: WWETGC).
+
+De rechtbank Noord-Nederland, locatie Leeuwarden, is de bevoegde instantie voor de behandeling van het beroep en het beroep is tijdig en juist ingesteld.
+
+De toetsing van het beroep vindt plaats op grond van de op 19 december 2020 in werking getreden Verordening (EU) 2018/1805 van het Europees parlement en de Raad van 14 november 2018 (hierna: Verordening 2018/1805) en op grond van het op 19 december 2020 in werking getreden artikel 39 van de WWETGC.
+
+De rechtbank overweegt dat als uitgangspunten voor de beoordeling van een beroep op grond van artikel 39 van de WWETGC het volgende geldt:
+
+de rechtbank moet toetsen of de officier van justitie in redelijkheid tot zijn beslissing tot erkenning heeft kunnen komen;
+
+de officier van justitie mag bij zijn beoordeling niet treden in het in het buitenland gevoerde rechtsgeding en de in het buitenland genomen beslissingen;
+
+de rechtbank mag bij haar beoordeling evenmin treden in het in het buitenland gevoerde rechtsgeding en de in het buitenland genomen beslissingen.
+
+Standpunt veroordeelde
+
+Namens veroordeelde heeft de raadsvrouw primair aangevoerd dat de erkenning van het confiscatiebevel door de officier van justitie geweigerd had moeten worden, omdat er gehandeld is in strijd met artikel 19 lid 1 sub g van de Verordening 2018/1805. Veroordeelde
+
+is bij de behandeling van zijn zaak in België niet persoonlijk verschenen en geen van de uitzonderingsgronden zoals vermeld in onderdeel I, II of III van het confiscatiecertificaat is van toepassing. Veroordeelde heeft nauwelijks contact gehad met de advocaat. Hij wist niet welke verdediging werd gevoerd en is door de advocaat geïnformeerd over de straf, maar niet omtrent de confiscatie. Hij kon hierdoor geen weloverwogen beslissing maken of hij in hoger beroep wilde. Dit kan daarom niet als een effectieve verdediging worden beschouwd, zodat het recht van veroordeelde op een eerlijk proces, zoals neergelegd in artikel 6 lid 1 van het Europees Verdrag voor de Rechten van de Mens en de fundamentele vrijheden (EVRM), is geschonden en inbreuk wordt gemaakt op het aanwezigheidsrecht van veroordeelde zoals geformuleerd in het derde lid van dit artikel.
+
+Subsidiair heeft de raadsvrouw verzocht de behandeling van het beroep aan te houden teneinde het openbaar ministerie nadere inlichtingen te laten inwinnen in België omtrent de procesvertegenwoordiging.
+
+Standpunt officier van justitie
+
+Door de officier van justitie is gemotiveerd aangevoerd waarom geen sprake is van een weigeringsgrond en dat het verweer moet worden verworpen. Ook verzet hij zich tegen aanhouding van de behandeling voor het opvragen van nadere inlichtingen.
+
+Het confiscatiebevel is door de Belgische autoriteiten ingevuld en gelet op het vertrouwensbeginsel moet ervan uitgegaan worden dat de informatie die hierin is opgenomen juist is. Er zijn ook geen aanwijzingen om hieraan te twijfelen. In het confiscatiecertificaat is ingevuld dat veroordeelde op de hoogte was van de zitting, dat hij een advocaat heeft gemachtigd zijn verdediging ter zitting te voeren en dat hij ter zitting ook daadwerkelijk door een advocaat is verdedigd. Deze informatie wordt bevestigd door het bijgevoegde confiscatiebevel. De officier van justitie kon in redelijkheid tot erkenning van het confiscatiebevel overgaan.
+
+Oordeel rechtbank
+
+De rechtbank overweegt dat in beginsel uitgegaan moet worden van de inhoud van het confiscatiecertificaat, zoals dit door de uitvaardigende lidstaat is ingevuld. Als bijlage is het confiscatiebevel toegevoegd. De informatie uit het confiscatiebevel komt overeen met de informatie uit het confiscatiecertificaat. De rechtbank heeft daarom geen aanleiding om te twijfelen aan het confiscatiecertificaat inhoudende dat veroordeelde gebruik heeft gemaakt van zijn aanwezigheidsrecht door zich te laten vertegenwoordigen door een advocaat. Bovendien heeft de verdediging aangegeven dat er contact is geweest tussen de advocaat genoemd in het confiscatiebevel, mr. Boermans, en veroordeelde. Ook hieruit blijkt dat veroordeelde op de hoogte was van de procedure tegen hem.
+
+Uit het confiscatiecertificaat blijkt dat het confiscatiebevel op 2 januari 2017 onherroepelijk is geworden. De opgelegde beslissing tot confiscatie van een bedrag van 23.280,-- is hiermee onherroepelijk geworden. Dat veroordeelde geen gebruik heeft gemaakt van zijn recht om in hoger beroep te gaan is geen reden om aan te nemen dat veroordeelde geen recht heeft gehad op een eerlijk proces.
+
+Gelet op het voorgaande acht de rechtbank het niet nodig om nadere inlichtingen in te laten winnen in de uitvaardigende lidstaat omtrent de procesvertegenwoordiging. Het verzoek tot aanhouding van de behandeling wordt daarom afgewezen.
+
+De rechtbank verwerpt het verweer en is van oordeel dat de officier van justitie in redelijkheid tot erkenning van de confiscatiebeslissing heeft kunnen komen. De rechtbank acht ambtshalve geen weigeringsgronden aanwezig.
+
+De rechtbank zal het ingestelde beroep daarom ongegrond verklaren.
+
+Beslissing
+
+De rechtbank wijst het verzoek tot aanhouding van de behandeling af.
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze beslissing is gegeven op 19 november 2025 door mr. J.G.W. Lootsma-Oude Nijeweme, voorzitter, mr.
+
+W.S. Sikkema en mr. G.C. Koelman, rechters, in tegenwoordigheid van G.T. Zandstra-Alkema, griffier.
