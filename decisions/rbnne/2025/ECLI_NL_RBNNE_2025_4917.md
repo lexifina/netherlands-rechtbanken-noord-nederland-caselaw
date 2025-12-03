@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:4917"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "EeR 2026/14, p.79"]
 ---
 
 # ECLI:NL:RBNNE:2025:4917 Rechtbank Noord-Nederland , 03-12-2025 / LEE 23/2811
