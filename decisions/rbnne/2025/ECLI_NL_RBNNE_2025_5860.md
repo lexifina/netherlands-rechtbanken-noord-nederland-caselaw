@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:5860"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/63"]
 ---
 
 # ECLI:NL:RBNNE:2025:5860 Rechtbank Noord-Nederland , 09-12-2025 / 11695302 \ CV EXPL  25-2807
