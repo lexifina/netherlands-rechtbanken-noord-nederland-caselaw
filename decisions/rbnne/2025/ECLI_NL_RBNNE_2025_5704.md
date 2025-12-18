@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2025:5704"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2026/42 met annotatie van K. Han"]
 ---
 
 # ECLI:NL:RBNNE:2025:5704 Rechtbank Noord-Nederland , 18-12-2025 / C/19/154084 / KG ZA 25-152
