@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:129"
-published_in: ["Rechtspraak.nl", "JM 2026/34 met annotatie van mr. P.B. Bokelaar"]
+published_in: ["Rechtspraak.nl", "JM 2026/34 met annotatie van mr. P.B. Bokelaar", "M en R 2026/69 met annotatie van M.G.W.M. Peeters"]
 ---
 
 # ECLI:NL:RBNNE:2026:129 Rechtbank Noord-Nederland , 12-01-2026 / 23-1511
