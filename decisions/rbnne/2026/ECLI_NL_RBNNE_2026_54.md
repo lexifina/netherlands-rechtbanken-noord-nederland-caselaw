@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:54"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/82 met annotatie van Th. Gardenbroek"]
 ---
 
 # ECLI:NL:RBNNE:2026:54 Rechtbank Noord-Nederland , 13-01-2026 / 11427759 \ CV EXPL  24-8050
