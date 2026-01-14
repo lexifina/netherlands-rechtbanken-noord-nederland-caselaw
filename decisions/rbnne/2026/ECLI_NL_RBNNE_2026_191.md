@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:191"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/80 met annotatie van mr. H.S. de Vries"]
 ---
 
 # ECLI:NL:RBNNE:2026:191 Rechtbank Noord-Nederland , 14-01-2026 / LEE23/1396
