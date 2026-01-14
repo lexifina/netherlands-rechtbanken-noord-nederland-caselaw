@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:46"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0095", "VAAN-AR-Updates.nl 2026-0095", "Sdu Nieuws Arbeidsrecht 2026/29", "PR-Updates.nl 2026-0042"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0095", "VAAN-AR-Updates.nl 2026-0095", "Sdu Nieuws Arbeidsrecht 2026/29", "PR-Updates.nl 2026-0042", "Jurisprudentie HSE 2026/5"]
 ---
 
 # ECLI:NL:RBNNE:2026:46 Rechtbank Noord-Nederland , 14-01-2026 / 11856008 \ AR VERZ 25-56
