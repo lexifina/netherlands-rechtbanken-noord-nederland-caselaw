@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:94"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Gst. 2026/112 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBNNE:2026:94 Rechtbank Noord-Nederland , 19-01-2026 / C/18/251143 / KG ZA 25-217
