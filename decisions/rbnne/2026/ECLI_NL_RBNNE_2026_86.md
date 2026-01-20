@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:86"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/546", "NDFR Nieuws 2026/513", "V-N 2026/16.2.2"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/546", "NDFR Nieuws 2026/513", "V-N 2026/16.2.2", "NTFR 2026/879 met annotatie van mr. W. Verstijnen"]
 ---
 
 # ECLI:NL:RBNNE:2026:86 Rechtbank Noord-Nederland , 20-01-2026 / LEE 25/1255
