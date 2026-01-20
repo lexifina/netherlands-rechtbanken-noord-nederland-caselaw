@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:87"
-published_in: ["Rechtspraak.nl", "Notamail 2026/16", "V-N Vandaag 2026/108", "Viditax (FutD) 2026012601", "FutD 2026-0177", "NLF 2026/0192", "TBR 2026/33 met annotatie van M.A. Bonthuis-Broekman"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/16", "V-N Vandaag 2026/108", "Viditax (FutD) 2026012601", "FutD 2026-0177", "NLF 2026/0192", "TBR 2026/33 met annotatie van M.A. Bonthuis-Broekman", "Belastingadvies 2026/7.3"]
 ---
 
 # ECLI:NL:RBNNE:2026:87 Rechtbank Noord-Nederland , 20-01-2026 / LEE 25/1248
