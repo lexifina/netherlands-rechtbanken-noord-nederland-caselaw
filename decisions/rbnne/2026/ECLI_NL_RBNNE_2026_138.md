@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:138"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/248", "NDFR Nieuws 2026/303", "NLF 2026/0292 met annotatie van mr. ing. S.F. Griessen", "NTFR 2026/444 met annotatie van mr. A. Dinée", "Belastingblad 2026/130 met annotatie van G. Groenewegen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/248", "NDFR Nieuws 2026/303", "NLF 2026/0292 met annotatie van mr. ing. S.F. Griessen", "NTFR 2026/444 met annotatie van mr. A. Dinée", "Belastingblad 2026/130 met annotatie van G. Groenewegen", "V-N 2026/39.18.17"]
 ---
 
 # ECLI:NL:RBNNE:2026:138 Rechtbank Noord-Nederland , 22-01-2026 / 24/2447
