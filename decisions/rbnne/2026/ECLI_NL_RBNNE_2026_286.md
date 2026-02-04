@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:286"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0205", "TAR 2026/10"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0205", "TAR 2026/10", "Jurisprudentie HSE 2026/12"]
 ---
 
 # ECLI:NL:RBNNE:2026:286 Rechtbank Noord-Nederland , 04-02-2026 / 12012097 \ VV EXPL 25-90
