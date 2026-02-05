@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:824"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/101"]
 cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "netherlands/national/acts/wetboek-van-strafrecht/art-241.md", "netherlands/national/acts/wetboek-van-strafrecht/art-310.md", "netherlands/national/acts/wetboek-van-strafrecht/art-312.md"]
 ---
 
