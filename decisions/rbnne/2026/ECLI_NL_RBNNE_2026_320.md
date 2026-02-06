@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:320"
-published_in: ["Rechtspraak.nl", "GJ 2026/25"]
+published_in: ["Rechtspraak.nl", "GJ 2026/25", "JAAN 2026/114 met annotatie van mr. dr. A.J. van Heeswijck"]
 ---
 
 # ECLI:NL:RBNNE:2026:320 Rechtbank Noord-Nederland , 06-02-2026 / C/18/250503 / KG ZA 25-200
