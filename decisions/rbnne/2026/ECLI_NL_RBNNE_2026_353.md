@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wet-wapens-en-munitie/art-026.md", "nethe
 
 ## Inhoudsindicatie
 
-Geen inhoudsindicatie.
+Poging tot doodslag. Voorwaardelijke opzet. Geen noodweer of noodweerexces. Gevangenisstraf voor de duur van 48 maanden.
 
 ## Uitspraak
 
