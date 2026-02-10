@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1316"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0634", "AR-Updates.nl 2026-0634"]
 ---
 
 # ECLI:NL:RBNNE:2026:1316 Rechtbank Noord-Nederland , 10-02-2026 / 11993639 \ AR VERZ  25-97
