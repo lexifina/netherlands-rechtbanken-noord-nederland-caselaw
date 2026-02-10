@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:547"
-published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0053", "Omgevingswet VTH 2026/548"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0053", "Omgevingswet VTH 2026/548", "BR 2026/41 met annotatie van C.C. van Druten, J.H.N. Ypinga", "Module Ruimtelijke Ordening 2026/8838 met annotatie van M.G.O. de Lange"]
 ---
 
 # ECLI:NL:RBNNE:2026:547 Rechtbank Noord-Nederland , 10-02-2026 / LEE 25/225
