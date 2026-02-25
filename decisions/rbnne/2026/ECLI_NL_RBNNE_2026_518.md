@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:518"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/184"]
 ---
 
 # ECLI:NL:RBNNE:2026:518 Rechtbank Noord-Nederland , 25-02-2026 / C/17/199097 / HA ZA 25-60
