@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:778"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/73 met annotatie van mr. S. Pieters"]
 ---
 
 # ECLI:NL:RBNNE:2026:778 Rechtbank Noord-Nederland , 12-03-2026 / LEE 25/289
