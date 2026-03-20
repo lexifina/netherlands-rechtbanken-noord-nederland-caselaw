@@ -17,7 +17,7 @@ cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-057.md", "neth
 
 ## Inhoudsindicatie
 
-Veroordeeld ter zake het teweegbrengen van een explosie door middel van een stuk zwaar vuurwerk, geen levensgevaar, wel gevaar voor zwaar lichamelijk letsel en goederen, voorwaardelijke gevangenisstraf, taakstraf, langdurig conflict.
+Veroordeeld ter zake verduistering, diefstal door middel van een valse sleutel, schuldheling, deels ontkennend, ISD maatregel
 
 ## Uitspraak
 
