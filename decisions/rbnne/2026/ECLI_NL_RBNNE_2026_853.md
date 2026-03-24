@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:853"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/276 met annotatie van A.P. Monsma"]
 ---
 
 # ECLI:NL:RBNNE:2026:853 Rechtbank Noord-Nederland , 24-03-2026 / LEE 24/3616, 26/470 en 26/471
