@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1253"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/709", "NTFR 2026/969"]
 ---
 
 # ECLI:NL:RBNNE:2026:1253 Rechtbank Noord-Nederland , 24-03-2026 / LEE 25/3319
