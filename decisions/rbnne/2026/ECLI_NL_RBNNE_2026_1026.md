@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1026"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/118"]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-530.md", "netherlands/national/acts/wetboek-van-strafvordering/art-533.md"]
 ---
 
