@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:912"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/525"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/525", "NTFR 2026/825 met annotatie van mr. H.A.S. Roozeboom"]
 ---
 
 # ECLI:NL:RBNNE:2026:912 Rechtbank Noord-Nederland , 26-03-2026 / AWB_LEE_25-497
