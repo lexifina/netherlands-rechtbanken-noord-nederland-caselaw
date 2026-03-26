@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:994"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040902", "NDFR Nieuws 2026/598", "FutD 2026-0694"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040902", "NDFR Nieuws 2026/598", "FutD 2026-0694", "Belastingblad 2026/198 met annotatie van R.T. Wiegerink", "NTFR 2026/860 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBNNE:2026:994 Rechtbank Noord-Nederland , 26-03-2026 / LEE 24/1727
