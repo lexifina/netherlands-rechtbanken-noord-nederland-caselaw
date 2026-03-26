@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:980"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/285 met annotatie van R.J. Kunst"]
 ---
 
 # ECLI:NL:RBNNE:2026:980 Rechtbank Noord-Nederland , 26-03-2026 / AWB_LEE 24/154
