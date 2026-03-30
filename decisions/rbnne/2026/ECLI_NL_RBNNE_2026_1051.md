@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1051"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/622", "JM 2026/74 met annotatie van J.K. van de Poel", "JBO 2026/16 met annotatie van Redactie", "M en R 2026/82 met annotatie van E. Broeren"]
 ---
 
 # ECLI:NL:RBNNE:2026:1051 Rechtbank Noord-Nederland , 30-03-2026 / LEE 25/5237
