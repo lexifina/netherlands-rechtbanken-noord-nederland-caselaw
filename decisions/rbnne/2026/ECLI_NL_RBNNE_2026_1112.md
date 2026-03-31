@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1112"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/809"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/809", "V-N 2026/29.34.41"]
 ---
 
 # ECLI:NL:RBNNE:2026:1112 Rechtbank Noord-Nederland , 31-03-2026 / 25/408
