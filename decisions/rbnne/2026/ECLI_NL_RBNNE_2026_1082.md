@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1082"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.38"]
 ---
 
 # ECLI:NL:RBNNE:2026:1082 Rechtbank Noord-Nederland , 01-04-2026 / C/18/248493 / FA RK 25-4513
