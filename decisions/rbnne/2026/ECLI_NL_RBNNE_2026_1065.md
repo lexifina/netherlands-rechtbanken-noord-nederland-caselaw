@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verschoning"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1065"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/151"]
 ---
 
 # ECLI:NL:RBNNE:2026:1065 Rechtbank Noord-Nederland , 01-04-2026 / C/18/254421 / KG RK 26/208
