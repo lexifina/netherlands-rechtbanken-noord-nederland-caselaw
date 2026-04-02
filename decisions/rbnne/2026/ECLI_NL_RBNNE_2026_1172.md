@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste en enige aanleg"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1172"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0092"]
 ---
 
 # ECLI:NL:RBNNE:2026:1172 Rechtbank Noord-Nederland , 02-04-2026 / C/18/253884 / FT RK 26/84
