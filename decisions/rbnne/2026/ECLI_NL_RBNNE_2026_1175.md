@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1175"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0091"]
 ---
 
 # ECLI:NL:RBNNE:2026:1175 Rechtbank Noord-Nederland , 02-04-2026 / C/18/253211 /FT EA 26-33
