@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1119"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/261 met annotatie van J.C. Scherff"]
 ---
 
 # ECLI:NL:RBNNE:2026:1119 Rechtbank Noord-Nederland , 09-04-2026 / LEE 25/914
