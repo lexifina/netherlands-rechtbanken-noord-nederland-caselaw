@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1201"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VR 2026/90"]
 cites_law: ["netherlands/national/acts/wegenverkeerswet-1994/art-006.md", "netherlands/national/acts/wegenverkeerswet-1994/art-175.md", "netherlands/national/acts/wegenverkeerswet-1994/art-179.md"]
 ---
 
