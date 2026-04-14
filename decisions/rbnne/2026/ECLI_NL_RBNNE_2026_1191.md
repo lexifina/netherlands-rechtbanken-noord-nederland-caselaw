@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Strafrecht; Strafprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1191"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0069", "GJ 2026/58 met annotatie van mr. C.W.M. Verberne"]
 ---
 
 # ECLI:NL:RBNNE:2026:1191 Rechtbank Noord-Nederland , 14-04-2026 / 18-024181-25
