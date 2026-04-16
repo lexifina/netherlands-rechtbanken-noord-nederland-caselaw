@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:1208"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041702", "FutD 2026-0660", "V-N Vandaag 2026/782", "Sdu Nieuws Belastingzaken 2026/535"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041702", "FutD 2026-0660", "V-N Vandaag 2026/782", "Sdu Nieuws Belastingzaken 2026/535", "NDFR Nieuws 2026/651", "NTFR 2026/911 met annotatie van mr. F.R. Andringa", "V-N 2026/31.2.3"]
 ---
 
 # ECLI:NL:RBNNE:2026:1208 Rechtbank Noord-Nederland , 16-04-2026 / LEE 25/1734
